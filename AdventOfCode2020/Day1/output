@@ -1,4 +1,4 @@
-$ # Run from general-repo/AdventOfCode2020/Day1 repo
+$ # Run from general-repo/AdventOfCode2020/Day1 directory
 
 $ python expense_report.py --input-path ./input
 Running the For Loop function...
