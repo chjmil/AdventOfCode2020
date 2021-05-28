@@ -1,0 +1,21 @@
+$ # Run from general-repo/AdventOfCode2020/Day1 repo
+
+$ python expense_report.py --input-path ./input
+Running the For Loop function...
+Found combo: 1917 & 103
+Results:
+Answer: 197451
+Time: 0.0009968280792236328
+
+Running the Search function...
+Found combo: 1917 & 103
+Results:
+Answer: 197451
+Time: 0.0009982585906982422
+
+-----------------PART 2---------------
+Running the For Loop function...
+Found combo: 443 & 232 & 1345
+Results:
+Answer: 138233720
+Time: 0.06270599365234375
