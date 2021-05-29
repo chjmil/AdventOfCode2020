@@ -1,0 +1,282 @@
+Valid Passport: byr:1940 iyr:2017 eyr:2025 hcl:#ceb3a1 ecl:blu pid:561068005 hgt:159cm
+Invalid Format
+Valid Passport: byr:1982 iyr:2011 eyr:2023 hcl:#7d3b0c ecl:blu pid:006632702 hgt:68in
+Invalid iyr: 2028
+Invalid Format
+Valid Passport: byr:1939 iyr:2019 eyr:2027 hcl:#a97842 ecl:gry pid:935099157 hgt:155cm
+Invalid Format
+Invalid Format
+Invalid Format
+Valid Passport: byr:1984 iyr:2016 eyr:2026 hcl:#ceb3a1 ecl:grn pid:863872932 hgt:190cm
+Valid Passport: byr:1966 iyr:2014 eyr:2030 hcl:#efcc98 ecl:hzl pid:894418497 hgt:189cm
+Invalid Format
+Valid Passport: byr:1953 iyr:2010 eyr:2023 hcl:#6b5442 ecl:amb pid:948173962 hgt:166cm
+Invalid Format
+Invalid Format
+Invalid Format
+Invalid Format
+Invalid iyr: 2028
+Valid Passport: byr:1981 iyr:2016 eyr:2020 hcl:#a97842 ecl:amb pid:625590775 hgt:178cm
+Invalid byr: 2014
+Invalid Format
+Invalid Format
+Invalid hcl: z
+Valid Passport: byr:1936 iyr:2016 eyr:2021 hcl:#623a2f ecl:brn pid:868305933 hgt:174cm
+Valid Passport: byr:1940 iyr:2012 eyr:2027 hcl:#2a6308 ecl:grn pid:675209536 hgt:154cm
+Invalid pid: 186cm
+Valid Passport: byr:1927 iyr:2010 eyr:2027 hcl:#623a2f ecl:grn pid:725111435 hgt:177cm
+Valid Passport: byr:1942 iyr:2015 eyr:2028 hcl:#a97842 ecl:hzl pid:801551597 hgt:193cm
+Valid Passport: byr:1932 iyr:2018 eyr:2030 hcl:#6b5442 ecl:amb pid:896180324 hgt:162cm
+Invalid iyr: 1953
+Invalid byr: 2026
+Valid Passport: byr:1925 iyr:2012 eyr:2025 hcl:#602927 ecl:gry pid:303312675 hgt:168cm
+Invalid Format
+Invalid byr: 2026
+Invalid iyr: 2024
+Valid Passport: byr:1997 iyr:2020 eyr:2027 hcl:#ceb3a1 ecl:blu pid:719820090 hgt:165cm
+Valid Passport: byr:1953 iyr:2011 eyr:2025 hcl:#efcc98 ecl:oth pid:241723456 hgt:185cm
+Valid Passport: byr:1936 iyr:2010 eyr:2022 hcl:#623a2f ecl:brn pid:064253102 hgt:156cm
+Invalid pid: #4e4a46
+Valid Passport: byr:1953 iyr:2012 eyr:2020 hcl:#341e13 ecl:grn pid:910793005 hgt:67in
+Invalid iyr: 2024
+Valid Passport: byr:1921 iyr:2019 eyr:2026 hcl:#efcc98 ecl:hzl pid:024916763 hgt:162cm
+Invalid Format
+Valid Passport: byr:1941 iyr:2014 eyr:2022 hcl:#6b5442 ecl:grn pid:610328167 hgt:169cm
+Invalid Format
+Valid Passport: byr:1941 iyr:2017 eyr:2030 hcl:#341e13 ecl:oth pid:907508207 hgt:186cm
+Valid Passport: byr:1925 iyr:2018 eyr:2023 hcl:#a97842 ecl:brn pid:903196231 hgt:159cm
+Invalid Format
+Invalid byr: 2030
+Valid Passport: byr:1972 iyr:2014 eyr:2021 hcl:#602927 ecl:blu pid:257420555 hgt:68in
+Valid Passport: byr:1974 iyr:2017 eyr:2022 hcl:#7d3b0c ecl:gry pid:353127736 hgt:152cm
+Valid Passport: byr:1924 iyr:2018 eyr:2028 hcl:#69929e ecl:gry pid:942207567 hgt:68in
+Valid Passport: byr:1990 iyr:2011 eyr:2028 hcl:#623a2f ecl:amb pid:947625812 hgt:185cm
+Valid Passport: byr:1996 iyr:2012 eyr:2023 hcl:#866857 ecl:blu pid:437669135 hgt:175cm
+Valid Passport: byr:1937 iyr:2017 eyr:2030 hcl:#866857 ecl:grn pid:513963895 hgt:157cm
+Valid Passport: byr:1920 iyr:2016 eyr:2025 hcl:#623a2f ecl:amb pid:559150893 hgt:176cm
+Invalid eyr: 1961
+Valid Passport: byr:1935 iyr:2013 eyr:2030 hcl:#888785 ecl:brn pid:307171649 hgt:182cm
+Invalid byr: 2009
+Invalid Format
+Invalid Format
+Invalid byr: 2013
+Valid Passport: byr:1930 iyr:2020 eyr:2026 hcl:#6b5442 ecl:grn pid:949963673 hgt:188cm
+Valid Passport: byr:1935 iyr:2017 eyr:2022 hcl:#b6652a ecl:hzl pid:254482159 hgt:165cm
+Invalid Format
+Valid Passport: byr:1969 iyr:2015 eyr:2024 hcl:#602927 ecl:oth pid:578662559 hgt:151cm
+Invalid Format
+Valid Passport: byr:2002 iyr:2010 eyr:2029 hcl:#a97842 ecl:amb pid:558586208 hgt:152cm
+Invalid byr: 2024
+Invalid Format
+Valid Passport: byr:1970 iyr:2020 eyr:2030 hcl:#6b5442 ecl:hzl pid:698123164 hgt:155cm
+Valid Passport: byr:1949 iyr:2014 eyr:2023 hcl:#6b5442 ecl:hzl pid:149063285 hgt:64in
+Valid Passport: byr:1962 iyr:2012 eyr:2025 hcl:#866857 ecl:grn pid:416329937 hgt:185cm
+Invalid Format
+Valid Passport: byr:1960 iyr:2020 eyr:2024 hcl:#888785 ecl:hzl pid:590574853 hgt:71in
+Valid Passport: byr:1977 iyr:2019 eyr:2024 hcl:#604861 ecl:oth pid:834729501 hgt:72in
+Valid Passport: byr:1940 iyr:2019 eyr:2021 hcl:#ceb3a1 ecl:gry pid:111536282 hgt:69in
+Valid Passport: byr:1958 iyr:2012 eyr:2025 hcl:#cfa07d ecl:gry pid:045765056 hgt:186cm
+Invalid byr: 2017
+Valid Passport: byr:1984 iyr:2013 eyr:2021 hcl:#866857 ecl:oth pid:927074474 hgt:168cm
+Valid Passport: byr:1968 iyr:2014 eyr:2027 hcl:#866857 ecl:amb pid:948677443 hgt:186cm
+Valid Passport: byr:1960 iyr:2018 eyr:2028 hcl:#623a2f ecl:gry pid:500330326 hgt:170cm
+Invalid eyr: 1984
+Valid Passport: byr:1922 iyr:2010 eyr:2024 hcl:#c0946f ecl:gry pid:867476938 hgt:164cm
+Invalid byr: 2022
+Valid Passport: byr:1945 iyr:2016 eyr:2024 hcl:#602927 ecl:hzl pid:482664712 hgt:172cm
+Invalid Format
+Invalid Format
+Valid Passport: byr:1945 iyr:2016 eyr:2030 hcl:#ceb3a1 ecl:hzl pid:846949920 hgt:170cm
+Invalid Format
+Valid Passport: byr:2002 iyr:2010 eyr:2022 hcl:#a97842 ecl:brn pid:788563693 hgt:172cm
+Invalid hgt: 60cm
+Invalid Format
+Invalid Format
+Invalid Format
+Valid Passport: byr:1981 iyr:2013 eyr:2023 hcl:#866857 ecl:brn pid:386584267 hgt:189cm
+Valid Passport: byr:1931 iyr:2011 eyr:2027 hcl:#7d3b0c ecl:gry pid:435568613 hgt:71in
+Invalid Format
+Valid Passport: byr:1989 iyr:2011 eyr:2027 hcl:#efcc98 ecl:oth pid:761106563 hgt:60in
+Invalid Format
+Invalid pid: 68527368
+Invalid Format
+Invalid Format
+Invalid Format
+Invalid Format
+Invalid Format
+Invalid eyr: 1970
+Valid Passport: byr:1978 iyr:2014 eyr:2026 hcl:#602927 ecl:hzl pid:311990731 hgt:171cm
+Invalid hgt: 184in
+Valid Passport: byr:1920 iyr:2018 eyr:2022 hcl:#341e13 ecl:grn pid:953859016 hgt:192cm
+Invalid iyr: 2021
+Valid Passport: byr:2002 iyr:2020 eyr:2025 hcl:#efcc98 ecl:oth pid:196082064 hgt:176cm
+Invalid eyr: 2035
+Valid Passport: byr:1947 iyr:2020 eyr:2028 hcl:#341e13 ecl:hzl pid:716596533 hgt:150cm
+Valid Passport: byr:1922 iyr:2019 eyr:2021 hcl:#18171d ecl:brn pid:190601635 hgt:71in
+Valid Passport: byr:1938 iyr:2019 eyr:2028 hcl:#efcc98 ecl:amb pid:568504071 hgt:178cm
+Valid Passport: byr:1983 iyr:2018 eyr:2020 hcl:#c0946f ecl:brn pid:921417345 hgt:168cm
+Invalid byr: 2024
+Invalid Format
+Invalid Format
+Valid Passport: byr:1946 iyr:2014 eyr:2021 hcl:#733820 ecl:amb pid:654181902 hgt:156cm
+Valid Passport: byr:1940 iyr:2019 eyr:2020 hcl:#fffffd ecl:amb pid:419593669 hgt:189cm
+Invalid ecl: lzr
+Invalid byr: 2030
+Invalid Format
+Invalid Format
+Invalid iyr: 1937
+Invalid Format
+Invalid Format
+Valid Passport: byr:1982 iyr:2013 eyr:2020 hcl:#623a2f ecl:amb pid:405789549 hgt:161cm
+Valid Passport: byr:1930 iyr:2016 eyr:2022 hcl:#fffffd ecl:amb pid:775860836 hgt:184cm
+Valid Passport: byr:1979 iyr:2020 eyr:2024 hcl:#ceb3a1 ecl:brn pid:853915000 hgt:171cm
+Valid Passport: byr:1931 iyr:2015 eyr:2022 hcl:#18171d ecl:gry pid:244459567 hgt:169cm
+Valid Passport: byr:1953 iyr:2017 eyr:2026 hcl:#ceb3a1 ecl:blu pid:466915764 hgt:59in
+Valid Passport: byr:1940 iyr:2015 eyr:2020 hcl:#7d3b0c ecl:amb pid:950614940 hgt:179cm
+Invalid byr: 2010
+Invalid Format
+Valid Passport: byr:1975 iyr:2018 eyr:2020 hcl:#18171d ecl:oth pid:684529055 hgt:193cm
+Valid Passport: byr:1951 iyr:2018 eyr:2028 hcl:#cfa07d ecl:grn pid:749102509 hgt:150cm
+Valid Passport: byr:1941 iyr:2020 eyr:2021 hcl:#341e13 ecl:hzl pid:937451204 hgt:171cm
+Valid Passport: byr:1961 iyr:2014 eyr:2022 hcl:#a97842 ecl:hzl pid:174789690 hgt:157cm
+Invalid byr: 2005
+Invalid Format
+Invalid iyr: 1997
+Valid Passport: byr:1996 iyr:2015 eyr:2024 hcl:#602927 ecl:blu pid:897871188 hgt:184cm
+Valid Passport: byr:1937 iyr:2016 eyr:2022 hcl:#623a2f ecl:oth pid:012591439 hgt:176cm
+Valid Passport: byr:1965 iyr:2013 eyr:2020 hcl:#ceb3a1 ecl:hzl pid:177120440 hgt:193cm
+Valid Passport: byr:1934 iyr:2015 eyr:2028 hcl:#341e13 ecl:oth pid:370860309 hgt:157cm
+Valid Passport: byr:2001 iyr:2010 eyr:2028 hcl:#866857 ecl:brn pid:194361427 hgt:183cm
+Invalid Format
+Valid Passport: byr:1969 iyr:2020 eyr:2030 hcl:#ceb3a1 ecl:hzl pid:157651787 hgt:185cm
+Invalid Format
+Invalid byr: 2011
+Invalid byr: 2020
+Valid Passport: byr:1994 iyr:2015 eyr:2021 hcl:#83b224 ecl:grn pid:554994156 hgt:179cm
+Invalid Format
+Valid Passport: byr:1943 iyr:2016 eyr:2020 hcl:#cfa07d ecl:hzl pid:418786991 hgt:168cm
+Invalid Format
+Valid Passport: byr:1951 iyr:2018 eyr:2030 hcl:#cfa07d ecl:oth pid:382615614 hgt:64in
+Invalid Format
+Valid Passport: byr:1923 iyr:2013 eyr:2028 hcl:#b6652a ecl:brn pid:274036240 hgt:154cm
+Invalid Format
+Valid Passport: byr:1979 iyr:2019 eyr:2025 hcl:#b6652a ecl:amb pid:646985829 hgt:188cm
+Invalid Format
+Invalid eyr: 1934
+Valid Passport: byr:1982 iyr:2018 eyr:2024 hcl:#733820 ecl:grn pid:522812862 hgt:188cm
+Invalid byr: 2023
+Invalid Format
+Valid Passport: byr:1932 iyr:2016 eyr:2026 hcl:#ceb3a1 ecl:hzl pid:288363970 hgt:157cm
+Valid Passport: byr:1992 iyr:2019 eyr:2023 hcl:#866857 ecl:oth pid:539896055 hgt:70in
+Invalid Format
+Valid Passport: byr:1939 iyr:2013 eyr:2024 hcl:#fffffd ecl:hzl pid:851235247 hgt:170cm
+Valid Passport: byr:1936 iyr:2016 eyr:2024 hcl:#c0946f ecl:hzl pid:463230636 hgt:167cm
+Valid Passport: byr:1947 iyr:2014 eyr:2025 hcl:#b6652a ecl:grn pid:291401545 hgt:185cm
+Valid Passport: byr:1991 iyr:2018 eyr:2029 hcl:#733820 ecl:gry pid:612595763 hgt:150cm
+Invalid Format
+Invalid Format
+Valid Passport: byr:1956 iyr:2014 eyr:2023 hcl:#b6652a ecl:brn pid:382721925 hgt:188cm
+Invalid iyr: 2029
+Valid Passport: byr:1959 iyr:2014 eyr:2020 hcl:#733820 ecl:gry pid:164334257 hgt:165cm
+Invalid byr: 2030
+Valid Passport: byr:1952 iyr:2016 eyr:2021 hcl:#7d3b0c ecl:grn pid:604128460 hgt:152cm
+Invalid byr: 2024
+Invalid iyr: 1980
+Invalid hcl: 1a323a
+Valid Passport: byr:1938 iyr:2019 eyr:2026 hcl:#18171d ecl:grn pid:514596186 hgt:191cm
+Invalid Format
+Invalid byr: 2020
+Invalid byr: 2008
+Invalid eyr: 2040
+Invalid Format
+Invalid Format
+Valid Passport: byr:1965 iyr:2016 eyr:2023 hcl:#a97842 ecl:hzl pid:832184923 hgt:180cm
+Invalid Format
+Invalid Format
+Invalid hcl: 01f3d7
+Valid Passport: byr:1975 iyr:2016 eyr:2029 hcl:#6b5442 ecl:oth pid:296100726 hgt:180cm
+Valid Passport: byr:1922 iyr:2010 eyr:2029 hcl:#ceb3a1 ecl:gry pid:364719801 hgt:181cm
+Valid Passport: byr:1928 iyr:2018 eyr:2023 hcl:#1c7f1d ecl:blu pid:694275035 hgt:184cm
+Invalid iyr: 2030
+Invalid byr: 2030
+Valid Passport: byr:1992 iyr:2018 eyr:2023 hcl:#888785 ecl:amb pid:602211075 hgt:188cm
+Valid Passport: byr:1981 iyr:2016 eyr:2026 hcl:#866857 ecl:amb pid:848099019 hgt:168cm
+Valid Passport: byr:1974 iyr:2013 eyr:2026 hcl:#623a2f ecl:gry pid:313553018 hgt:151cm
+Valid Passport: byr:1986 iyr:2017 eyr:2024 hcl:#733820 ecl:brn pid:676008782 hgt:182cm
+Valid Passport: byr:1949 iyr:2011 eyr:2030 hcl:#602927 ecl:brn pid:833874339 hgt:159cm
+Valid Passport: byr:1926 iyr:2012 eyr:2029 hcl:#6b5442 ecl:gry pid:131549376 hgt:182cm
+Invalid Format
+Invalid byr: 2006
+Invalid byr: 2028
+Invalid hgt: 136
+Invalid Format
+Invalid pid: 9833212692
+Valid Passport: byr:1980 iyr:2014 eyr:2020 hcl:#7d3b0c ecl:grn pid:400508366 hgt:175cm
+Invalid Format
+Invalid Format
+Valid Passport: byr:1986 iyr:2017 eyr:2024 hcl:#cfa07d ecl:brn pid:856817592 hgt:159cm
+Valid Passport: byr:1996 iyr:2010 eyr:2026 hcl:#410645 ecl:hzl pid:337713295 hgt:166cm
+Invalid Format
+Valid Passport: byr:1929 iyr:2011 eyr:2021 hcl:#fffffd ecl:blu pid:013408674 hgt:187cm
+Valid Passport: byr:1986 iyr:2010 eyr:2028 hcl:#cfa07d ecl:gry pid:616063053 hgt:150cm
+Invalid Format
+Valid Passport: byr:1978 iyr:2012 eyr:2024 hcl:#694989 ecl:amb pid:914726069 hgt:155cm
+Valid Passport: byr:1970 iyr:2012 eyr:2024 hcl:#fffffd ecl:blu pid:139464317 hgt:72in
+Invalid Format
+Valid Passport: byr:1994 iyr:2011 eyr:2025 hcl:#6b5442 ecl:grn pid:538884417 hgt:171cm
+Valid Passport: byr:1954 iyr:2012 eyr:2024 hcl:#623a2f ecl:brn pid:304101929 hgt:186cm
+Invalid hcl: z
+Invalid byr: 2012
+Invalid Format
+Invalid Format
+Valid Passport: byr:1974 iyr:2018 eyr:2029 hcl:#c0946f ecl:hzl pid:285451524 hgt:184cm
+Valid Passport: byr:1974 iyr:2013 eyr:2026 hcl:#602927 ecl:amb pid:322935162 hgt:151cm
+Invalid eyr: 2034
+Valid Passport: byr:1926 iyr:2011 eyr:2023 hcl:#c0946f ecl:gry pid:727347794 hgt:160cm
+Valid Passport: byr:1974 iyr:2012 eyr:2025 hcl:#866857 ecl:grn pid:933155590 hgt:167cm
+Valid Passport: byr:1967 iyr:2015 eyr:2029 hcl:#f9f576 ecl:gry pid:439696954 hgt:170cm
+Invalid Format
+Valid Passport: byr:1994 iyr:2012 eyr:2029 hcl:#866857 ecl:hzl pid:308548232 hgt:162cm
+Valid Passport: byr:1924 iyr:2017 eyr:2025 hcl:#cfa07d ecl:gry pid:028266367 hgt:169cm
+Valid Passport: byr:1995 iyr:2011 eyr:2025 hcl:#602927 ecl:brn pid:819047484 hgt:160cm
+Valid Passport: byr:1942 iyr:2016 eyr:2022 hcl:#efcc98 ecl:amb pid:660383456 hgt:158cm
+Invalid Format
+Valid Passport: byr:1920 iyr:2017 eyr:2024 hcl:#7d3b0c ecl:amb pid:236377188 hgt:165cm
+Invalid Format
+Valid Passport: byr:2002 iyr:2017 eyr:2028 hcl:#7d3b0c ecl:amb pid:428826816 hgt:174cm
+Invalid byr: 2025
+Valid Passport: byr:1923 iyr:2014 eyr:2021 hcl:#efcc98 ecl:amb pid:358236477 hgt:165cm
+Invalid hgt: 72cm
+Invalid byr: 2013
+Invalid Format
+Valid Passport: byr:1927 iyr:2011 eyr:2023 hcl:#341e13 ecl:grn pid:638808763 hgt:175cm
+Valid Passport: byr:1994 iyr:2016 eyr:2030 hcl:#623a2f ecl:hzl pid:569304871 hgt:163cm
+Invalid ecl: #a16571
+Valid Passport: byr:1965 iyr:2010 eyr:2029 hcl:#7d3b0c ecl:hzl pid:617693914 hgt:157cm
+Valid Passport: byr:1956 iyr:2011 eyr:2029 hcl:#602927 ecl:gry pid:547158528 hgt:189cm
+Invalid byr: 2027
+Valid Passport: byr:1959 iyr:2014 eyr:2021 hcl:#fffffd ecl:amb pid:102521439 hgt:190cm
+Invalid Format
+Invalid byr: 2022
+Invalid Format
+Valid Passport: byr:1993 iyr:2019 eyr:2023 hcl:#efcc98 ecl:brn pid:821190245 hgt:183cm
+Valid Passport: byr:1981 iyr:2018 eyr:2022 hcl:#524e2e ecl:oth pid:037981572 hgt:183cm
+Valid Passport: byr:1934 iyr:2010 eyr:2020 hcl:#18171d ecl:oth pid:343039563 hgt:62in
+Valid Passport: byr:1994 iyr:2015 eyr:2026 hcl:#733820 ecl:brn pid:374199356 hgt:169cm
+Valid Passport: byr:1988 iyr:2010 eyr:2022 hcl:#a97842 ecl:amb pid:394267581 hgt:185cm
+Invalid byr: 2023
+Valid Passport: byr:1946 iyr:2012 eyr:2029 hcl:#a97842 ecl:amb pid:805319194 hgt:159cm
+Valid Passport: byr:1958 iyr:2010 eyr:2020 hcl:#c0946f ecl:oth pid:276122958 hgt:171cm
+Invalid byr: 2007
+Invalid iyr: 1923
+Invalid byr: 2019
+Invalid Format
+Invalid Format
+Invalid byr: 2008
+Valid Passport: byr:1936 iyr:2010 eyr:2030 hcl:#efcc98 ecl:gry pid:156329184 hgt:67in
+Valid Passport: byr:2002 iyr:2018 eyr:2029 hcl:#866857 ecl:oth pid:474249956 hgt:76in
+Valid Passport: byr:1934 iyr:2016 eyr:2029 hcl:#b6652a ecl:brn pid:901756621 hgt:193cm
+Invalid Format
+Invalid Format
+Valid passports: 137
+Invalid passports: 143
