@@ -6,7 +6,7 @@ import os
 
 def main(input_list_path: str):
     """
-    Parse through the provided file for passwords and determine if they are valid
+    Parse through the provided file for ...
     :param input_list_path (str): 
     """
     # Verify the file exists
@@ -25,8 +25,8 @@ def main(input_list_path: str):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process the expense report.")
-    parser.add_argument("--input-path", help="Path to the expense report values", 
+    parser = argparse.ArgumentParser(description="Run the program.")
+    parser.add_argument("--input-path", help="Path to the input file", 
                         type=str, required=True)
 
     args = parser.parse_args()
