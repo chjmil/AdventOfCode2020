@@ -72,8 +72,8 @@ def main(input_list_path: str):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process the expense report.")
-    parser.add_argument("--input-path", help="Path to the expense report values", 
+    parser = argparse.ArgumentParser(description="Validate the passwords.")
+    parser.add_argument("--input-path", help="Path to the input file", 
                         type=str, required=True)
 
     args = parser.parse_args()
