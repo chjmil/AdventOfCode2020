@@ -26,7 +26,7 @@ def get_seat_id(input: str):
 def main(input_list_path: str):
     """
     Parse through the provided file for the seat IDs
-    :param input_list_path (str): 
+    :param input_list_path (str): Path to the input file
     """
     # Verify the file exists
     if not os.path.exists(input_list_path):

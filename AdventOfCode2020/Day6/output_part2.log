@@ -1,0 +1,1399 @@
+$ python custom_customs.py --input-path input
+
+Group: ['l', 'q', 'h', 'k', 's', 'f', 'n', 'e', 'r', 'g', 'n', 'e', 'g', 's', 'c', 's', 'n', 'a', 'g', 'e', 'e', 'n', 'g', 's', 's', 'n', 'e', 'g']
+Group Count: 5
+Number of common: 4
+Group: ['c', 't', 'f', 'z', 'r', 'd', 'b', 's', 'a', 'p', 'q', 'l', 's', 'r', 'l', 'd', 'f', 'a', 't', 'z', 'q', 'c', 'p', 'b', 'q', 's', 'n', 't', 'l', 'p', 'r', 'f', 'd', 'b', 'z', 'a', 'l', 'd', 'p', 't', 's', 'w', 'o', 'u', 'q', 'b', 'x', 'z', 'a', 'f', 'r']
+Group Count: 4
+Number of common: 11
+Group: ['n', 'c', 'j', 'o', 'l', 'h', 'q', 'f', 'b', 'p', 'g', 'p', 'h', 'o', 'n', 'q', 'b', 'f', 'l', 'x', 'j', 'j', 'e', 'p', 'd', 'm', 'f', 'h', 's', 'q', 't', 'o', 'n', 'z', 'c', 'q', 'p', 'i', 'h', 'o', 'n', 'j', 'b', 'g', 'f']
+Group Count: 4
+Number of common: 7
+Group: ['a', 'b', 'y', 't', 'u', 'a', 'y', 'u', 'a', 'y', 'u', 'u', 'h', 'o', 'd', 'l', 'a', 'y', 'u', 'a', 'y']
+Group Count: 5
+Number of common: 3
+Group: ['k', 'z', 'x', 'x', 'j', 'w', 'k', 'k', 'x', 'f', 'h', 's', 'd', 'c', 'x', 'j', 'k', 'j', 'k', 'x']
+Group Count: 5
+Number of common: 2
+Group: ['r', 'w', 'x', 'c', 'k', 'm', 'f', 'n', 'x', 'p', 'c', 'r', 'k', 'f', 't']
+Group Count: 2
+Number of common: 5
+Group: ['n', 't', 'a', 'f', 'l', 'a', 'c', 'u', 's', 'e', 'r', 'b', 'k']
+Group Count: 2
+Number of common: 1
+Group: ['s', 'x', 'w', 'd', 'f', 'm', 'n', 'p', 'l', 'x', 'p', 's', 'm', 'n', 'w', 'l', 'f', 'd', 'l', 'p', 'x', 'm', 'w', 's', 'n', 'd', 'f', 'x', 'f', 'd', 'm', 'l', 'w', 'n', 'p', 's', 'p', 'w', 'l', 'n', 'm', 'd', 's', 'x', 'f']
+Group Count: 5
+Number of common: 9
+Group: ['g', 'j', 'v', 'c', 'f', 'a', 'm', 'u', 't', 'y', 'u', 'q', 'f', 'm', 'j', 'g', 'z', 'a', 't', 'p', 'v', 'y', 'c', 'y', 'f', 'c', 'j', 't', 'a', 'v', 'g', 'h', 'm', 'a', 'm', 'q', 'f', 'j', 'k', 'p', 'g', 'v', 'y', 'c', 't', 's', 'v', 'g', 'c', 'e', 'n', 'm', 'y', 'l', 'o', 't', 'j', 'a', 'f', 'b', 'x']
+Group Count: 5
+Number of common: 9
+Group: ['y', 'e', 'p', 'q', 'g', 's', 'n', 's', 'f', 'q', 'w', 'g', 'h', 'c', 'e', 's', 'e', 'g', 'v', 'q']
+Group Count: 3
+Number of common: 4
+Group: ['m', 'i', 'l']
+Group Count: 2
+Number of common: 0
+Group: ['e', 'i', 'r', 'g', 'v', 'u', 'a', 'd', 'b', 'p', 'h', 'c', 'f', 's', 'm', 'y', 'q', 'n', 'z', 'o', 't', 'x', 'j', 'l', 'k', 'q', 'j', 'e', 'i', 'n', 't', 's', 'x', 'u', 'b', 'm', 'f', 'c', 'h', 'o', 'a', 'v', 'p', 'y', 'z', 'g', 'l', 'r', 'k', 'd', 'f', 'd', 'j', 'e', 'y', 'h', 'b', 'x', 'g', 'q', 'c', 'l', 's', 'n', 'a', 'i', 'm', 'o', 'p', 't', 'k', 'v', 'r', 'u', 'z', 'i', 'e', 'x', 'u', 'n', 't', 'j', 'g', 'm', 'v', 'f', 'h', 'q', 'y', 'k', 's', 'p', 'z', 'b', 'd', 'c', 'l', 'r', 'a', 'o', 'h', 'k', 'j', 'g', 'p', 'q', 'l', 'y', 'a', 'x', 'd', 't', 'c', 'n', 'v', 'o', 'b', 'm', 'r', 'z', 'i', 'f', 'u', 's', 'e']
+Group Count: 5
+Number of common: 25
+Group: ['i', 'n', 'l', 'o', 'n', 'z', 'b', 'p']
+Group Count: 4
+Number of common: 0
+Group: ['a', 'q', 'p', 'j', 'n', 'k', 'e', 'o', 'w', 'i', 'v', 'f', 'b', 'd', 'h', 'g', 'r', 'p', 'g', 'i', 'o', 'j', 'e', 'f', 'h', 'v', 'r', 'q', 'd', 'a', 'w', 'k', 'n', 'c']
+Group Count: 2
+Number of common: 16
+Group: ['u', 'g', 'm', 's', 'i', 'b', 'f', 'm', 's', 'b', 'i', 'g', 'f', 'u', 'c', 's', 'g', 'f', 'i', 'm', 'u', 'b', 'j', 'm', 'f', 'i', 's', 'b', 'g', 'y', 'u', 'n', 's', 'm', 'v', 'u', 'i', 'g', 'f', 'b', 'e']
+Group Count: 5
+Number of common: 7
+Group: ['d', 'e', 'm', 'j', 'n', 'x', 'c', 'w', 'b', 's', 'r', 'i', 'a', 'y', 'p', 'e', 's', 'f', 't', 'q', 'h', 'z', 'l', 'u', 'k', 'o']
+Group Count: 2
+Number of common: 2
+Group: ['e', 'c', 'o', 'x', 'h', 'l', 'l', 'o', 'c', 'h', 'e', 'x', 'c', 'h', 'e', 'l', 'o', 'x', 'x', 'h', 'c', 'o', 'e', 'l', 'c', 'h', 'o', 'l', 'x', 'e']
+Group Count: 5
+Number of common: 6
+Group: ['x', 'n', 't', 'u', 'b', 'r', 'd', 'e', 'm', 'h', 'y', 'l', 's', 'o', 'i', 'g', 'f', 'j', 'i', 'h', 'r', 'u', 't', 'b', 'a', 'e', 'w', 'z', 'p', 'o', 'x', 'l', 'y', 's']
+Group Count: 2
+Number of common: 12
+Group: ['i', 'u', 'q', 'k', 'e', 'w', 'n', 'y', 'v', 'u', 'y', 'p', 't', 'k', 'n', 'n', 'y', 'u', 'p', 's', 'k']
+Group Count: 3
+Number of common: 4
+Group: ['e', 'f']
+Group Count: 2
+Number of common: 0
+Group: ['b', 'x', 'r', 's', 'n', 't', 'k', 'j', 'd', 'w', 'i', 'v', 'c', 'e', 'a', 'p', 'q', 'c', 'q', 'b', 'a', 'k', 'p', 'i', 'm', 's', 'v', 'e', 't', 'n', 'j', 'x', 'w', 'r', 'd', 'k', 'n', 'v', 'x', 'q', 'w', 'p', 'a', 's', 'u', 'r', 'c', 'o', 'd', 'i', 'e', 't', 'b', 'j', 'x', 'v', 'r', 'q', 'b', 'd', 'j', 'i', 'w', 's', 'a', 'c', 'y', 'k', 'p', 'e', 'n', 't', 'n', 'p', 's', 'a', 'v', 't', 'b', 'q', 'x', 'i', 'j', 'k', 'e', 'w', 'r', 'c', 'z', 'l', 'd']
+Group Count: 5
+Number of common: 17
+Group: ['p', 'k', 'q', 'p', 'w', 's', 'k', 'z', 'p', 'k']
+Group Count: 3
+Number of common: 2
+Group: ['q', 'd', 'c', 'h', 'n', 'b', 'q', 'w', 'x', 'b', 'c', 'd', 'h', 'y', 'i', 'r', 'j', 'h', 'b', 'd', 'c', 'q', 'h', 'n', 'e', 'c', 'd', 'b', 'q']
+Group Count: 4
+Number of common: 5
+Group: ['t', 'd', 'r', 'y', 'e', 'p', 't', 'h', 'v', 'x', 'g', 'b', 'r', 'e', 'e']
+Group Count: 5
+Number of common: 0
+Group: ['f', 'd', 'd']
+Group Count: 3
+Number of common: 0
+Group: ['r', 's', 'p', 'j', 'h', 'l', 'q', 'o', 'c', 'i', 'x', 'n', 'w', 'x', 'i', 'c', 'o', 'q', 'j', 'p', 'n', 'l', 'w', 's', 'h', 'l', 'x', 'i', 'n', 'q', 'p', 'h', 'j', 'o', 's', 'c', 'w', 'j', 'h', 'l', 'o', 'w', 's', 'p', 'i', 'n', 'c', 'x', 'q']
+Group Count: 4
+Number of common: 12
+Group: ['q', 'p', 't', 'b', 'b', 't', 'p', 'q', 'g', 'u', 'q', 'h', 'b', 't', 'p', 'd']
+Group Count: 3
+Number of common: 4
+Group: ['n', 'z', 'l', 'o', 'q', 't', 'c', 'x', 'm', 'f', 'g', 'd', 'b', 'j', 't', 'c', 'f', 'd', 'n', 'b', 'm', 'z', 'g', 'q', 'l', 'x', 'o', 'b', 'q', 'k', 'g', 'n', 'x', 'a', 'z', 'e', 'c', 'l', 't', 'i', 'd', 's', 'o', 'y', 'm', 'f', 'w', 't', 'z', 'm', 'x', 'c', 'p', 'f', 'l', 'b', 'o', 'n', 'g', 'd', 'h', 'v', 'q', 'z', 'f', 'r', 'o', 'c', 't', 'n', 'g', 'q', 'd', 'b', 'm', 'x', 'l']
+Group Count: 5
+Number of common: 13
+Group: ['k', 'c', 'y', 'h', 't', 'o', 'e', 'n', 'd', 'v', 'z', 'w', 'a', 'f', 'b', 'm', 'u', 'j', 'e', 'l', 't', 'y', 'm', 'c', 'n', 'h', 'a', 'o', 'w', 'b', 'k', 'd', 'z', 'v', 'u', 'f', 's', 'f', 'k', 'm', 'v', 'o', 'b', 'd', 'n', 't', 'e', 'u', 'y', 'c', 'h', 'z', 'a', 'w']
+Group Count: 3
+Number of common: 17
+Group: ['w', 'e', 't', 'r', 'p', 'd', 'n', 'q', 'a', 'b', 'q', 'r', 'p', 'k', 'e', 'n', 'a', 'b', 'g', 'w', 't', 'd', 'l', 'n', 'a', 'h', 'w', 't', 'b', 'r', 'p', 'd', 's', 'e', 'f']
+Group Count: 3
+Number of common: 9
+Group: ['h', 'q', 'b', 't', 'e', 'f', 'p', 'x', 's', 'l', 'n', 'r', 'y', 'k', 'm', 'v', 'a', 'u', 'z', 'g', 'h', 'c', 'q', 't', 'o', 'j', 'i', 'd', 'w']
+Group Count: 3
+Number of common: 0
+Group: ['g', 'q', 's', 'y', 'h', 'x', 'v', 'c', 'e', 'n', 't']
+Group Count: 2
+Number of common: 0
+Group: ['p', 'a', 'z', 'i', 'o', 'q', 'h', 'k', 'b', 'd', 'q', 'n', 'o', 'p', 'b', 'm', 'r', 'a', 'h', 'd', 'y', 'k', 'd', 'x', 'b', 'm', 'k', 'h', 'a', 'q', 'o', 't', 'p', 'v', 'k', 'h', 'a', 'o', 'f', 'q', 'c', 'd', 'p', 'k', 'q', 'p', 'z', 'h', 'a', 'o', 'd']
+Group Count: 5
+Number of common: 7
+Group: ['y', 't', 'l', 'j', 'n', 'g', 'q', 'd', 'm', 'x', 'f', 'c', 'k', 't', 'c', 'j', 'm', 'k', 'f', 'n', 'q', 'l', 'g', 'y', 'd', 'x', 'm', 'f', 'c', 't', 'k', 'l', 'd', 'x', 'q', 'p', 'j', 'u', 'y', 'n', 'v', 'g', 'l', 'd', 't', 'f', 'n', 'y', 'c', 'x', 'q', 'k', 'm', 'j', 'g', 'l', 'n', 'd', 'x', 't', 'f', 'k', 'y', 'm', 'g', 'j', 'c', 'q']
+Group Count: 5
+Number of common: 13
+Group: ['e', 'l', 'r', 'f', 'w', 'p', 'o', 'b', 'j', 'x', 'a', 'm', 't', 'p', 'f', 'o', 'a', 'r', 'b', 's', 'd', 'j']
+Group Count: 2
+Number of common: 7
+Group: ['q', 'i', 'g', 't', 'f', 'k', 'w', 'h', 'o', 'b', 'p', 'v', 'r', 'c', 'y', 'z', 'j', 'u', 'e', 'l', 'n', 'd', 'z', 'c', 'a', 'w', 'd', 'b', 'o', 'g', 'r', 'h', 'q', 'n', 'l', 'i', 'e', 'y', 'u', 'f', 'p', 'k', 't', 'h', 'q', 'l', 'z', 'c', 'n', 'r', 'i', 'k', 'f', 'y', 'p', 's', 'w', 'u', 't', 'o', 'x', 'b', 'e', 'g', 'd', 'b', 'u', 't', 'n', 'c', 'g', 'p', 'y', 'o', 'v', 'z', 'r', 'l', 'f', 'w', 'i', 'd', 'e', 'q', 'h', 'k']
+Group Count: 4
+Number of common: 20
+Group: ['o', 'z', 'd', 'n', 'i', 'v', 'y', 'j', 'l', 'w', 'k', 'p', 'v', 'e', 'n', 'p', 'b', 's', 'u', 'z', 'l', 'o', 'd', 'y', 'w', 'x', 'f', 'd', 'q', 'n', 'z', 'h', 'w', 'y', 'o', 'p', 'v', 'l', 't', 'c', 'r', 'a', 'i', 'z', 'd', 'g', 'm', 'l', 'y', 'w', 'p', 'o', 'n', 'v']
+Group Count: 4
+Number of common: 9
+Group: ['t', 'q', 'g', 'q', 't', 'r', 'q', 's']
+Group Count: 3
+Number of common: 1
+Group: ['w', 'h', 'm', 'v', 'a', 'd', 'o', 'm', 'y', 'l', 'w', 'm', 'n', 'q', 'h', 'g', 'w', 'm', 'p', 's', 'm', 'c', 'n', 'u']
+Group Count: 5
+Number of common: 1
+Group: ['l', 'o', 'a', 'v', 'z', 'd', 'l']
+Group Count: 2
+Number of common: 1
+Group: ['v', 's', 'l', 'e', 'i', 'n', 'y', 'h', 'g', 'o', 'k', 's', 'h', 'r', 'x', 'v', 'a', 'y', 'm', 'p', 't', 'w', 'c', 'q', 's', 'u', 'b', 'v', 'f']
+Group Count: 3
+Number of common: 2
+Group: ['o', 'f', 'd', 'f', 'o', 'd']
+Group Count: 2
+Number of common: 3
+Group: ['p', 'd', 'j', 'r', 's', 'z', 'h', 'g', 'k', 'f', 'e', 'd', 'f', 's', 'h', 'z', 'e', 'g', 'k', 'e', 'd', 'h', 'z', 'f', 'k', 'g', 's']
+Group Count: 3
+Number of common: 8
+Group: ['w', 't', 'i', 'f', 't', 'c', 'w', 'i', 'b', 'i', 'w', 't', 'o', 'z', 'w', 'i', 'u', 't']
+Group Count: 4
+Number of common: 3
+Group: ['j', 'o', 'e', 'b', 'q', 'r', 'h', 'g', 'x', 'v', 's', 't', 'a', 'l', 'k', 'g', 'p', 'r', 'w', 'e', 't', 'o', 'h', 'v', 'z', 'n', 'q', 'd', 'm', 'c', 'b', 'v', 'b', 'r', 'g', 'e', 'o', 'q', 'h', 'y', 'j', 't', 'i', 'x', 't', 'h', 'r', 'f', 'e', 'q', 'u', 'g', 'b', 'x', 'v', 'o']
+Group Count: 4
+Number of common: 9
+Group: ['e', 'j', 'x', 'e', 'z', 'f', 'm', 'n', 'x', 'i', 'd', 'e', 'r', 'j', 'h', 'x', 'c']
+Group Count: 3
+Number of common: 2
+Group: ['h', 'f', 'r', 'q', 'e', 'r', 'j', 'a', 'm', 'b', 'h']
+Group Count: 2
+Number of common: 2
+Group: ['y', 't', 's', 'd', 'z', 'n', 'e', 'h', 'w', 'g', 'd', 'w', 'r', 'o', 'h', 'q', 'y', 'v', 'm', 's', 'c', 'g', 'j', 'z']
+Group Count: 2
+Number of common: 7
+Group: ['x', 'd', 'a', 't', 'z', 'e', 'f', 'v', 'k', 'c', 'x', 'w', 'h', 'y', 'p', 'o', 'a', 'n', 'l', 'r']
+Group Count: 2
+Number of common: 2
+Group: ['t', 'b', 'v', 'd', 'c', 'o', 'l', 't', 'b', 'l', 'c', 'o', 'd', 'v']
+Group Count: 2
+Number of common: 7
+Group: ['k', 'g', 'k', 'y', 'g']
+Group Count: 2
+Number of common: 2
+Group: ['w', 'x', 't', 'e', 'z', 'y', 'u', 'o', 'm', 'k', 'f', 'd', 'h', 's', 'p', 'q', 'j', 'c', 'n', 'x', 'u', 'o', 'q', 'w', 't', 'p', 'h', 'y', 'c', 'k', 'f', 'j', 'n', 'd', 'z', 's', 'm', 'e', 'o', 'u', 'z', 'w', 'y', 'k', 'h', 'q', 'f', 'c', 'n', 'd', 'm', 's', 'p', 'e', 'j', 'x', 't', 'n', 'c', 'e', 'm', 'f', 'p', 'x', 's', 'q', 'u', 'z', 'w', 'y', 'h', 'd', 't', 'k', 'v', 'o', 'j']
+Group Count: 4
+Number of common: 19
+Group: ['d', 'y', 'f', 'v', 'm', 'o', 'b', 'r', 's', 'p', 'n', 'l', 'g', 'u', 'q', 'a', 'w', 'v', 'h', 'a', 'l', 'n', 'u', 'w', 'b', 'y', 'p', 'o', 'd', 'x', 'j', 'u', 'a', 'w', 'v', 'b', 'p', 't', 'n', 'y', 'o', 'h', 'l', 'd']
+Group Count: 3
+Number of common: 11
+Group: ['b', 'm', 'y', 't', 'k', 'a', 'w', 'j', 's', 'z', 'l', 'j', 'a', 'y', 's', 't', 'w', 'z', 'm', 'k', 'l', 'm', 's', 'a', 't', 'l', 'k', 'w', 'z', 'j', 'y']
+Group Count: 3
+Number of common: 10
+Group: ['v', 'g', 'h', 'c', 'a', 'f', 'o', 'e', 'r', 'g', 'r', 'a', 'e', 'c', 'v', 'h', 'z', 'o', 'u', 'a', 'v', 'r', 'c', 'o', 'h', 'e', 'g', 'r', 'h', 'g', 'v', 'c', 'a', 'o', 'e']
+Group Count: 4
+Number of common: 8
+Group: ['n', 'v', 'j', 'g', 'a', 'a', 'v', 'g', 'n', 'i']
+Group Count: 2
+Number of common: 4
+Group: ['g', 'a', 'g', 'g']
+Group Count: 4
+Number of common: 0
+Group: ['o', 't', 'x', 'j', 'x', 't', 'j', 'q', 'o', 'x', 't', 'o', 'j', 'j', 'x', 'n', 't', 'o', 'y', 'l', 't', 'q', 'j', 'x', 'o', 'a']
+Group Count: 5
+Number of common: 4
+Group: ['i', 'j', 'i', 'i', 'a', 'i']
+Group Count: 4
+Number of common: 1
+Group: ['w', 'p', 'w', 'q', 'u', 't', 'd', 'e', 'b', 'y', 'i', 'o', 'w']
+Group Count: 4
+Number of common: 0
+Group: ['c', 'a', 'm', 'y', 'z', 'o', 'h', 'l', 'b', 'r', 'g', 'd', 'y', 'g', 'c', 'a', 'l', 'm', 'z', 'b', 'r', 'd', 'o', 'h', 'h', 'r', 'b', 'y', 'c', 'd', 'z', 'm', 'a', 'l', 'g', 'o']
+Group Count: 3
+Number of common: 12
+Group: ['h', 'g', 's', 'l', 't', 'x', 'v', 'w', 'm', 'c', 'l', 'o', 'x', 's', 'n', 't', 'g', 'h', 'v', 'd', 'c', 's', 'g', 'x', 'c', 'l', 't', 'h', 'v', 'c', 't', 'v', 'x', 'l', 's', 'h', 'g', 'y', 'x', 'c', 'v', 's', 'g', 't', 'h', 'l', 'f']
+Group Count: 5
+Number of common: 8
+Group: ['e', 'k', 'i', 'z', 'a', 'd', 'q', 'u', 'j', 'o', 'p', 'g', 'x', 'z', 'u', 'a', 'g', 'v', 'j', 's', 'i', 'r', 'o', 'k', 'w', 'p', 'x', 'u', 'o', 'y', 'k', 'i', 'j', 'g', 'p', 'q', 'a', 'x', 'z', 'c', 'g', 'q', 'k', 'o', 'i', 'x', 'p', 'y', 'a', 'b', 'd', 'j', 'u', 'z']
+Group Count: 4
+Number of common: 10
+Group: ['q', 'j', 'y', 'g', 'v', 'h', 'm', 'l', 'k', 'd', 'b', 'z', 's', 'i', 'f', 'c', 'w', 'a', 'p', 'u', 'o', 'n', 'x', 'r', 't', 'e', 'd', 'e', 's', 'v', 'f', 'n', 'c', 'p', 'r', 'y', 'j', 'a', 'm', 'k', 'z', 'h', 'g', 'u', 't', 'w', 'o', 'i', 'n', 'i', 'f', 'h', 'z', 'p', 'e', 'r', 't', 's', 'g', 'm', 'y', 'c', 'j', 'w', 'a', 'u', 'o', 'k', 'd', 'v', 's', 'w', 'o', 'h', 'a', 'f', 'g', 'e', 't', 'u', 'y', 'v', 'i', 'c', 'p', 'z', 'j', 'r', 'n', 'm', 'k', 'd']
+Group Count: 4
+Number of common: 22
+Group: ['d', 'y', 'b', 'p', 'e', 'c', 'k', 'x', 'z', 'z', 'u', 'c', 'g', 'e', 'y', 'i', 'p', 'q', 'd', 'n', 'l', 'w', 's', 'p', 'y', 'e', 'f', 'c', 'z', 'l', 'n', 'h', 'd', 'p', 'r', 'e', 'v', 'c', 'y', 't', 'z', 'o', 'd', 'p', 'h', 'e', 'y', 'j', 'd', 'w', 'z', 'c']
+Group Count: 5
+Number of common: 6
+Group: ['v', 'b', 'p', 'f', 'n', 'e', 'd', 'q', 'y', 'o', 'a', 'w', 'h', 'c', 'r', 'q', 'r', 'h', 'c', 'e', 'w', 'v', 'a', 'b', 'f', 'o', 'p', 'd', 'n', 'm', 'y', 'a', 'f', 'r', 'v', 'e', 'b', 'h', 'd', 'o', 'c', 'n', 'i', 'y', 'k', 'q', 'p', 'w', 'f', 'o', 'q', 'e', 'a', 'w', 'r', 'b', 'v', 'y', 'h', 'p', 'd', 'c', 'n', 'n', 'c', 'w', 'a', 'p', 'h', 'b', 'v', 'o', 'q', 'd', 'r', 'f', 'e', 'y']
+Group Count: 5
+Number of common: 15
+Group: ['d', 'w', 'j', 'w', 'd', 'z', 'j']
+Group Count: 2
+Number of common: 3
+Group: ['m', 'r', 'r', 'm']
+Group Count: 2
+Number of common: 2
+Group: ['i', 'd', 'n', 'k', 'm', 'u', 'f', 'x', 'd', 'e', 'm', 'j', 'y', 'k', 'i', 'x', 'o', 'k', 'j', 'd', 'm', 'x', 'i', 'o', 'v']
+Group Count: 3
+Number of common: 5
+Group: ['u', 'k', 'b', 'f', 'l', 'q', 'h', 'o', 'm', 'z', 'r', 'w', 'a', 's', 't', 'y', 'j', 'g', 'p', 'e', 'x', 'v', 'o', 'q', 'k', 'y', 'i', 'h', 'j', 'u', 'f', 'm', 'x', 's', 'w', 'g', 'r', 'z', 't', 'b', 'c']
+Group Count: 2
+Number of common: 17
+Group: ['t', 'j', 'n', 'n', 'j', 'v']
+Group Count: 2
+Number of common: 2
+Group: ['r', 'u', 'i', 'k', 'a', 'i', 'r', 'k', 'u', 'a', 'w', 'a', 'i', 'r', 'l', 'k', 's', 'z', 'u']
+Group Count: 3
+Number of common: 5
+Group: ['r', 'f', 'g', 'p', 'h', 'c', 'e', 'z', 'l', 'z', 'c', 'r', 'e', 'g']
+Group Count: 2
+Number of common: 5
+Group: ['m', 'c', 'e', 'm', 'e', 'c', 'q', 's', 'm', 'e', 'm', 'p', 'e', 'y', 'f']
+Group Count: 4
+Number of common: 2
+Group: ['w', 'j', 'c', 'x', 'o', 'f', 't', 'v', 'n', 'r', 'z', 'o', 'm', 'v', 'f', 'j', 'n', 'y', 'w', 'n', 'y', 'w', 'j', 'o', 'f', 'v', 't', 'm', 'k', 'v', 'w', 'h', 'f', 'u', 'n', 'a', 'j', 'o', 'l', 's', 'i', 'g', 'q']
+Group Count: 4
+Number of common: 6
+Group: ['y', 'n', 'n', 'y', 'o', 'e']
+Group Count: 5
+Number of common: 0
+Group: ['n', 'v', 'j', 'k', 'r', 'y', 'i', 'f', 'x', 'a', 'c', 'e', 'z', 'i', 'e', 'h', 't', 'g', 'n', 'j', 'f', 'b', 'y', 'r', 'l', 'v', 'k', 'a', 'x', 'n', 'p', 'v', 'j', 'i', 's', 'm', 'a', 'k', 'e', 'y', 'f', 'r']
+Group Count: 3
+Number of common: 10
+Group: ['g', 'g', 'g', 'g', 'g']
+Group Count: 5
+Number of common: 1
+Group: ['v', 'w', 'g', 'n', 'j', 'i', 'v', 'o', 'j', 'u', 'g', 'j', 'v']
+Group Count: 3
+Number of common: 2
+Group: ['m', 'y', 'z', 'r', 'b', 'f', 'y', 'm', 'c', 'z', 'f', 'r', 'v', 'm', 'w', 'r', 'o', 'x', 'h', 'f', 'j', 'm', 'l', 'f', 'd', 'r']
+Group Count: 4
+Number of common: 3
+Group: ['a', 'j', 'q', 'e', 'r', 's', 'z', 'p', 'b', 'd', 'y', 'v', 'o', 'u', 'f', 'w', 'l', 'm', 'g', 'c', 'n', 'i', 't', 'x', 'k', 'w', 'm', 'z', 'u', 'f', 't', 'g', 'd', 'k', 'a', 'v', 'j', 'r', 'l', 'i', 'b', 'e', 'n', 'p', 'o', 'q', 'x', 'c', 'y', 's', 'g', 'n', 'p', 'm', 'c', 's', 'x', 'l', 'w', 'z', 'v', 'f', 'a', 't', 'e', 'q', 'd', 'i', 'r', 'k', 'y', 'u', 'j', 'o', 'b']
+Group Count: 3
+Number of common: 25
+Group: ['b', 'n', 'f', 'u', 'd', 'i', 'i', 'n', 'a', 'y', 'i', 'u', 'n', 'c', 'v']
+Group Count: 3
+Number of common: 2
+Group: ['t', 'r', 'q', 'l', 'g', 'x', 'a', 'e', 'o', 'u', 'y', 'u', 'v', 'o', 'q', 'x', 'k', 't', 'w', 'e', 'j', 'y', 'r', 'o', 't', 'q', 'e', 'u', 'x', 'y', 'r', 'x', 'o', 'g', 'r', 'e', 'i', 'y', 'q', 'u', 't']
+Group Count: 4
+Number of common: 8
+Group: ['f', 'i', 'c', 'd', 'y', 'm', 'x', 'h', 'u', 'b', 'o', 'q', 'd', 'v', 'w', 'i', 'u', 'e', 'x', 'f', 'c']
+Group Count: 2
+Number of common: 6
+Group: ['z', 'b', 'h', 'n', 'd', 'u', 'g', 'u', 'g', 's', 'd', 'w', 'p', 'h', 'n', 'v', 'n', 'u', 'g', 'd', 'w', 'h', 'd', 'u', 'g', 'h', 'n', 'j', 'i', 'o', 'j', 'g', 's', 'y', 'u', 'h', 'n', 'd']
+Group Count: 5
+Number of common: 5
+Group: ['f', 'q', 'r', 'c', 'v', 'k', 'f', 'u', 'f']
+Group Count: 3
+Number of common: 1
+Group: ['y', 'v', 'f', 'y', 'f', 'v', 'y', 'f', 'v']
+Group Count: 3
+Number of common: 3
+Group: ['q', 't', 'n', 'c', 'c', 'b', 'q', 'n', 'q', 'n', 'c', 't', 'c', 'q', 'n']
+Group Count: 4
+Number of common: 3
+Group: ['r', 'x', 'y', 'h', 'i', 'z', 'g', 'j', 'k', 'l', 'u', 'm', 'v', 'f', 'i', 'd', 'x', 'g', 'j', 'l', 'k', 'y', 'h', 'v', 'r', 'a', 'v', 'n', 'c', 'x', 'q', 'r', 'j', 'b', 'k', 'g', 'p', 'l', 'h', 'i', 'y', 'z', 'r', 'd', 'k', 'x', 't', 'l', 'g', 'j', 'v', 'y', 'h', 'i']
+Group Count: 4
+Number of common: 10
+Group: ['z', 'j', 'q', 'f', 'u', 'p', 'r', 'g', 'o', 't']
+Group Count: 4
+Number of common: 0
+Group: ['h', 'r', 'g', 'k', 't', 'y', 'c', 'z', 's', 'v', 'n', 'm', 'i', 'o', 'l', 'e', 'w', 'b', 'f', 'g', 'b', 'o', 'w', 'm', 't', 'z', 'v', 'y', 'n', 'f', 'e', 'r', 'k', 's', 'i', 'c', 'h', 'l', 's', 'v', 'g', 'b', 'r', 'z', 'm', 'c', 'o', 'l', 'k', 'i', 'e', 'y', 'n', 'f', 'h', 't', 'w', 'v', 'e', 'h', 'w', 't', 'y', 'r', 'm', 'g', 's', 'n', 'i', 'c', 'k', 'f', 'o', 'z', 'b', 'l']
+Group Count: 4
+Number of common: 19
+Group: ['l', 'b', 'u', 'c', 'x', 'd', 'o', 'j', 'l', 'c', 'g', 'd', 'x', 'i', 'u']
+Group Count: 2
+Number of common: 5
+Group: ['h', 'v', 't', 'a', 'f', 'p', 'n', 'w', 'z', 'e', 'x', 'v', 'n', 'x', 'z', 'w', 'f', 't', 'e', 'h', 'p', 'h', 'e', 'z', 'x', 'v', 'n', 'p', 'f', 'w', 't', 't', 'n', 'e', 'h', 'f', 'x', 'v', 'p', 'z', 'w']
+Group Count: 4
+Number of common: 10
+Group: ['w', 'b', 'm', 'y', 'e', 'j', 'l', 'v']
+Group Count: 1
+Number of common: 8
+Group: ['g', 'e', 'v', 'q', 'i', 'e', 'i', 'g', 'v']
+Group Count: 2
+Number of common: 4
+Group: ['u', 'n', 'o', 'g', 't', 'l', 'f', 'w', 'v', 'c', 'y', 'j', 'd', 'r', 'j', 'c', 'u', 'v', 'l', 'f', 't', 'd', 'g', 'n', 'w', 'r', 'o', 'y']
+Group Count: 2
+Number of common: 14
+Group: ['k', 'd', 'l', 'm', 'p', 'k', 'l', 'w', 'k', 'l', 'f', 'a', 'y', 'l', 'k']
+Group Count: 4
+Number of common: 2
+Group: ['s', 'o', 'm', 'j', 'q', 'e', 'u', 'v', 'd', 'k', 'r', 'z', 'a', 'q', 'o', 'd', 'k', 'm', 'v', 'x', 's', 'j']
+Group Count: 2
+Number of common: 8
+Group: ['g', 'g', 'g', 'g']
+Group Count: 4
+Number of common: 1
+Group: ['c', 'e', 'i', 'h', 'q', 't', 'r', 'j', 'p', 'b', 'x', 's', 'o', 'x', 'o', 'h', 'i', 'p', 'c', 'e', 'r', 's', 'b', 'q', 'j', 'p', 'i', 'b', 'h', 'o', 'x', 's', 'r', 'j', 'e', 'f', 't', 'c', 'q', 'p', 'b', 'c', 'q', 'v', 'o', 's', 'e', 'h', 'r', 'j', 'i', 'x', 'i', 'c', 'b', 'q', 'h', 'o', 's', 'r', 'p', 'e', 'j', 'x']
+Group Count: 5
+Number of common: 12
+Group: ['j', 'v', 'l', 'd', 's', 'r', 'u', 'e', 'x', 'o', 'k', 't', 'r', 'd', 'v', 's', 'l', 'c', 'u', 'j', 'x', 'x', 'd', 'u', 'r', 'v', 'p', 'j', 's', 'l', 'm', 'x', 'e', 's', 'd', 'i', 'u', 'j', 'v', 'r', 'l']
+Group Count: 4
+Number of common: 8
+Group: ['r', 'g', 'c', 'd', 's', 'a', 'x', 'a', 'l', 'q', 's', 'b', 'd', 'f', 'd', 'a', 'v', 'z', 's', 'i', 'j', 's', 'u', 't', 'a', 'h', 'd', 'p', 'y', 'e', 'b', 'a', 'q', 'd', 's', 'z']
+Group Count: 5
+Number of common: 3
+Group: ['j', 'x', 'c', 'a', 'b', 'g', 'p', 'u', 'i', 'm', 't', 'e', 'k', 'q', 's', 'y', 'i', 'd', 'u', 'q', 'm', 'e', 't', 's', 'o', 'g', 'n', 'a', 'y', 'b', 'x', 'p', 'y', 'q', 'w', 'a', 'b', 'u', 'r', 'l', 'x', 'p', 's']
+Group Count: 3
+Number of common: 8
+Group: ['u', 'l', 'e', 's', 'v', 'z', 'o', 'i', 'j', 'd', 'n', 'p', 'f', 'h', 'k', 'a', 'c', 'w', 'm', 'x', 'b', 'r', 't', 'y', 'z', 'v', 'x', 'r', 'd', 'j', 's', 'k', 'e', 'f', 'b', 't', 'h', 'i', 'm', 'w', 'n', 'p', 'a', 'y', 'o', 'u', 'l', 'i', 'h', 'd', 'n', 'l', 'k', 'x', 'r', 'p', 'g', 'w', 'j', 'b', 'y', 'e', 'v', 'o', 'z', 'u', 'a', 't', 'm', 'f', 's', 'y', 'i', 'x', 'o', 'w', 'l', 'e', 'd', 'p', 'b', 'v', 'r', 't', 'h', 'j', 'k', 'z', 'u', 'f', 's', 'm', 'n', 'a']
+Group Count: 4
+Number of common: 23
+Group: ['h', 'x', 'i', 'b', 'v', 'u', 'z', 'd', 'o', 'w', 'y', 's', 'm', 'f', 'l', 'p', 'k', 'q', 'j', 'g', 'a', 'c', 'n', 'r', 'b', 'h', 'c', 't', 'i', 'm', 'd', 'a', 'k', 'y', 'q', 'l', 's', 'v', 'x', 'w', 'j', 'p', 'r', 'o', 'u', 'n', 'f', 'g']
+Group Count: 2
+Number of common: 23
+Group: ['x', 'o', 'l', 'z', 'a', 'a', 'x', 'z', 'l', 'x', 'a', 'z', 'l', 'd', 'l', 'z', 'o', 'a', 'x']
+Group Count: 4
+Number of common: 4
+Group: ['v', 'j', 'p', 'd', 'i', 'r', 'b', 'z', 'w', 'm', 'c', 'y', 'e', 'q', 't', 'f', 'g', 'o', 'u', 'l', 'h', 's', 'k', 's', 'h', 'z', 'p', 'u', 'g', 'k', 'q', 'l', 'o', 'b', 'm', 'r', 'i', 'd', 'v', 'j', 'y', 'e', 'w', 'f', 'c', 'y', 'b', 'u', 'f', 'w', 'l', 'j', 'h', 'r', 'c', 'd', 'e', 'g', 's', 'i', 'o', 'z', 'q', 'v', 'k', 'm', 'p', 'u', 'c', 'n', 'b', 'o', 'k', 'i', 'l', 'm', 'g', 'v', 'q', 'w', 'j', 'z', 's', 'f', 'p', 'h', 'a', 'e', 'r', 'y', 'x', 'd']
+Group Count: 4
+Number of common: 22
+Group: ['f', 'z', 'w', 'i', 'y', 'x', 'u', 't', 'v', 'm', 'd', 'p', 'b', 'q', 'k', 'g', 'r', 'j', 'v', 'm', 'q', 'l', 'u', 'd', 'b', 'f', 'y', 'w', 'z', 'k', 'x', 'p', 'i', 'j', 't', 'g', 'q', 'w', 'k', 'u', 'z', 'b', 'f', 'x', 'y', 'j', 'm', 'd', 'p', 't', 'i', 'g', 'v', 'p', 'm', 'g', 'i', 'f', 'd', 'k', 'j', 't', 'b', 'u', 'z', 'y', 'w', 'v', 'q', 'x']
+Group Count: 4
+Number of common: 17
+Group: ['j', 'v', 'x', 'w', 'l', 'q', 'r', 'r', 'q', 'f', 'j', 'm', 's', 'v', 'e', 'o', 'a', 'w', 'p', 't', 'b', 'y', 'h', 'v', 'j', 'q', 'w', 'q', 'w', 'k', 'v', 'j', 'x', 'g']
+Group Count: 4
+Number of common: 4
+Group: ['q', 'n', 'a', 'x', 'r', 'd', 'u', 'h', 'p', 'f', 'v', 'o', 'y', 'j', 'b', 'k', 's', 'g', 'w', 'q', 'j', 'n', 'w', 'i', 'e', 'a', 'o', 'x', 'r', 's', 'f', 'p', 'z', 'd', 'h', 'k']
+Group Count: 2
+Number of common: 14
+Group: ['n', 'r', 'c', 'm', 'y', 'k', 's', 'o', 'd', 'h', 'a', 'z', 't', 'i', 'j', 'u', 'w', 'b', 'l', 'v', 'k', 's', 'x', 'r', 'u', 'f', 'a', 'q', 'h', 'w', 'b', 'c', 'n', 'm', 'e']
+Group Count: 2
+Number of common: 11
+Group: ['s', 'q', 'x', 's', 'j', 'b', 'q', 'l', 'g', 's', 'q', 'n', 'p', 'w', 'k', 's', 'q']
+Group Count: 4
+Number of common: 2
+Group: ['c', 'p', 'g', 'k', 'r', 'j', 'v', 'q', 'x', 'v', 'g', 'k', 'p', 'q', 'c', 'x', 'j', 'r', 'q', 'j', 'x', 'c', 'k', 'a', 'p', 'v', 'o', 'r', 'g', 'x', 'j', 'v', 'q', 'c', 'k', 'p', 'r', 'g', 'g', 'k', 'q', 'r', 'c', 'p', 'v', 'x', 'j']
+Group Count: 5
+Number of common: 9
+Group: ['o', 'j', 'y', 'z', 'i', 'u', 'q', 'k', 'b', 'e', 'f', 'v', 'u', 'c', 'e', 'a', 'r', 't']
+Group Count: 2
+Number of common: 2
+Group: ['q', 'p', 'g', 'y', 'k', 'n', 'd', 'k', 'f', 'v', 'y', 'j', 't', 'd']
+Group Count: 2
+Number of common: 3
+Group: ['p', 'h', 'f', 'm', 'q', 'd', 'w', 'x', 'n', 'u', 'v', 'g', 'o', 'o', 'u', 'x', 'd', 'b', 'l', 'h', 'n', 'm', 'p', 'g', 'q', 'a', 'm', 'x', 'n', 'p', 'i', 'h', 'k', 'd', 'u', 's', 'o', 'q', 'r']
+Group Count: 3
+Number of common: 9
+Group: ['r', 'u', 'n', 'd', 'n', 'x', 'v', 'n', 'c', 'p', 'o', 'n', 'k', 'l', 'q', 'n', 'u', 'r']
+Group Count: 5
+Number of common: 1
+Group: ['i', 'x', 'o', 'y', 't', 'f', 'q', 'u', 'g', 'r', 'v', 'j', 'z', 'c', 'd', 'w', 'l', 'h', 'k', 'b', 'e', 's', 'm', 'p', 'q', 'a', 'l', 'r', 'y', 'z', 't', 'j', 'x', 'u', 'm', 'h', 'e', 'v', 'i', 'f', 'n', 'o', 'b', 'p', 'c', 'g', 'd', 'w', 'b', 'o', 't', 'h', 'i', 'u', 'x', 'q', 'j', 'z', 'e', 'f', 'c', 'g', 'l', 'p', 'w', 'y', 'm', 'd', 'v', 'a', 'r', 'l', 'g', 'f', 'j', 'c', 't', 'r', 'i', 'x', 'h', 'z', 'u', 'd', 'a', 'q', 'm', 'e', 'b', 'p', 'v', 'o', 'y', 'w', 'z', 'l', 'w', 'f', 'o', 'i', 't', 'u', 'x', 'v', 'd', 'p', 'q', 'b', 'e', 'j', 'h', 'y', 'c', 'g', 'r', 'm']
+Group Count: 5
+Number of common: 22
+Group: ['l', 'r', 'w', 'v', 'k', 'j', 'j', 'q', 'w', 'c']
+Group Count: 2
+Number of common: 2
+Group: ['a', 'w', 'v', 'y', 's', 't', 'v', 't', 'y', 's', 'a']
+Group Count: 2
+Number of common: 5
+Group: ['u', 'g', 'x', 'y', 's', 'x', 'x', 'x', 'x']
+Group Count: 5
+Number of common: 1
+Group: ['i', 's', 'm', 'v', 'm', 'f', 'i', 'i', 'h', 'o', 'f', 'm']
+Group Count: 3
+Number of common: 2
+Group: ['l', 'i', 'j', 'w', 'u', 'x', 'c', 'b', 'r', 'f', 'o', 't', 'e', 'k', 'p', 'a', 'n', 'g', 'z', 'm', 's', 'v', 'y', 'd', 'o', 'n', 'm', 's', 'd', 'k', 'l', 'u', 't', 'y', 'b', 'r', 'c', 'q', 'a', 'v', 'e', 'g', 'w', 'f', 'x', 'i', 'j', 'p', 'v', 'n', 'y', 'a', 'r', 'm', 's', 'l', 'c', 'e', 't', 'o', 'x', 'j', 'k', 'w', 'u', 'q', 'g', 'd', 'i', 'p', 'f', 'b', 'j', 't', 'r', 's', 'd', 'm', 'f', 'c', 'n', 'w', 'i', 'v', 'e', 'y', 'x', 'l', 'o', 'b', 'h', 'u', 'k', 'g', 'p', 'a', 'm', 's', 'a', 't', 'l', 'e', 'r', 'k', 'o', 'v', 'j', 'n', 'f', 'g', 'd', 'i', 'c', 'u', 'y', 'w', 'p', 'x', 'b']
+Group Count: 5
+Number of common: 23
+Group: ['x', 'm', 'y', 'e', 'n', 'e', 'n', 'y', 'm', 'x', 'm', 'y', 'x', 'e', 'n', 'x', 'y', 'e', 'm', 'n', 'x', 'y', 'm', 'e', 'n']
+Group Count: 5
+Number of common: 5
+Group: ['o', 'a', 'u', 's', 't', 'q', 'd', 'i', 'f', 'y', 'x', 'e', 'p', 'k', 'r', 'w', 'h', 'k', 'b', 'c', 'v', 'm', 'r', 'j', 'n']
+Group Count: 2
+Number of common: 2
+Group: ['u', 'q', 'v', 'q', 'r', 'v', 'w', 'q', 'v', 'v', 'q', 't', 'm', 'u', 'q', 'v']
+Group Count: 5
+Number of common: 2
+Group: ['l', 'o', 'l', 'l', 't', 'l']
+Group Count: 5
+Number of common: 0
+Group: ['a', 'o', 'q', 'u', 'j', 'e', 'm', 'i', 't', 'x', 'r', 's', 'z', 'g', 'n', 'y', 'w', 'v', 'l', 'c', 'l', 'a', 'u', 'z', 'w', 'h', 'v', 'r', 'a', 'k', 'u', 'l', 'r', 'b', 'd', 'z', 'w', 'v', 'l', 'r', 'w', 'd', 'p', 'v', 'h', 'a', 'u', 'z']
+Group Count: 4
+Number of common: 7
+Group: ['j', 'h', 'w', 'y', 'c', 'g', 's', 'o', 't', 'r', 's', 'h', 'd', 'a', 'h', 's', 's', 'h']
+Group Count: 4
+Number of common: 2
+Group: ['o', 'y', 'd', 'x', 'j', 'r', 'h', 'e', 't', 'a', 'i', 'n', 'w', 'n', 'b', 'w', 'd', 'x', 'l', 'o', 'e', 't', 'y', 'i', 'a', 'r', 'e', 'n', 't', 'c', 'i', 'o', 'x', 'r', 'w', 'a', 'd', 'y', 'h', 't', 'o', 'n', 'y', 'e', 'x', 'r', 'p', 'd', 'a', 'w', 'i']
+Group Count: 4
+Number of common: 11
+Group: ['b', 'k', 'd', 'r', 'q', 'l', 'n', 'j', 'w', 's', 'h', 'i', 'n', 'k', 'i', 'd', 'b', 'w', 's', 'h', 'r', 'q', 'l', 'j', 'h', 'r', 'q', 'v', 'f', 'l', 'd', 'j', 'i', 'n', 's', 'b', 'k', 'w', 'k', 'h', 'd', 'b', 's', 'n', 'w', 'r', 'j', 'i', 'l', 'q', 'w', 'j', 'n', 'i', 'p', 'a', 'd', 'h', 'q', 'k', 'r', 'l', 'b', 's']
+Group Count: 5
+Number of common: 12
+Group: ['i', 'u', 's', 'q', 'o', 'v', 't', 'z', 'g', 'a', 'j', 'p', 'n', 'd', 'c', 'w', 'l', 'i', 'c', 's', 't', 'g', 'z', 'p', 'u', 'r', 'h', 'b', 'w', 'q', 'n', 'v', 'j', 'o', 'k', 'a']
+Group Count: 2
+Number of common: 15
+Group: ['h', 'v', 'w', 'c', 'u', 'e', 'c', 'h', 'w', 'n', 'e', 'j', 'v', 'c', 'x', 'w', 'v', 'a', 't', 'h']
+Group Count: 3
+Number of common: 4
+Group: ['y', 'r', 'o', 'k', 's', 'b', 't', 'b', 's', 's', 'w', 'b', 's', 'b', 's', 'b']
+Group Count: 5
+Number of common: 2
+Group: ['v', 'g', 'i', 'x', 'n', 'f', 'o', 's', 'r', 'p', 'e', 't', 'b', 'r', 'w', 'p', 'n', 'd', 'f', 'e', 'v', 'y', 'l', 'g']
+Group Count: 2
+Number of common: 7
+Group: ['a', 'l', 'y', 't', 'p', 'j', 'g', 'x', 'n', 's', 't', 'y', 'j', 'n', 'k', 'm', 'e', 'g', 'i', 'l', 'n', 'p', 'f', 'y', 'a', 'k', 'j', 'g', 'x', 'l', 't', 'v', 'z', 'd', 'h', 't', 'l', 'o', 'n', 'w', 'y', 'g', 'b', 'j', 'q']
+Group Count: 4
+Number of common: 6
+Group: ['d', 'p', 'd', 'p', 'p', 'd', 'd', 'p', 'p', 'd']
+Group Count: 5
+Number of common: 2
+Group: ['c', 'a', 'v', 'i', 'a', 'c', 'c', 'h', 'z', 'u']
+Group Count: 4
+Number of common: 0
+Group: ['k', 'd', 'v', 'f', 'l', 'd', 'd', 'w', 'q', 'q', 'd', 's']
+Group Count: 4
+Number of common: 1
+Group: ['x', 'w', 'a', 'n', 'x', 'l']
+Group Count: 2
+Number of common: 1
+Group: ['c', 'f', 'b', 'o', 'r', 'l', 'a', 'z', 'j', 'q', 'p', 'f', 'c', 'l', 'o', 'a', 'j', 'r', 'w', 'q', 'b', 'z', 'b', 't', 'o', 'n', 'a', 'q', 'z', 'i', 'd', 'l', 'f', 'r', 'g', 'j', 'c', 'l', 'c', 'f', 'j', 'z', 'q', 's', 'r', 'o', 'b', 'a']
+Group Count: 4
+Number of common: 10
+Group: ['o', 'n', 'k', 'w', 'l', 's', 'f']
+Group Count: 5
+Number of common: 0
+Group: ['o', 'y', 'l', 'a', 's', 'g', 'w', 't', 'b', 'n', 'u', 'w', 's', 't', 'x', 'y', 'l', 'z', 'u', 'g', 'i', 'k', 'j', 'v', 'u', 'q', 'w', 'l', 't', 'y', 'h', 'g', 's', 'u', 'l', 't', 'b', 'o', 'm', 'g', 'w', 'n', 's', 'y', 'a', 'x']
+Group Count: 4
+Number of common: 7
+Group: ['i', 'o', 't', 'q', 's', 'p', 'c', 'w', 'u', 'h', 'r', 'u', 'p', 'l', 'i', 'n', 'r', 'g', 'c', 'v', 'h', 'e', 'w', 's', 't', 'd', 'u', 's', 'p', 'c', 'h', 'w', 'r', 'i', 'm', 's', 'i', 'h', 'r', 'c', 'b', 'q', 'u', 'o', 't', 'w', 'p']
+Group Count: 4
+Number of common: 8
+Group: ['q', 'j', 'd', 'n', 'k', 'l', 'l', 'd', 'n', 'q', 'a', 'q', 'd', 'i', 'k', 'n', 'l', 'q', 'd', 'm', 'n', 'l', 'v', 's', 'l', 't', 'x', 'w', 'b', 'q', 'n', 'y', 'd']
+Group Count: 5
+Number of common: 4
+Group: ['r', 'n', 'z', 'm', 'y', 'b', 'p', 'z', 'f', 'n', 'w', 'c', 'n', 'k', 'a', 'z', 'd', 'q', 'g', 'u', 'z', 'e', 's', 'v', 'm', 'j', 'n', 'v', 'z', 'n']
+Group Count: 5
+Number of common: 2
+Group: ['e', 'm', 'p', 'e', 'p', 'm', 'p', 'e', 'm', 'm', 'e', 'p', 'm', 'p', 'e']
+Group Count: 5
+Number of common: 3
+Group: ['z', 'x', 'h', 'd', 'e', 'd', 'e', 'm', 'h', 'z', 'j', 'a', 'd', 'u', 'c', 'k', 'r', 'p', 'v', 'g', 'l', 's', 'w']
+Group Count: 4
+Number of common: 0
+Group: ['p', 'e', 'g', 'n', 'g', 'n', 'e', 'p', 'p', 'g', 'n', 'e', 'e', 'n', 'g', 'p']
+Group Count: 4
+Number of common: 4
+Group: ['h', 'j', 'k', 'e', 'o', 'y', 'r', 'g', 'l', 'p', 'c', 'i', 't', 'b', 'v', 'a', 'u', 'b', 't', 'z', 's', 'm', 'v', 'a', 'k', 'o', 'l', 'y']
+Group Count: 2
+Number of common: 8
+Group: ['u', 'b']
+Group Count: 2
+Number of common: 0
+Group: ['k', 's', 'a', 'n', 'b', 's', 'b', 'k', 's', 'b', 'k', 's', 'k', 'v', 'x', 'd', 'b', 'b', 'k', 'f', 's']
+Group Count: 5
+Number of common: 3
+Group: ['z', 'z', 'z', 'o', 'w', 'u', 'q', 'm', 'z', 'g', 'z']
+Group Count: 5
+Number of common: 1
+Group: ['j', 'w', 'b', 'y', 'a', 'u', 'g', 'k', 'n', 'e', 't', 'q', 'r', 'm', 'o', 'x', 'h', 'a', 'x', 'w', 'n', 'm', 'o', 'b', 'e', 't', 'r', 'j', 'q', 'k', 'd', 'y', 'u', 'h', 'g', 'o', 'm', 'v', 'j', 'b', 'y', 'h', 'n', 'g', 'u', 'r', 'e', 'q', 'x', 'k', 'a', 't', 'w']
+Group Count: 3
+Number of common: 17
+Group: ['l', 'q', 'd', 'i', 'b', 'a', 'n', 'i', 'f', 'b', 'a', 'z', 'l', 'n', 'b', 'a', 'f', 'z', 'i', 'n', 'l', 'i', 'f', 's', 'b', 'a', 'n', 'l']
+Group Count: 4
+Number of common: 5
+Group: ['d', 'o', 'v', 'k', 'x', 'j', 'y', 'l', 'a', 'b', 'q', 'm', 't', 'i', 'z', 'w', 'p', 'a', 'w', 'v', 'o', 'x', 'd', 'm', 'b', 'y', 'i', 'z', 'q', 't', 'j', 'v', 'w', 'u', 'b', 'i', 'a', 'y', 'o', 'p', 'g', 'x', 'c', 'j', 'z', 'q', 'd', 't', 'm', 'q', 'b', 'j', 't', 'v', 'o', 'w', 'd', 'n', 'z', 's', 'i', 'x', 'a', 'm', 'y']
+Group Count: 4
+Number of common: 14
+Group: ['y', 'k', 'p', 'u', 's', 'j', 'a', 'q', 'c', 'l', 'o', 'w', 'b', 'k', 'j', 's', 'c', 'l', 'y', 'n', 'w', 'q', 'a', 'p', 'o', 'b', 'u']
+Group Count: 2
+Number of common: 13
+Group: ['z', 'a', 's', 'y', 'p', 'u', 'n', 'b', 'w', 'i', 't', 'o', 'r', 'j', 'v', 'm', 'e', 'g', 'l', 'q', 'x', 'h', 'k', 'd', 'c', 'f', 'b', 'v', 'l', 'i', 'r', 'h', 'q', 'w', 'g', 's', 'k', 'f', 't', 'x', 'e', 'd', 'o', 'n', 'y', 'm', 'u', 'a', 'p', 'c', 'j', 'z']
+Group Count: 2
+Number of common: 26
+Group: ['e', 'z', 'x', 'g', 'h', 'w', 'r', 'r', 'z', 'g', 'x', 'n', 'e', 'w', 'h', 'e', 'r', 'w', 'x', 'z', 'h', 'g', 'v']
+Group Count: 3
+Number of common: 7
+Group: ['n', 'k', 'f', 'v', 'p', 'l', 's', 't', 'g', 'a', 'y', 'b', 'm', 'h', 'o', 'r', 'e', 'w', 'z', 'u', 'l', 'a', 'k', 'o', 'h', 'r', 'f', 'u', 'z', 'n', 'j', 'd', 's', 'q', 'v', 'g', 'm', 'y', 'w', 'p', 't', 'u', 'y', 's', 'h', 'c', 'f', 'w', 'k', 'p', 'a', 'b', 'z', 'o', 'm', 'g', 'l', 'r', 'n', 'v', 'c', 'l', 'n', 's', 'r', 'g', 'v', 'o', 'w', 'h', 'u', 'f', 'a', 'm', 'y', 'k', 'z', 'p']
+Group Count: 4
+Number of common: 17
+Group: ['g', 'b', 'r', 'l', 'n', 'p', 'b', 'b', 'b', 's', 'w']
+Group Count: 4
+Number of common: 1
+Group: ['u', 'g', 'c', 'n', 's', 'k', 'o', 'm', 'z', 'e', 'p', 'j', 'v', 'x', 'i', 'f', 'r', 't', 'w', 'q', 'v', 'p', 'm', 'k', 'u', 't', 'e', 'f', 'j', 'z', 'g', 'w', 'r', 'b', 's', 'o', 'n', 'c', 'x', 'i', 'q', 'c', 'm', 'k', 'e', 's', 'u', 'f', 'o', 'x', 'v', 'q', 'p', 'r', 'w', 'i', 'd', 'z', 'g', 'n', 't', 'j']
+Group Count: 3
+Number of common: 20
+Group: ['r', 'p', 's', 'h', 'e', 'i', 'b', 'k', 'g', 'b', 'o', 'k', 'w', 'g', 'j', 'e', 'h']
+Group Count: 2
+Number of common: 5
+Group: ['s', 'f', 'w', 'g', 'b', 'm', 'j', 'm', 'f', 'g', 'b', 'w', 's', 's', 'g', 'f', 'u', 'm', 'w', 'b', 'b', 'f', 'm', 'g', 'w', 's']
+Group Count: 4
+Number of common: 6
+Group: ['q', 'f', 'x', 'd', 'e', 'r', 'y', 't', 'i', 'k', 'w', 'y', 'l', 'n']
+Group Count: 2
+Number of common: 1
+Group: ['n', 's', 'r', 'j', 'p', 'b', 't', 'x', 'u', 'v', 'c', 'f', 'g', 'l', 'p', 'u', 't', 'v', 'c', 'j', 'f', 'r', 'd', 'l', 's', 'o', 'n', 'x', 'e', 'g', 'b', 'v', 'g', 'b', 'j', 't', 'r', 'l', 's', 'f', 'x', 'c', 'p', 'u', 'n', 'l', 'n', 'b', 'g', 'c', 't', 'v', 'm', 's', 'j', 'r', 'x', 'i', 'u', 'f', 'p']
+Group Count: 4
+Number of common: 14
+Group: ['c', 'n', 'a', 'w', 'z', 'e', 'x', 's', 'd', 'l', 'u', 'b', 'p', 'm', 'b', 'u', 'f', 'n', 'v', 'd', 'i', 'a', 'x', 'p', 't', 'l', 'c', 'm', 's', 'e', 'l', 'b', 'y', 'u', 'g', 'e', 'x', 'm', 'd', 'n', 'c', 's', 'p', 'a']
+Group Count: 3
+Number of common: 12
+Group: ['x', 't', 'v', 'p', 'c', 'f', 's', 'd', 'z', 'e', 'w', 'm', 'g', 'a', 'q', 'b', 'f', 'e', 'l', 'c', 'x', 'v', 'd', 'p', 'i', 'q', 'n', 'u', 'y', 'm', 'o', 'w']
+Group Count: 2
+Number of common: 10
+Group: ['x', 'o', 'q', 't', 't', 'q', 'x', 'p', 'g', 't', 'f', 'q', 'j', 'k', 'v', 'b', 'u', 't', 'q', 'a', 'q', 't', 'a']
+Group Count: 5
+Number of common: 2
+Group: ['j', 'p', 'l', 'a', 'c', 'd', 't', 'i', 'a', 'p', 'f', 'l', 'i', 'o', 'j', 't', 'c', 'b', 'i', 'l', 'c', 'a', 'p', 'j', 't', 'k', 'a', 't', 'c', 'j', 'i', 'l', 'p', 't', 'u', 'i', 'p', 'n', 'j', 'l', 'e', 'y', 'a', 's', 'c']
+Group Count: 5
+Number of common: 7
+Group: ['b', 'y', 'b', 'y', 'y', 'o', 'b', 'b', 'y']
+Group Count: 4
+Number of common: 2
+Group: ['m', 'm', 'p']
+Group Count: 2
+Number of common: 1
+Group: ['k', 'e', 'n', 'j', 'r', 't', 'g', 'y', 'v', 'x', 'i', 'q', 'w', 'm', 'a', 'z', 'c', 'h', 'f', 'b', 'u', 'p', 'd', 'e', 'z', 'p', 'l', 'g', 'i', 'w', 'y', 'x', 'r', 'q']
+Group Count: 2
+Number of common: 10
+Group: ['r', 'a', 'w', 'a', 'a', 'w']
+Group Count: 3
+Number of common: 1
+Group: ['q', 'l', 'd', 'p', 'i', 'h', 't', 'c', 'e', 'y', 'f', 'o', 'k', 's', 'a', 'c', 'f', 's', 'o', 'p', 'e', 'a', 't', 'k', 'i', 'l', 'y', 'n', 'q', 'r', 'd', 'v', 'x', 'c', 't', 'l', 'f', 'j', 's', 'o', 'a', 'p', 'i', 'g', 'u', 'y', 'q', 'd', 'k', 'e', 's', 'y', 'i', 'u', 'p', 'w', 'b', 'j', 'l', 'a', 'c', 'e', 'f', 'o', 'k', 'q', 'd', 't']
+Group Count: 4
+Number of common: 14
+Group: ['s', 'c', 't', 'w', 's', 'q']
+Group Count: 2
+Number of common: 1
+Group: ['e', 'w', 'c', 'c', 'e', 'c', 'e', 'c', 'e', 'i', 'a', 'f']
+Group Count: 4
+Number of common: 2
+Group: ['w', 'n', 'q', 'f', 'k', 'l', 'y', 'g', 'e', 'h', 'i', 'r', 'd', 'x', 'a', 'z', 'u', 'p', 'v', 'q', 'g', 'e', 'p', 'x', 'n', 's', 'z', 'i', 'a', 'k', 'r', 'w', 'e', 'z', 'n', 'x', 'g', 'q', 'w', 'p', 'r', 'i', 'a', 'k', 'i', 'r', 'n', 'q', 'v', 'z', 'w', 'k', 'p', 'a', 'x', 'b', 'e', 'g']
+Group Count: 4
+Number of common: 12
+Group: ['g', 'u', 'a', 'u']
+Group Count: 2
+Number of common: 1
+Group: ['u', 'j', 'v', 'i', 'd', 'w', 'o', 'e', 'j', 'e', 'k', 'i', 'u', 'b', 'd', 'o', 'v', 'i', 'd', 'u', 'n', 'j', 'v', 'e', 'o', 'e', 'i', 'd', 'v', 'u', 'n', 'j', 'o', 'e', 'v', 'i', 'n', 'o', 'y', 'd', 'u', 'j']
+Group Count: 5
+Number of common: 7
+Group: ['i', 'r', 'y', 't', 'z', 's', 'j', 'h', 'n', 'r', 'r', 'm', 'n', 'r', 'j', 'd', 'b', 'r', 'n', 'v']
+Group Count: 5
+Number of common: 1
+Group: ['u', 'g', 'g', 'u', 'u', 'g', 'u', 'g', 'u', 'g']
+Group Count: 5
+Number of common: 2
+Group: ['i', 'f', 'n', 'd', 'u', 'a', 'r', 'a', 'f', 'y', 'd', 'u', 'i', 'n', 'u', 'f', 'h', 'v', 'n', 'a', 'd', 'i', 'd', 'y', 'g', 'u', 'a', 'm', 'i', 'f', 'n']
+Group Count: 4
+Number of common: 6
+Group: ['a', 'i', 'h', 'w', 'l', 'j', 'u', 'q', 'k', 'e', 'z', 'p', 'w', 'z', 'a', 'i', 'q', 'l', 'p', 'i', 'p', 'l', 'a', 'g', 'z', 'w', 'q', 'q', 'w', 'i', 'z', 'm', 'p', 'l', 'a']
+Group Count: 4
+Number of common: 7
+Group: ['p', 'v', 'e', 'd', 'l', 'x', 'n', 't', 'w', 'j', 'f', 'v', 'e', 'l', 'd', 'p', 'n', 'f', 't', 'w', 'j']
+Group Count: 2
+Number of common: 10
+Group: ['x', 'v', 'g', 'l', 'b', 'z', 'u', 's', 'e', 'm', 'w', 'q', 'i', 'h', 'n', 'v', 'k', 'd', 'b', 'e', 'f', 'x', 'r', 't', 'i', 'm', 'p']
+Group Count: 2
+Number of common: 6
+Group: ['s', 'p', 'c', 'w', 'i', 'p', 'j', 'e', 'w', 'i', 'i', 'd', 'p', 'y', 'f', 'b', 'i', 'v', 'p', 'p', 'w', 'z', 'i', 'o', 'j']
+Group Count: 5
+Number of common: 2
+Group: ['e', 'v', 'z', 'a', 'z', 'g']
+Group Count: 5
+Number of common: 0
+Group: ['m', 'j', 'v', 'x', 'y', 'a', 'g', 'u', 'o', 'c', 'q', 'l', 'h', 'y', 'p', 'b', 'g', 'w', 'q', 'e', 'g', 'y', 'l', 'r', 'g', 'k', 'l', 'y', 'r', 'n', 'i', 'w']
+Group Count: 4
+Number of common: 2
+Group: ['t', 'v', 'l', 'l']
+Group Count: 3
+Number of common: 0
+Group: ['t', 'm', 'r', 'z', 'o', 'l', 'd', 'v', 's', 'i', 'u', 'o', 'w', 'z', 'p', 'g', 'l', 's', 'i', 'd', 'v', 't', 'm', 'u', 'h', 'm', 't', 'j', 'v', 'l', 'o', 'd', 'x', 's', 'u', 'b', 'y', 'z', 'i', 't', 'u', 'v', 'i', 'l', 'z', 'd', 'o', 'k', 's', 'm', 'a']
+Group Count: 4
+Number of common: 10
+Group: ['y', 'e', 'n', 'v', 'd', 'm', 's', 'a', 'g', 'q', 'n', 'i', 'h', 'f', 'b', 'x', 'a', 'y', 'm', 'g']
+Group Count: 2
+Number of common: 5
+Group: ['h', 'c', 'y', 'l', 'a', 'n', 'q', 'd', 'j', 'm', 'w', 'r', 'p', 'i', 'x', 'b', 'o', 'q', 'm', 'w', 'x', 'y', 'b', 'p', 'c', 'd', 'a', 'l', 'o', 'h', 'n', 'm', 'x', 'w', 'o', 'a', 'z', 'y', 'p', 'h', 'n', 'd', 'c', 'b', 'l', 'q', 'w', 'z', 'b', 'y', 'd', 'a', 'm', 'n', 'o', 'q', 'x', 'h', 'c', 'p', 'l', 'm', 'n', 'l', 'c', 'a', 'd', 'y', 'b', 'w', 'x', 'p', 'q', 'o', 'h']
+Group Count: 5
+Number of common: 14
+Group: ['m', 'i', 'u', 'p', 'n', 'h', 'b', 'v', 'j', 'u', 'w', 'p', 'n', 'b', 'h', 'x', 'j', 'q', 'i', 'v']
+Group Count: 2
+Number of common: 8
+Group: ['r', 'q', 'g', 't', 'a', 'a', 'w', 'k', 'x', 'o', 'h', 'z', 'j', 's', 'd', 'b', 'a', 'w', 'f', 'u']
+Group Count: 4
+Number of common: 0
+Group: ['g', 's', 'k', 'n', 'c', 'r', 'o', 'x', 'n', 'p', 'u', 'l', 'c']
+Group Count: 2
+Number of common: 2
+Group: ['i', 'u', 'g', 'z', 'c', 's', 'e', 'o', 'l', 'h', 'g', 's', 'h', 'i', 'o', 'l', 'u', 'e', 'z', 'c']
+Group Count: 2
+Number of common: 10
+Group: ['j', 'q', 'b', 'i', 'p', 'j', 'q', 'i', 'b', 'q', 'j', 'n', 'j', 'o', 'q', 'v']
+Group Count: 4
+Number of common: 2
+Group: ['e', 'i', 't', 'j', 'b', 'c', 'r', 'l', 'p', 's', 'k', 'b', 'h', 'y', 'f', 'r', 'g', 'x', 'u', 'z', 'o', 'i', 'a', 'w', 'v']
+Group Count: 2
+Number of common: 3
+Group: ['f', 'e', 'j', 'd', 'y', 'a', 'n', 'x', 'c', 'y', 'f', 'j', 'e', 'k', 'x', 'd', 'o', 'n']
+Group Count: 2
+Number of common: 7
+Group: ['g', 'q', 'z', 'n', 'i', 'u', 'b', 'e', 'j', 'k', 'x', 'z', 'j', 'i', 'n', 'g', 'b', 'q', 'h', 'u', 'e', 'x', 'k', 'g', 'k', 'n', 'z', 'x', 'q', 'c', 'u', 'i', 'j', 'e', 'b', 'u', 'x', 'j', 'n', 'z', 'v', 'e', 'r', 'g', 'i', 'k', 'y', 'b', 'q']
+Group Count: 4
+Number of common: 11
+Group: ['w', 'u', 'b', 'w', 't', 'a', 'r', 'x']
+Group Count: 3
+Number of common: 0
+Group: ['g', 'h', 'p', 'i', 'h', 'i', 'a', 's', 'g', 'a', 'h', 'i', 'p', 'y', 'i', 'c', 'd']
+Group Count: 4
+Number of common: 1
+Group: ['b', 'r', 'y', 's', 'q', 'h', 'k', 'g', 'f', 'b', 'n', 'm', 'a', 'c', 'r', 'w', 'p', 'r', 't', 'b', 'y', 'q', 'l', 's']
+Group Count: 3
+Number of common: 2
+Group: ['l', 'z', 'f', 'q', 'o', 't', 'q', 'o', 'l', 'f', 'z', 'l', 'q', 'f', 'z', 'k', 'o', 'r', 'q', 'o', 'p', 'm', 'z', 'd', 'e', 'f', 'l', 'c', 'x', 't', 'o', 'q', 'f', 'l', 'z']
+Group Count: 5
+Number of common: 5
+Group: ['v', 'h', 'r', 'e', 'm', 'd', 'p', 'y', 'w', 't', 'a', 'b', 'o', 'k', 'u', 'i', 'l', 'x', 'o', 'r', 'y', 'h', 'f', 'c', 'z', 't', 'a', 'i', 'x', 'l', 'v', 'm', 'd', 'w', 'u', 'p']
+Group Count: 2
+Number of common: 15
+Group: ['m', 'w', 'v', 'q', 'z', 'n', 'g', 'l', 'u', 'x', 'p', 'c', 'o', 'e', 'i', 'd', 'k', 'u', 'f', 'c', 'g', 'n', 'x', 'j', 'v', 'm', 'd', 'z', 'q', 'i', 'k', 'h', 'l', 'p', 'w', 'l', 'w', 'v', 'k', 'x', 'm', 'c', 'i', 'u', 'e', 'p', 'n', 'd', 'g', 'q', 'z', 'g', 'l', 'm', 'z', 'p', 'q', 'k', 'n', 'i', 'e', 'u', 'd', 'v', 'x', 'c', 'w', 's']
+Group Count: 4
+Number of common: 15
+Group: ['i', 'b', 'r', 'd', 'u', 'w', 'h', 'l', 'c', 'x', 't', 's', 'n', 'p', 'y', 'v', 'a', 'm', 'e', 'k', 'z', 'j', 'f', 'z', 'm', 'u', 'e', 'v', 't', 'y', 'n', 'h', 'p', 'f', 's', 'k', 'r', 'a', 'l', 'c', 'w', 'j', 'x', 'i', 'b', 'd']
+Group Count: 2
+Number of common: 23
+Group: ['r', 'v', 'd', 'p', 'e', 'b', 'n', 'w', 's', 'i', 'u', 'g', 'm', 'a', 'q', 'z', 'x', 'j', 's', 'i', 'd', 'l', 'b', 'y', 'a', 'k', 'w', 'r', 'h', 'v', 'g', 'm', 'j', 'o', 'e', 'f']
+Group Count: 2
+Number of common: 12
+Group: ['q', 'q', 'q']
+Group Count: 3
+Number of common: 1
+Group: ['j', 'o', 'f', 'k', 'm', 'b', 'c', 'u', 'n', 'a', 'x', 'e', 't', 'e', 'l', 'q', 'n', 'g', 'a', 'b', 'h', 's', 'k', 'm', 'y', 'w', 'k', 'm', 'x', 'a', 'c', 'e', 'n', 'i', 'b']
+Group Count: 3
+Number of common: 6
+Group: ['e', 'z', 'f', 'p', 'o', 'g', 'a', 'd', 'r', 'b', 'u', 'l', 'y', 's', 's', 'b', 'a', 'm', 'g', 'e', 'n', 'y', 'o', 'p', 'f', 'z', 'u']
+Group Count: 2
+Number of common: 11
+Group: ['u', 't', 'a', 'g', 'k', 'd', 'z', 'v', 'w', 'o', 'q', 'e', 'm', 'c', 'h', 'b', 'z', 't', 'h', 'l', 'u', 'v', 'q', 'i', 'n', 'a', 'c', 'g', 'b', 'q', 'c', 'j', 'h', 'v', 'u', 't', 'i', 'l', 'z', 'n', 'a', 'b', 'g', 'y']
+Group Count: 3
+Number of common: 10
+Group: ['g', 'd', 'u', 'w', 'c', 'p', 'j', 'b', 'c', 'x', 'g', 'd', 's', 'w', 'p', 'u', 'r', 'j', 'p', 'u', 'j', 'd', 'w', 'm', 'c', 'g']
+Group Count: 3
+Number of common: 7
+Group: ['z', 'x', 'c', 'a', 'g', 'i', 'r', 'y', 'e', 'u', 'z', 'r', 'l', 'j', 'g', 'q', 'g', 'w', 't', 'z', 'h', 'f', 'r', 'b', 'd', 'x', 'r', 'g', 'z', 'e']
+Group Count: 4
+Number of common: 3
+Group: ['m', 'm', 'm']
+Group Count: 3
+Number of common: 1
+Group: ['m', 'z', 'f', 'z', 'f', 'm', 'z', 'f', 'm', 'm', 'f', 'z', 'z', 'f', 'm', 'o']
+Group Count: 5
+Number of common: 3
+Group: ['o', 'v', 'd', 'q', 'z', 'm', 'd', 'm', 'q', 'v', 'o', 'z', 'z', 'm', 'd', 'q', 'v', 'o']
+Group Count: 3
+Number of common: 6
+Group: ['b', 'i', 's', 'p', 'r', 'l', 'n', 'd', 'e', 'f', 'a', 'b', 'v', 'l', 't', 'r', 'n', 'k', 'x', 'd', 'r', 'n', 'd', 'b', 'y', 'l']
+Group Count: 3
+Number of common: 5
+Group: ['z', 'm', 'g', 'l', 'y', 'w', 'v', 'e', 'l', 'y', 'v', 'e', 'g', 'w', 'z']
+Group Count: 2
+Number of common: 7
+Group: ['g', 't', 'm', 'r', 'h', 'p', 'u', 'j', 'z', 'f', 'q', 's', 'k', 'o', 'x', 'a', 'v', 'y', 'd', 'i', 'e', 't', 'y', 'p', 'w', 'i', 'a', 'h', 'q', 'f', 'n', 'k', 'd', 'u', 'm', 'v', 'g', 'o', 'x', 'r', 'e', 's', 'z', 'q', 'z', 'e', 'v', 't', 'x', 'a', 'u', 'o', 'g', 'i', 'p', 'c', 'k', 's', 'y', 'r', 'h', 'f', 'd', 'm', 'l']
+Group Count: 3
+Number of common: 20
+Group: ['r', 'c', 'o', 'v', 'a', 'p', 'j', 'c', 'a', 'b', 'u', 'p', 'a', 'c', 'j', 'b', 'a', 'l', 'c']
+Group Count: 4
+Number of common: 2
+Group: ['k', 'z', 'p', 'k', 'p', 'z', 'y', 'z']
+Group Count: 3
+Number of common: 1
+Group: ['a', 'i', 'v', 'y', 'm', 'n', 'l', 'u', 'x', 'm', 'y', 'u', 'x', 'v', 'l', 'i', 'a', 's', 'l', 'm', 'y', 'a', 'u', 'i', 'x', 'v', 'v', 'i', 'u', 'm', 'l', 'x', 'a', 'y', 'i', 'y', 'a', 'v', 'u', 'l', 'r', 'd', 'e', 'x', 'm']
+Group Count: 5
+Number of common: 8
+Group: ['s', 'm', 'g', 'j', 'b', 'q', 'i', 'f', 'a', 'h', 'b', 'i', 'x', 'g', 'q', 's', 'f', 'm', 'h', 'a', 'g', 's', 'f', 'q', 'p', 'n', 'm', 'h', 'b', 'i', 'l', 'a', 'e']
+Group Count: 3
+Number of common: 9
+Group: ['y', 'b', 'f', 'y']
+Group Count: 2
+Number of common: 1
+Group: ['h', 'f', 'v', 'c', 'g', 'd', 'h', 'f', 'k', 'x', 'c', 'u', 'g', 'd', 'o', 'f', 'h', 'e', 'm', 'c', 'd', 'g', 'o', 'h', 'g', 'q', 'f', 'x', 'd', 'c', 'y', 'b', 'e', 'g', 't', 'h', 'c', 'f', 'r', 'd', 'q', 'i']
+Group Count: 5
+Number of common: 5
+Group: ['g', 'c', 'w', 't', 'j', 'y', 'l', 'u', 'z', 'v', 'b', 's', 'n', 'r', 'k', 'o', 'p', 'm', 'e', 'a', 'i', 'u', 'z', 'b', 't', 'y', 'i', 'n', 'r', 'q', 'm', 'o', 'f', 's', 'j', 'd', 'k', 'c', 'v', 'w', 'e', 'g', 'a']
+Group Count: 2
+Number of common: 19
+Group: ['s', 's', 's']
+Group Count: 3
+Number of common: 1
+Group: ['d', 's', 'v', 'p', 'g', 'g', 'd', 'p', 'n', 'd', 'e', 'g', 'r', 'd', 'i', 'g', 'p']
+Group Count: 4
+Number of common: 2
+Group: ['j', 'i', 'y', 'l', 'z', 'g', 'c', 'o', 'm', 'k', 'u', 'r', 't', 'v', 'q', 'p', 'a', 'y', 'v', 'm', 'j', 't', 'a', 'p', 'i', 'n', 'g', 'c', 'r', 'u', 'o']
+Group Count: 2
+Number of common: 13
+Group: ['a', 'u', 'i', 'j', 'c', 'b', 'w', 'f', 'q', 'k', 'x', 'y', 's', 'h', 'l', 'x', 'w', 'h', 'c', 'y', 'q', 'u', 'k', 'b', 'i', 's', 'l', 'f', 'a', 'j', 'y', 'i', 'q', 'c', 'l', 'j', 'k', 'x', 'f', 'a', 's', 'r', 'u', 'h', 'b', 'w', 'c', 'j', 'l', 'f', 'k', 'x', 'y', 'q', 'w', 'u', 'h', 'i', 'a', 's', 'b', 'i', 'a', 'y', 'k', 'l', 'q', 'h', 'u', 'c', 's', 'j', 'w', 'x', 'b', 'f']
+Group Count: 5
+Number of common: 15
+Group: ['z', 's', 's', 's', 'i']
+Group Count: 4
+Number of common: 0
+Group: ['b', 'r', 'a', 'y', 'c', 'c', 'y', 'k', 'w', 'b', 'r', 'a', 'r', 'x', 'b', 'c', 'v', 'a', 'c', 'k', 'd', 'a', 'b', 'r', 'h']
+Group Count: 4
+Number of common: 4
+Group: ['r', 'l', 'f', 'v', 'a', 'w', 'c', 'q', 'e', 'm', 'h', 'u', 'b', 'c', 't', 'u', 'q', 'f', 's', 'b', 'a', 'e', 'h', 'm']
+Group Count: 2
+Number of common: 9
+Group: ['w', 'b', 'r', 'z', 'p', 'y', 'a', 'c', 'q', 'h', 'i', 'b', 'm', 'p', 'a', 'l', 'y', 'h', 'z', 'g', 'r', 'c', 'v', 'b', 'a', 'z', 'p', 'n', 'y', 's', 'h', 'k', 'h', 'z', 'y', 'i', 'j', 'f', 'a', 'c', 'b', 'p']
+Group Count: 4
+Number of common: 6
+Group: ['w', 'g', 'j', 'o', 'h', 'x', 's', 'x', 'h', 'j', 'g', 'w', 'o']
+Group Count: 2
+Number of common: 6
+Group: ['a', 'l', 'h', 'k', 'q', 'y', 'd', 'a', 'h', 'f', 'm', 'j', 'l', 'c', 'y']
+Group Count: 2
+Number of common: 4
+Group: ['g', 'g', 'g', 'g']
+Group Count: 4
+Number of common: 1
+Group: ['l', 'p', 's', 'b', 'y', 'n', 'o', 'k', 'v', 'r', 'u', 'd', 'c', 'g', 'z', 'q', 'm', 't', 'i', 'j', 'h', 'x', 's', 'n', 'u', 'h', 'q', 'j', 'l', 'o', 'k', 'y', 'p', 'f', 'r', 'b', 'v', 'c', 'm', 'i', 'd', 'x', 'g', 'y', 'h', 'w', 'b', 'j', 'm', 'x', 'o', 'p', 'v', 'i', 'r', 'g', 'u', 'q', 's', 'c', 'n', 'l', 'd', 'k']
+Group Count: 3
+Number of common: 20
+Group: ['m', 'w', 'z', 's', 'c', 'l', 'u', 'y', 'u', 'w', 's', 'l', 'z', 'm', 'a', 'l', 's', 'u', 'm', 'w', 'z']
+Group Count: 3
+Number of common: 6
+Group: ['m', 'a', 'j', 'm', 'j', 'x', 'a', 'l']
+Group Count: 2
+Number of common: 3
+Group: ['a', 's', 'g', 'r', 'y', 'z', 'n', 'l', 'w', 'q', 'j', 'd', 'f', 'c', 'p', 'k', 'e', 'h', 'b', 'm', 'k', 'n', 'e', 'h', 's', 'o', 'p', 'g', 'j', 'd', 'r', 'q', 'a', 'd', 'n', 'a', 'p', 's', 'h', 'e', 'k', 'j', 'g', 'v', 'q', 'r', 'a', 'j', 'e', 'n', 'd', 't', 'k', 's', 'g', 'u', 'q', 'p', 'h', 'r']
+Group Count: 4
+Number of common: 12
+Group: ['p', 'u', 'z', 'n', 'x', 'm', 'q', 's', 'r', 't', 'f', 'd', 'c', 'k', 'v', 'y', 'i', 'j', 'b', 'a', 'l', 'g', 'k', 'c', 'g', 'y', 't', 'b', 'm', 's', 'x', 'v', 'r', 'u', 'n', 'q', 'j', 'z', 'l', 'f', 'a', 'i', 'p', 'y', 'u', 'i', 'k', 'x', 'p', 'q', 't', 'a', 'f', 'v', 'b', 'n', 's', 'z', 'g', 'j', 'm', 'c', 'r', 'l', 'q', 'k', 'v', 'a', 'g', 'x', 'c', 'j', 's', 'l', 'b', 'y', 't', 'n', 'i', 'f', 'p', 'u', 'm', 'z', 'r']
+Group Count: 4
+Number of common: 21
+Group: ['p', 'g', 'l', 'v', 'f', 'd', 'i', 'h', 'q', 'a', 'p', 'n', 't', 'w', 'k', 'b', 'z', 'e', 'c', 'o', 'e', 'p']
+Group Count: 3
+Number of common: 1
+Group: ['f', 'p', 'j', 'm', 'z', 'i', 't', 'n', 'l', 'k', 'v', 'b', 'd', 'q', 'd', 'b', 'k', 'n', 'v', 't', 'j', 'f', 'i', 'l', 'r', 'z', 'm', 'b', 'i', 'j', 'z', 'n', 'p', 'm', 'l', 'k', 'd', 't', 'f', 'v', 'o', 't', 'b', 'j', 'f', 'z', 'n', 'l', 'm', 'v', 'd', 'h', 's', 'i', 'k']
+Group Count: 4
+Number of common: 12
+Group: ['x', 'x', 'g', 'x', 'x', 'k']
+Group Count: 4
+Number of common: 1
+Group: ['b', 'q', 'g', 'e', 'k', 'y', 'c', 'n', 'z', 'j', 'w', 'p', 'i', 'x', 'l', 'b']
+Group Count: 4
+Number of common: 0
+Group: ['c', 'p', 'z', 'g', 'a', 'u', 'f', 'i', 'k', 'y', 'l', 't', 'm', 'b', 'q', 'v', 'e', 's', 'o', 'j', 'f', 'u', 's', 'i', 'b', 't', 'g', 'o', 'a', 'y', 'v', 'j', 'q', 'k', 'p', 'e', 'o', 'v', 't', 'f', 'b', 'a', 's', 'i', 'e', 'k', 'j', 'u', 'g', 'r', 'y', 'q', 'p', 'i', 'u', 'b', 'y', 'f', 'k', 'j', 'q', 'v', 's', 'o', 'e', 'p', 'g', 'a', 't', 'a', 'k', 'o', 'f', 'u', 'g', 'i', 'b', 'y', 'q', 'e', 't', 'p', 'd', 's', 'j', 'v']
+Group Count: 5
+Number of common: 16
+Group: ['y', 'i', 'r', 'b', 'o', 'a', 'h', 'n', 'o', 'z', 'v', 'h', 'a', 'o', 'a', 'h', 'h', 'o', 'a', 'v', 'a', 'e', 'h', 'c', 'o']
+Group Count: 5
+Number of common: 3
+Group: ['h', 's', 'p', 'q', 'c', 'x', 'm', 'j', 'r', 'b', 'f', 'y', 'k', 't', 'n', 'g', 'i', 's', 'p', 't', 'q', 'i', 'g', 'f', 'k', 'l', 'm', 'a', 'd', 'n', 'c', 'x', 'r', 'v', 'y', 'b', 'h']
+Group Count: 2
+Number of common: 16
+Group: ['w', 'd', 'k', 's', 'z', 't', 'u', 'm', 'e', 'r', 'o', 'a', 'p', 'l', 'h', 'x', 'q', 'b', 'y', 'v', 'j', 'f', 'i', 'n', 't', 'a', 'd', 'f', 'l', 's', 'k', 'o', 'm', 'b', 'x', 'y', 'h', 'q', 'e', 'w', 'j', 'r', 'v', 'i', 'p', 'z', 'n', 'a', 'f', 'r', 'e', 'j', 'd', 'k', 'o', 'b', 'n', 'h', 's', 't', 'q', 'y', 'i', 'l', 'p', 'm', 'x', 'v', 'w', 'z', 'v', 'z', 'y', 'n', 'h', 'w', 't', 'a', 'f', 'p', 'd', 'q', 'l', 'k', 'j', 'o', 'i', 'r', 'x', 'm', 'e', 'b', 's', 'k', 'q', 'j', 'p', 'w', 'x', 'r', 'd', 'v', 't', 'i', 'z', 'f', 'm', 'l', 'h', 'e', 'n', 'y', 's', 'b', 'a', 'o']
+Group Count: 5
+Number of common: 23
+Group: ['w', 'o', 'n', 'x', 'e', 's', 'a', 'i', 'h', 'u', 'r', 'q', 'k', 'y', 'm', 'd', 's', 'x', 'y', 'q', 'k', 'm', 'w', 'd', 'b', 'n', 'l', 'j', 'r', 'g', 'u', 'e', 'i', 'a', 'o', 'w', 'h', 'e', 'n', 'x', 'o', 'r', 'd', 'a', 'u', 'm', 'q', 'k', 's', 'y', 'i', 'k', 'r', 'o', 'u', 'e', 'm', 'n', 'a', 'w', 's', 'i', 'd', 'y', 'q', 'x', 'r', 'm', 's', 'u', 'k', 'x', 'e', 'y', 'q', 'o', 'n', 'w', 'i', 'd', 'a']
+Group Count: 5
+Number of common: 15
+Group: ['c', 'k', 'y', 'w', 'p', 'o', 'r', 't', 's', 'l', 'f', 'h', 'd', 'a', 'q', 'i', 'x', 'v', 'm', 'j', 'n', 'g', 'k', 'v', 'l', 'a', 'p', 'q', 'w', 'f', 's', 'c', 'j', 'z', 'r', 'u', 'o', 'y']
+Group Count: 2
+Number of common: 14
+Group: ['d', 't', 'e', 'v', 'j', 'z', 'f', 'e', 'q', 'n', 'd', 'z', 'g', 'x', 'l', 'v', 'r', 't', 'b', 'o', 'c', 'z', 't', 'e', 'u', 'v', 'k', 'd', 'd', 's', 'z', 'v', 'u', 'h', 'e', 't', 'i', 't', 'v', 'd', 'e', 'w', 'z']
+Group Count: 5
+Number of common: 5
+Group: ['e', 'h', 'a', 'q', 'f', 'w', 'y', 'l', 's', 'k', 'd', 'b', 'z', 'v', 'm', 'p', 'g', 't', 'v', 'a', 'g', 'b', 'f', 'e', 'q', 'w', 'p', 't', 's', 'z', 'y', 'k', 'h', 'm', 'l', 'd', 'a', 'r', 'p', 'z', 'b', 's', 'v', 'm', 'w', 'e', 'y', 't', 'f', 'u', 'g', 'j', 'd', 'c', 'h', 'q', 'l', 'k', 'g', 'p', 'm', 'v', 'q', 'k', 'a', 'w', 'h', 'd', 's', 't', 'z', 'l', 'y', 'e', 'b', 'f', 'b', 't', 'a', 'e', 's', 'i', 'w', 'k', 'v', 'p', 'f', 'd', 'h', 'z', 'y', 'm', 'l', 'q', 'g']
+Group Count: 5
+Number of common: 18
+Group: ['h', 'o', 'z', 'u', 'a', 'c', 'k', 'y', 'u', 'a', 'z', 'n', 'f']
+Group Count: 2
+Number of common: 3
+Group: ['o', 'z', 'v', 'm', 'p', 'a', 'd', 'y', 'p', 'a', 'y', 'd', 'o', 'v', 'm', 'z']
+Group Count: 2
+Number of common: 8
+Group: ['g', 't', 'm', 'b', 'e', 'i', 'k', 'r', 'b', 'r', 'e', 'i', 'g', 't', 'm', 'k', 'g', 'e', 'b', 'k', 'r', 'i', 't', 'm', 'k', 'm', 'i', 'b', 'g', 'e', 'r', 't']
+Group Count: 4
+Number of common: 8
+Group: ['j', 'm', 'm', 'm', 'l']
+Group Count: 3
+Number of common: 1
+Group: ['f', 'r', 'e', 'x', 'c', 'n', 'o', 'g', 'y', 'v', 'n', 'r', 'v', 'g', 'y', 'z', 'i', 'l', 'o', 'd', 'x', 'u', 'f', 'e', 'h']
+Group Count: 2
+Number of common: 9
+Group: ['b', 't', 'v', 'z', 'j', 'p', 'u', 'z', 'j', 'v', 't', 'u', 'b', 'a', 'p', 'b', 't', 'z', 'u', 'j', 'p', 'v', 'j', 'd', 'e', 'p', 't', 'z', 'v', 'u', 'b', 'b', 'v', 'z', 'p', 'j', 'q', 'u', 't']
+Group Count: 5
+Number of common: 7
+Group: ['f', 'k', 'd', 'c', 'i', 'r', 'h', 'q', 't', 'c', 'i', 'd', 'h', 'r', 'k', 'v', 'f', 'q', 'i', 'c', 'q', 'd', 'h', 'r', 'f', 'v', 'k', 'v', 'k', 't', 'r', 'c', 'h', 'i', 'd', 'f', 'q', 'l', 'd', 'q', 'a', 's', 'c', 'o', 'k', 'x', 'r', 'h', 'f', 'i', 'g']
+Group Count: 5
+Number of common: 8
+Group: ['t', 'l', 'g', 'j', 'd', 's', 'o', 'a', 'p', 'm', 'c', 'i', 'e', 'y', 'g', 'i', 't', 'd', 'w', 'o', 'j', 'a', 'e', 's', 'l', 'm', 'y', 'n', 'p', 'c', 'd', 't', 'y', 'c', 'a', 'l', 'e', 'g', 'p', 'm', 'o', 's', 'j', 'i', 'm', 'y', 'd', 'o', 'i', 't', 'v', 'e', 's', 'p', 'c', 'j', 'l', 'g', 'a', 'g', 'l', 'a', 'd', 'i', 'j', 'v', 'y', 'o', 'c', 't', 'f', 's', 'e', 'm', 'p']
+Group Count: 5
+Number of common: 14
+Group: ['h', 'w', 'i', 'e', 'u', 'j', 'q', 'g', 's', 'x', 'c', 's', 'g', 'x', 'e', 'b', 'j', 'h', 'n', 'u', 'q', 'w', 'c', 'k', 'q', 'g', 'c', 'x', 'w', 'u', 'h', 't', 'v', 'e', 's', 'j', 'q', 'g', 'e', 'c', 'm', 's', 'j', 'x', 'w', 'h', 'u', 'c', 'w', 'j', 'q', 'm', 'u', 'g', 'e', 's', 'h', 'x']
+Group Count: 5
+Number of common: 10
+Group: ['q', 'j', 'w', 'l', 'd', 'f', 's', 'r', 'i', 'i', 'q', 'g', 'b', 'e', 'd', 'v', 'l', 's', 'f', 'r', 'h', 'u', 'j', 'n', 'l', 'd', 'i', 'k', 's', 'f', 'q', 'm', 'p', 'y', 'r', 'w']
+Group Count: 3
+Number of common: 7
+Group: ['a', 'a', 'a']
+Group Count: 3
+Number of common: 1
+Group: ['s', 'p', 'o', 't', 'g', 'r', 'h', 'e', 'c', 'k', 'w', 'q', 'a', 'n', 's', 'h', 'w', 'v', 'n', 'a', 't', 'g', 'p', 'k', 'q', 'c', 'y', 'o', 'e', 'r', 'z', 'h', 'c', 'g', 'a', 's', 'r', 'p', 'e', 'w', 'n', 'o', 'k', 't', 'q', 't', 'k', 'e', 'w', 'p', 'o', 'n', 's', 'c', 'a', 'q', 'h', 'r', 'g']
+Group Count: 4
+Number of common: 14
+Group: ['b', 'j', 'r', 's', 'x', 'k', 'e', 'i', 'u', 'c', 'n', 'p', 'o', 'z', 'x', 'r', 'k', 'c', 'z', 's', 'p', 'b', 'f', 'e', 'u', 'k', 'q', 'c', 'u', 'y', 't', 'd', 's', 'r', 'h', 'v', 'g', 'p', 'l', 'b', 'x', 'a']
+Group Count: 3
+Number of common: 8
+Group: ['a', 't', 'a', 'e']
+Group Count: 2
+Number of common: 1
+Group: ['x', 'x', 'v', 'x']
+Group Count: 4
+Number of common: 0
+Group: ['d', 's', 'd', 'r', 'x', 'e', 'm', 'd', 'n', 'o']
+Group Count: 3
+Number of common: 1
+Group: ['b', 'v', 'p', 'd', 'i', 'o', 'c', 'u', 'p', 'z', 'v', 'h', 'u', 'y', 'x', 'c', 'i']
+Group Count: 2
+Number of common: 5
+Group: ['a', 'u']
+Group Count: 2
+Number of common: 0
+Group: ['d', 'd']
+Group Count: 2
+Number of common: 1
+Group: ['r', 'p', 'l', 'o', 'w', 'a', 'x', 'q', 'j', 'r', 'q', 'v', 'o', 'w', 'a', 'y', 'r', 'o', 'm', 'b', 'a', 'w', 'n', 's', 't', 'e', 'q', 'a', 'c', 'u', 'j', 'v', 'q', 'o', 'w', 'r', 'w', 'r', 'x', 'l', 'o', 'a', 'u', 'p', 'q']
+Group Count: 5
+Number of common: 5
+Group: ['s', 'k', 'k', 'k']
+Group Count: 4
+Number of common: 0
+Group: ['z', 'm', 'n', 'p', 'f', 'g', 's', 'e', 'o', 'b', 'i', 'm', 'q', 'm', 'd', 'k', 'z', 'a', 'm', 'z', 'y', 'v', 'd', 'k', 'w', 'h', 'm', 'r']
+Group Count: 5
+Number of common: 1
+Group: ['u', 'q', 'm', 't', 'r', 'e', 'g', 't', 'w', 'l', 'e', 'u', 'o', 'q', 'm']
+Group Count: 2
+Number of common: 5
+Group: ['h', 'm', 'm', 'h', 'w', 'h', 'm', 'h', 'm']
+Group Count: 4
+Number of common: 2
+Group: ['y', 'd', 'e', 'g', 'n', 'j', 'f', 'm', 'k', 'r', 'k', 'v', 'g', 'l', 'z', 'r', 'f', 's']
+Group Count: 2
+Number of common: 4
+Group: ['k', 'o', 'v', 'g', 'z', 'e', 'm', 'j', 'f', 'k', 'f', 'y', 'i', 'g', 'h', 'o', 'm', 'z', 'e', 'l', 'j', 'f', 'k', 'z', 'x', 't', 'u', 'e', 'o', 'g', 'j', 'm', 'f', 'x', 'k', 'j', 'o', 'z', 'g', 'm', 'u', 'e', 'z', 'o', 'f', 'b', 'v', 'e', 'j', 'm', 'g', 'k']
+Group Count: 5
+Number of common: 8
+Group: ['z', 'a', 't', 'r', 'h', 'w', 'f', 'j', 'i', 'o', 'p', 'u', 'l', 'k', 'e', 's', 'a', 't', 'o', 'h', 'k', 'n', 'e', 'w', 'f', 'u', 'i', 'p', 'j', 'l', 'z', 'r', 'v', 'e', 'k', 'i', 'o', 'x', 'u', 'r', 'w', 'f', 'l', 'j', 'p', 'z', 't', 'a', 'h', 'l', 'g', 'q', 'z', 'o', 'p', 'i', 'r', 'j', 'k', 'h', 'w', 'a', 'u', 'f', 't', 'e']
+Group Count: 4
+Number of common: 15
+Group: ['x', 'g', 'b', 'o', 'z', 'w', 'l', 't', 'n', 'e', 'v', 'i', 'd', 'f', 'r', 'j', 'u', 'h', 'c', 'y', 's', 'k', 'g', 'w', 's', 'm', 't', 'b', 'k', 'r', 'o', 'y', 'f', 'i', 'n', 'a', 'd', 'p', 'j', 'h', 'e', 'v', 'c', 'x', 'q']
+Group Count: 2
+Number of common: 19
+Group: ['x', 'd', 'x', 'm', 'x', 'z', 'r', 'x']
+Group Count: 4
+Number of common: 1
+Group: ['k', 'a', 'o', 'f', 'k', 'o', 'd', 'f', 'o', 'f', 'k', 'f', 'k', 'o']
+Group Count: 4
+Number of common: 3
+Group: ['r', 'k', 'u', 'o', 'a', 'z', 'n', 'e', 'y', 'a', 'z', 'y', 'r', 'q', 'h', 't', 'd', 'o', 'y', 'a', 'l', 'o', 'b', 'r', 'z', 'c', 'w', 'x', 'i', 'o', 'a', 'y', 'f', 'r', 'z', 'e']
+Group Count: 4
+Number of common: 5
+Group: ['c', 'u', 's', 'y', 'z', 'm', 'j', 'h', 'q', 'l', 'o', 'f', 't', 'd', 'p', 'a', 'k', 'e', 'g', 'i', 'n', 'l', 'm', 'n', 'j', 'i', 'p', 'd', 'y', 'o', 'g', 'k', 'f', 'a', 'h', 'u', 'q', 's', 't', 'c', 'z', 'e', 'm', 'n', 'e', 'o', 'c', 'j', 'w', 'g', 'i', 'l', 'p', 'f', 'x', 'z', 't', 'h', 's', 'a', 'y', 'q', 'u', 'd', 'k']
+Group Count: 3
+Number of common: 21
+Group: ['m', 'h', 'w', 'y', 'u', 'g', 'y', 'm', 'n', 'a', 'd', 'r', 'p', 't', 'z', 'i', 'j', 'l', 'c', 'w', 'm']
+Group Count: 5
+Number of common: 0
+Group: ['p', 'g', 'p', 'g']
+Group Count: 2
+Number of common: 2
+Group: ['l', 'r', 'o', 'b', 'g', 'o', 'r', 'q', 'f', 'n', 's', 'v', 'n', 'q', 'a', 'o', 'o', 'j', 'm', 'w', 'd', 'e', 'c', 'z']
+Group Count: 4
+Number of common: 1
+Group: ['j', 'm', 'x', 'l', 'k', 'a', 'n', 'm', 'l', 'a', 'u', 'x', 't', 'j', 'o', 'l', 'c', 'w', 'm', 'e', 'a', 'x', 'q', 'j', 'n', 'k', 'j', 'x', 'b', 'p', 'm', 'l', 't', 'a', 'r', 'm', 'l', 'j', 'x', 'd', 'i', 's', 'z', 'y', 'a', 'g', 'f', 'v']
+Group Count: 5
+Number of common: 5
+Group: ['s', 'g', 'r', 'i', 'u', 'f', 'u', 'g', 'm', 'p', 'o', 'x', 'v', 'y', 'q', 'd', 'g', 'z', 'c', 'u', 'q', 'w', 'n', 'h']
+Group Count: 3
+Number of common: 2
+Group: ['m', 'e', 'm', 'y']
+Group Count: 4
+Number of common: 0
+Group: ['d', 'q', 'k', 'h', 'q', 'd', 'h', 'k', 'h', 'k', 'd', 'q']
+Group Count: 3
+Number of common: 4
+Group: ['z', 'n', 'f', 'w', 'u', 'i', 'o', 'd', 'c', 'r', 'y', 'q', 's', 'm', 'b', 'p', 'v', 'e', 'j', 'g', 'x', 'n', 'q', 'w', 'c', 'j', 'r', 'd', 'e', 'b', 'p', 'z', 'm', 'g', 'o', 'v', 'y', 's', 'i', 'p', 'i', 'h', 'm', 'y', 'e', 'w', 'r', 'c', 'g', 'n', 'j', 'z', 'q', 'v', 'd', 'a', 'b', 's', 'u', 'o', 't', 'q', 'd', 's', 'n', 'j', 'w', 'z', 'o', 'v', 'r', 'b', 'c', 'g', 'e', 'i', 'a', 'm', 'f', 'y', 'p']
+Group Count: 4
+Number of common: 18
+Group: ['m', 'e', 'z', 't', 'p', 'c', 'w', 'r', 's', 'n', 'o', 'j', 'q', 'u', 'x', 'k', 'g', 'm', 'e', 'k', 'u', 'r', 'w', 'x', 't', 'n', 'c', 'o', 'j', 's', 'q', 'g', 'k', 't', 'j', 'w', 'q', 'o', 'c', 's', 'n', 'u', 'g', 'x', 'e', 'r', 'm']
+Group Count: 3
+Number of common: 15
+Group: ['e', 'p', 'l', 'z', 'c', 'e', 'z', 'p', 'c', 'l', 'l', 'z', 'y', 'p', 'e', 'c']
+Group Count: 3
+Number of common: 5
+Group: ['j', 'm', 'l', 'r', 'k', 's', 'e', 'o', 'z', 'x', 'd', 'u', 'n', 'q', 'f', 'd', 'k', 'n', 's', 'e', 'o', 'j', 'u', 'q', 'z', 'm', 'l', 'x', 'n', 's', 'x', 'q', 'l', 'j', 'd', 'e', 'u', 'k', 'b', 'm', 'i', 'z', 's', 'q', 'm', 'v', 'n', 'x', 'u', 'b', 'o', 'k', 'i', 'z', 'l', 'e', 'j', 'd', 'c', 't', 'q', 's', 'j', 'm', 'l', 'k', 'p', 'w', 'x', 'z', 'd', 'u', 'n', 'g', 'h', 'e']
+Group Count: 5
+Number of common: 12
+Group: ['k', 'l', 'q', 'g', 'x', 'y', 'r', 'd', 't', 't', 'o', 'y', 'k', 'r', 'd', 'q', 'g', 'l']
+Group Count: 2
+Number of common: 8
+Group: ['f', 'w', 'k', 'z', 'c', 'u', 'v', 'm', 'o', 'g', 'x', 'j', 'r', 'b', 'e', 'l', 't', 'h', 'i', 'z', 'f', 'h', 't', 'g', 'b', 'q', 'n', 'o', 'm', 'v', 'w', 'x', 'k', 'u', 'f', 'u', 'o', 'z', 'b', 't', 'h', 'v', 'w', 'k', 'q', 'g', 'm', 'x']
+Group Count: 3
+Number of common: 13
+Group: ['s', 'x', 'x']
+Group Count: 3
+Number of common: 0
+Group: ['p', 'e', 'f', 'q', 'g', 'w', 'z', 'l', 'i', 'm', 'y', 'j', 'n', 'c', 'o', 'u', 'h', 'q', 'a', 'd', 'u', 'w', 'h', 'm', 'y', 's', 'x', 'j', 'o', 'p', 'i', 'e', 'f', 't', 'r', 'l', 'o', 'j', 'f', 'p', 'h', 'e', 'q', 'u', 'i', 'w', 'm', 'n', 'y', 'k', 'l']
+Group Count: 3
+Number of common: 13
+Group: ['k', 's', 'f', 'b', 's', 'b', 'k', 'f', 's', 'f', 'b', 'k', 'f', 'b', 'q', 'v', 'k', 's']
+Group Count: 4
+Number of common: 4
+Group: ['e', 'o', 'm', 'a', 'b', 'w', 'w', 'e', 'm', 'a', 'r', 'v']
+Group Count: 2
+Number of common: 4
+Group: ['g', 'h', 'l', 'd', 'r', 'i', 'w', 'y', 'j', 'p', 'o']
+Group Count: 4
+Number of common: 0
+Group: ['l', 'p', 'i', 'h', 'f', 'v', 'q', 'e', 'r', 's', 'u', 'j', 'k', 'z', 'y', 'b', 'v', 'j', 'l', 'f', 'r', 'e', 'b', 'k', 'i', 'q', 'j', 'b', 'l', 'q', 'i', 'f', 'r', 'e', 'v', 'k']
+Group Count: 3
+Number of common: 10
+Group: ['z', 'g', 'r', 'z', 'g', 'z', 'g', 'z', 'g', 'g', 'z']
+Group Count: 5
+Number of common: 2
+Group: ['h', 'f', 'v', 'y', 'd', 'l', 'u', 'a', 'x', 'g', 'i', 'p', 's', 'q', 'o', 't', 'q', 'c', 'b', 'f', 'u', 'r', 'y', 'g', 's', 'v', 'e', 'm', 'p', 'k', 'l', 'j', 'n', 'q', 'd', 's', 'w', 'v', 'g', 'p', 'u', 'f', 'y']
+Group Count: 3
+Number of common: 8
+Group: ['g', 'd', 'x', 'b', 'j', 'i', 'v', 'u', 'f', 'y', 'o', 'l', 'q', 'u', 's', 'm', 'b', 'f', 'l', 'y', 'x', 'i', 'q', 'd', 'v']
+Group Count: 2
+Number of common: 10
+Group: ['k', 'p', 'f', 'y', 'y', 'r', 'f', 'p', 'k', 'f', 'p', 'y', 'k']
+Group Count: 3
+Number of common: 4
+Group: ['o', 'e', 'n', 'c', 'u', 'y', 'p', 'u', 'c', 'e', 'y', 'p', 'o', 'i', 'c', 'y', 'p', 'u', 'e', 'o']
+Group Count: 3
+Number of common: 6
+Group: ['o', 'r', 'c', 'f', 's', 'j', 'h', 'v', 'x', 'a', 'q', 'y', 'n', 'i', 'b', 'u', 'k', 'c', 'b', 'i', 'x', 'u', 'y', 'o', 'k', 'a', 'q', 'v', 'r', 'n', 'h', 's', 'j', 'f', 'q', 'c', 'o', 'y', 'f', 'j', 'x', 'u', 'k', 'r', 's', 'n', 'h', 'a', 'v', 'b', 'i', 'f', 'k', 'y', 'u', 'h', 'b', 'v', 'o', 'j', 'n', 's', 'x', 'a', 'q', 'r', 'c', 'i', 'v', 'r', 'c', 's', 'h', 'u', 'q', 'x', 'y', 'f', 'n', 'i', 'a', 'k', 'o', 'j', 'b']
+Group Count: 5
+Number of common: 17
+Group: ['m', 'v', 'g', 'b', 'u', 'p', 'x', 'h', 'f', 'e', 's', 'o', 'd', 'n', 'z', 'w', 'j', 'c', 'q', 'd', 'c', 'j', 'x', 'z', 'q', 'y', 'u', 'e', 'p', 'n', 'v', 'h', 'f', 'b', 's', 'm', 'g', 'o', 'k', 'p', 'm', 'z', 'r', 's', 'f', 'e', 'b', 'g', 'a', 'o', 'v', 'n', 'h', 'c', 'x', 'u', 'n', 'p', 'x', 'g', 'i', 'v', 'u', 'o', 'h', 'm', 'w', 's', 'j', 'e', 'f', 'c', 'b', 'z']
+Group Count: 4
+Number of common: 15
+Group: ['x', 'a', 'u', 'j', 'v', 'b', 'e', 's', 'd', 'q', 'g', 'n', 'z', 'a', 'u', 'g', 'n', 'd', 'v', 'q', 'b', 'c', 'j', 'f', 'z', 's']
+Group Count: 2
+Number of common: 11
+Group: ['e', 'o', 'y', 'h', 'p', 'n', 'r', 'c', 'l', 'd', 'j', 'b', 'q', 'f', 'v', 't', 'i', 'u', 'a', 'l', 'a', 'o', 'y', 'r', 'g', 'q', 'z', 'b', 'u', 'h', 'n', 'd', 'x', 'w', 'p', 'v', 'f']
+Group Count: 2
+Number of common: 14
+Group: ['p', 'x', 'f', 'n', 'b', 'l', 'v', 'u', 'z', 'i', 'j', 'h', 'd', 'q', 'h', 'd', 'k', 'l', 'j', 'p', 'b', 'z']
+Group Count: 2
+Number of common: 7
+Group: ['j', 'p', 'h', 'q', 'x', 'm', 'k', 'w', 'g', 's', 'y', 'c', 'u', 'r', 'i', 'e', 't', 'b', 'a', 'd', 'z', 'f', 'v', 'v', 'w', 'e', 'y', 'g', 'b', 'z', 'a', 's', 'h', 'x', 'q', 'c', 'd', 'j', 'i', 'w', 'c', 'b', 'j', 'd', 'n', 'i', 'y', 's', 'v', 'h', 'q', 'e', 'a', 'x', 'g', 'z', 'd', 'q', 'x', 'w', 'h', 'v', 'b', 'o', 'z', 'j', 'a', 'i', 'y', 's', 'g', 'c', 'e', 'z', 'w', 'x', 'g', 'h', 'i', 's', 'a', 'q', 'b', 'y', 'c', 'j', 'e', 'v', 'd']
+Group Count: 5
+Number of common: 16
+Group: ['b', 'z', 'q', 'g', 'c', 'u', 'e', 'r', 'k', 't', 'f', 's', 'a', 'v', 'w', 'h', 'n', 'o', 'y', 'd', 'i', 'r', 'b', 'v', 'y', 'q', 'd', 's', 'i', 'o', 'k', 'c', 'u', 'g', 'a', 'n', 'e', 'w', 'h', 't', 'z', 'm']
+Group Count: 2
+Number of common: 20
+Group: ['t', 'o', 'm', 't', 'o', 't', 'o', 't', 'o', 't', 'o']
+Group Count: 5
+Number of common: 2
+Group: ['r', 'k', 'f', 'm', 't', 'd', 'v', 'k', 'c', 'u', 'n', 'b', 'q', 'r', 'k', 'k', 'f']
+Group Count: 4
+Number of common: 1
+Group: ['p', 'k', 'm', 'i', 'f', 'x', 'j', 't', 'w', 'n', 'z', 'k', 'm', 's', 'f', 'a', 'n', 'x', 't', 'e', 'i', 'h', 'j', 'p', 'n', 'm', 'a', 'f', 't', 'd', 'j', 'i', 'y', 'b', 'q', 'i', 'm', 'u', 'v', 'o', 'j', 'n', 't', 'f']
+Group Count: 4
+Number of common: 6
+Group: ['n', 's', 'r', 'r', 'c', 'v', 'h', 'm', 'w', 'n', 'i', 'a', 's']
+Group Count: 5
+Number of common: 0
+Group: ['m', 'f', 's', 'x', 'u', 'c', 'v', 'b', 'o', 'y', 'j', 'c', 'x', 'o', 'm', 's', 'b', 'y', 'v', 'f', 'j', 'f', 's', 'b', 'v', 'o', 'm', 'j', 'y', 'x', 'c', 'm', 'j', 'h', 'c', 'v', 'y', 's', 'b', 'o', 'f', 'x', 'x', 'm', 'f', 'j', 'c', 'y', 'b', 'o', 'v', 's']
+Group Count: 5
+Number of common: 10
+Group: ['q', 'u', 'x', 'o', 'm', 'e', 'y', 's', 'k', 'u', 'q', 't', 'o', 'k', 'y', 'x', 's', 'm', 'y', 'q', 'o', 'h', 'x', 'b', 'k', 'm', 'u', 'y', 'o', 'q', 'k', 'a', 'x', 'm']
+Group Count: 4
+Number of common: 6
+Group: ['b', 'r', 'r', 'b', 'i', 'b', 'r', 'j']
+Group Count: 3
+Number of common: 2
+Group: ['p', 'a', 'q', 'h', 'k', 'z', 'm', 'c', 'w', 'f', 'r', 's', 'i', 'u', 'b', 't', 'v', 'j', 'n', 'x', 'z', 'k', 't', 'i', 'q', 'b', 'u', 'c', 'a', 'r', 'p', 'w', 'n', 'x', 'm', 'y', 'h', 'j', 'a', 'i', 'k', 'm', 'g', 't', 'y', 'u', 'c', 'r', 'j', 'n', 'p', 'q', 'w', 'h', 'x', 'z', 'b', 'j', 'k', 'a', 'b', 'p', 'x', 'z', 't', 'c', 'r', 'w', 'h', 'u', 'q', 'n', 'm', 'i', 'm', 'n', 'x', 'z', 'w', 'b', 'a', 'i', 't', 'q', 'r', 'k', 'u', 'j', 'h', 'p', 'c']
+Group Count: 5
+Number of common: 17
+Group: ['s', 'z', 'b', 'a', 'n', 'q', 'o', 'e', 'g', 'i', 'f', 'l', 'u', 'a', 's', 'q', 'p', 't', 't']
+Group Count: 5
+Number of common: 0
+Group: ['q', 's', 'u', 'f', 'a', 'q', 'i', 'u', 'q', 's', 'u', 'i', 'u', 'r', 'o', 'q', 'c', 'k', 'j', 'v']
+Group Count: 4
+Number of common: 2
+Group: ['u', 'f', 'k', 'c', 'r', 'a', 'h', 'g', 'i', 't', 'o', 'y', 'j', 'x', 'k', 'n', 'l', 'c', 'f', 'u', 'j', 'a', 'g', 'd', 'g', 'j', 'c', 'k', 'l', 'a', 'u', 'f', 'j', 'k', 'w', 'a', 'f', 'g', 'c', 'u']
+Group Count: 4
+Number of common: 7
+Group: ['g', 'd', 'm', 'x', 'n', 'b', 'o', 'i', 'y', 'g', 'r', 'c', 'a', 'h', 'g', 's']
+Group Count: 3
+Number of common: 1
+Group: ['y', 'b', 'w', 'c', 'l', 'v', 'j', 'f', 'k', 'u', 'm', 'x', 's', 'o', 'n', 'v', 'm', 'k', 'y', 'o', 'w', 'e', 'd', 'l', 'i', 'j', 'u', 'x', 'c', 'f', 's', 'b', 'l', 'z', 'm', 'q', 's', 'c', 'y', 'b', 'v', 'x', 'f', 'u', 'k', 'r', 'o']
+Group Count: 3
+Number of common: 12
+Group: ['f', 'i', 'p', 'r', 'v', 'j', 's', 'g', 'c', 'e', 'n', 'h', 't', 'm', 'a', 'l', 'x', 'z', 'q', 'o', 'p', 'h', 'c', 'g', 'n', 't', 'o', 'q', 'm', 'e', 'v', 'i', 'a', 'j', 'f', 'x', 'l', 's', 'z', 'r', 'z', 's', 'x', 'q', 'c', 't', 'n', 'e', 'v', 'l', 'i', 'o', 'h', 'r', 'p', 'a', 'g', 'm', 'j', 'f', 's', 'q', 'g', 'i', 'p', 'c', 'u', 'a', 'n', 'm', 't', 'x', 'l', 'r', 'v', 'j', 'e', 'h', 'o', 'z', 'f', 'v', 'l', 'c', 'z', 'q', 'j', 'g', 'o', 'i', 'p', 'a', 'f', 'e', 't', 'm', 'r', 'n', 'h', 'x', 's']
+Group Count: 5
+Number of common: 20
+Group: ['y', 'p', 'w', 'b', 'f', 'p', 'f', 'w', 'y', 't', 'b', 'p', 'y', 'f', 'b', 'w', 'b', 't', 'f', 'w', 'p', 'y', 'y', 'b', 'p', 'g', 'w', 'f']
+Group Count: 5
+Number of common: 5
+Group: ['w', 'r', 'z', 'h', 'a', 'f', 'd', 'p', 'm', 'x', 't', 'z', 's', 'p', 'f', 'h', 'x', 'n', 'd', 'd', 'k', 'f', 'h', 'z', 'w', 's', 't', 'b', 'g', 'e', 'l', 'q', 'j', 'd', 'c', 'y', 'f', 'i', 'z', 'v', 'h', 'o', 'u']
+Group Count: 4
+Number of common: 4
+Group: ['p', 'e', 'u', 'b', 'v', 'w', 'g', 'a', 'q', 'i', 'c', 'l', 'k', 'f', 'd', 'x', 'm', 's', 'y', 'j', 't', 'r', 'k', 'u', 'w', 'p', 's', 'v', 'l', 'x', 'b', 'j', 'r', 'd', 'i', 't', 'g', 'm', 'q', 'e', 'a', 'c', 'y', 'f', 'b', 't', 'x', 'e', 'j', 'u', 'i', 'q', 'c', 'r', 'p', 'g', 's', 'l', 'm', 'a', 'd', 'v', 'f', 'y', 'w', 'k', 'g', 'w', 'a', 'l', 'i', 'f', 'q', 'p', 'd', 'u', 's', 'r', 'v', 'm', 't', 'j', 'y', 'b', 'c', 'e', 'k', 'x']
+Group Count: 4
+Number of common: 22
+Group: ['q', 'v', 'm', 'h', 'u', 'l', 'r', 't', 'w', 'c', 'p', 'z', 'd', 's', 'i', 'f', 'e', 'x']
+Group Count: 2
+Number of common: 0
+Group: ['p', 'o', 'h', 'q', 'h', 'q', 'o', 'p', 'o', 'p', 'q', 'h', 'o', 'q', 'h', 'p']
+Group Count: 4
+Number of common: 4
+Group: ['e', 'n', 'i', 'w', 's', 't', 'p', 'r', 'q', 's']
+Group Count: 4
+Number of common: 0
+Group: ['l', 'v', 'f', 'i', 'n', 'm', 'p', 'c', 'b', 'z', 'x', 'h', 'k', 'c', 's', 'b', 'l', 'g', 'z', 't', 'c', 'g', 'z', 'b', 'k', 'l', 'c', 'b', 'l', 'z', 'w']
+Group Count: 4
+Number of common: 4
+Group: ['r', 's', 'j', 'i', 'e', 'e', 'w', 'j', 'r', 'i', 'b', 'm', 's', 'i', 'j', 'e', 'r', 's']
+Group Count: 3
+Number of common: 5
+Group: ['k', 'n', 'i', 'z', 'w', 'x', 'y', 'c', 'o', 'q', 'e', 'd', 'n', 'q', 'o', 'c', 'b', 'k', 'p', 'k', 'g', 's', 'a', 'n', 'o', 'f']
+Group Count: 3
+Number of common: 3
+Group: ['h', 'r', 'a', 'v', 'n', 'y', 's', 'e', 'j', 'o', 'b', 'w', 'i', 'n', 'l', 'f', 'u', 's', 'g', 'd', 'x', 't', 'p', 'q', 'm', 'a', 'k', 'i']
+Group Count: 2
+Number of common: 4
+Group: ['k', 'u', 'v', 'b', 'o', 'a', 'x', 'k', 'j', 'v', 'o', 'h', 'x', 'a']
+Group Count: 2
+Number of common: 5
+Group: ['q', 'w', 'm', 'm', 'w', 'q']
+Group Count: 2
+Number of common: 3
+Group: ['x', 'o', 'w', 'b', 'a', 'f', 's', 'i', 't', 'j', 'z', 'l', 'a', 'w', 'm', 'a', 'y', 'l', 'm', 'w', 'w', 'a', 'n', 'u', 'r']
+Group Count: 4
+Number of common: 2
+Group: ['q', 'c', 'd', 's', 'a', 'o', 'd', 'q', 'a', 'o', 's', 'o', 'p', 'a', 'k', 's', 'q', 'd']
+Group Count: 3
+Number of common: 5
+Group: ['p', 'p', 'p', 'p', 'p']
+Group Count: 5
+Number of common: 1
+Group: ['w', 'l', 'd', 'l', 'n', 'r', 'w', 'a']
+Group Count: 5
+Number of common: 0
+Group: ['r', 'd', 'i', 'd', 'r', 'i', 'd', 'i', 'r', 'i', 'r', 'd', 'r', 'd', 'i']
+Group Count: 5
+Number of common: 3
+Group: ['e', 'i', 'e', 'e', 'e', 'e']
+Group Count: 5
+Number of common: 1
+Group: ['f', 'a', 'v', 'c', 'l', 'p', 'b', 'n', 'i', 'i', 'c', 'b', 'f', 'a', 'l', 'n', 'p', 'v']
+Group Count: 2
+Number of common: 9
+Group: ['u', 'o', 'k', 'm', 'v', 'x', 'g', 'a', 'f', 'i', 'z', 'c', 'e', 'p', 'r', 'n', 'y', 'd', 's', 'h', 't', 'p', 'k', 'e', 'a', 'o', 'n', 'h', 'z', 'r', 'u', 'q', 'x', 'g', 'v', 'd', 'f', 'm', 's', 'c', 'y', 't', 'i', 'l', 'f', 'p', 'x', 'h', 's', 'g', 'c', 'r', 'u', 't', 'o', 'v', 'z', 'y', 'k', 'a', 'e', 'n', 'i', 'm', 'd', 'a', 's', 'z', 't', 'h', 'k', 'i', 'm', 'o', 'y', 'x', 'd', 'u', 'f', 'v', 'c', 'r', 'e', 'g', 'p', 'n']
+Group Count: 4
+Number of common: 21
+Group: ['f', 'g', 'i', 'b', 's', 'k', 'l', 'o', 'd', 's', 'o', 'k', 'a', 'l', 'n', 'r', 'i', 'e', 'g', 'j', 'z', 'b', 'f', 'k', 'v', 'w', 'l', 'o', 'c', 'u', 'y', 's']
+Group Count: 3
+Number of common: 4
+Group: ['i', 'c', 'n', 'o', 'r', 't', 'p', 'm', 'f', 'w', 'y', 'v', 'n', 'q', 'r', 'o', 'f', 'p', 'm', 'y', 'c', 'i', 't']
+Group Count: 2
+Number of common: 10
+Group: ['y', 'a', 'i', 'e', 'm', 'p', 'z', 'j', 'b', 'v', 'k', 'g', 'n', 'r', 'f', 'c', 'o', 't', 'o', 'z', 'a', 'd', 'm', 'e', 'j', 'k', 'b', 'g', 'q', 'f', 'c', 's', 'i', 'w']
+Group Count: 2
+Number of common: 12
+Group: ['c', 'r', 'g', 't', 'k', 'h', 'b', 'a', 'j', 'z', 'd', 'm', 'l', 'p', 'e', 'p', 'n', 's', 'v', 'f', 'h', 'i', 'b', 'p', 'v', 'b', 'h', 'n']
+Group Count: 3
+Number of common: 3
+Group: ['f', 'g', 'l', 'x', 't', 'q', 'r', 'b', 'u', 'i', 'g', 'x', 'v', 'b', 'f', 't', 'w', 'x', 'f', 'l', 'b', 'y', 'g', 'x', 'b', 'p', 'z', 'n', 'd', 'h', 'f', 'e', 'g', 'j']
+Group Count: 4
+Number of common: 4
+Group: ['j', 'i', 'o', 'l', 'r', 'q', 'x', 'f', 'a', 'p', 'u', 'w', 'd', 'n', 'g', 'y', 'b', 'h', 'k', 't', 'z', 'c', 'v', 'b', 'n', 'e', 'r', 'u', 'p', 's', 'd', 'k', 'f', 'l', 'a', 'q', 'j', 'z', 'v', 'i', 't', 'c', 'm', 'x', 'o']
+Group Count: 2
+Number of common: 19
+Group: ['z', 'n', 'j', 'u', 's', 'q', 'z', 's', 'j', 'n', 'a', 'z', 'n', 'j', 's', 'u', 'z', 'j', 's', 'n', 'z', 'j', 'x', 'n', 'k', 's']
+Group Count: 5
+Number of common: 4
+Group: ['s', 'n', 'w', 'j', 'w', 'w', 'p', 'w', 'w']
+Group Count: 5
+Number of common: 1
+Group: ['i', 'p', 'c', 'd', 'q', 's']
+Group Count: 4
+Number of common: 0
+Group: ['f', 'o', 'f', 'm', 'f', 'f']
+Group Count: 4
+Number of common: 1
+Group: ['d', 'v', 'a', 'v', 'c', 'x', 'k', 'u', 'o']
+Group Count: 3
+Number of common: 0
+Group: ['r', 'b', 'x', 'i', 'e', 'o', 'y', 'c', 'z', 'l', 'j', 't', 'u', 'q', 'v', 'm', 'g', 'n', 'p', 'h', 's', 'r', 'c', 'k', 'q', 'i', 'f', 'z', 'e', 'l', 'j', 'w']
+Group Count: 2
+Number of common: 8
+Group: ['h', 'h', 'h', 'h', 'h']
+Group Count: 5
+Number of common: 1
+Group: ['e', 'x', 'g', 'h', 'r', 'd', 'k', 'b', 'i', 'v', 'q', 's', 'm', 'c', 'w', 'a', 'l', 'v', 'h', 'i', 'c', 'a', 'q', 'd', 'm', 'l', 'b', 'r', 'y', 'w', 'x', 's', 'g', 'e', 'k', 'm', 'r', 'v', 'c', 'b', 's', 'k', 'h', 'e', 'a', 'd', 'w', 'l', 'i', 'q', 'x', 'g', 'y', 'r', 'm', 'c', 'k', 'l', 'd', 'a', 'q', 'e', 'g', 'h', 'i', 's', 'v', 'w', 'x', 'b', 'a', 'l', 'g', 'o', 's', 'h', 'w', 'x', 'z', 'm', 'b', 'r', 'q', 'j', 'd', 'e', 'v', 'c', 'i', 'k']
+Group Count: 5
+Number of common: 17
+Group: ['o', 'm', 't', 's', 'w', 'b', 'x', 'u', 'j', 'p', 'v', 'f', 'z', 'd', 'y', 'n', 't', 'c', 'b', 'x', 'w', 'l', 'a', 'q', 't', 'x', 'y', 'e', 'w', 'b', 't', 'i', 'y', 'b', 'h', 'g', 'r', 'k', 'x', 'w']
+Group Count: 4
+Number of common: 4
+Group: ['s', 'r', 'k', 'x', 'f', 'j', 'l', 'g', 't', 'p', 'e', 'd', 'a', 'i', 'd', 'i', 'g', 't', 'r', 'k', 'j', 's', 'x', 'y', 'a', 'p', 'q', 'd', 'j', 'x', 'r', 'g', 'a', 'p', 'i', 'k', 't', 's', 'e']
+Group Count: 3
+Number of common: 11
+Group: ['f', 'z', 'l', 'a', 'g', 'm', 'c', 'n', 'j', 'w', 'b', 'd', 'c', 'h', 'l', 'z', 'b', 'g', 'u', 'n', 'w', 'f', 'j']
+Group Count: 2
+Number of common: 9
+Group: ['q', 's', 'z', 'g', 'h', 'e', 'w', 'k', 'n', 't', 'x', 'a', 'o', 'm', 'u', 'x', 'e', 'k', 'o', 'w', 'r', 'a', 's', 'u', 'n', 'z', 'x', 'n', 'k', 's', 'o', 'e', 'a', 'w', 'z', 'u', 'w', 'j', 'x', 'a', 'o', 'd', 'u', 'e', 'n', 's', 'b', 'z', 'f', 'k']
+Group Count: 4
+Number of common: 10
+Group: ['o', 'a', 'c', 'f', 'n', 'v', 'h', 'u', 'g', 'e', 'k', 'y', 's', 't', 'w', 'p', 'f', 't', 'n', 'c', 'a', 'y', 'k', 'e', 'j', 'w', 'h', 'b', 'o', 'm', 'z']
+Group Count: 2
+Number of common: 11
+Group: ['a', 'b', 'r', 'c', 's', 'i', 'x', 'c', 't', 'r', 'v', 'o', 'k', 'b', 's', 'g', 'y', 'a', 'e', 's', 'c', 'f', 'b', 'r']
+Group Count: 3
+Number of common: 4
+Group: ['v', 'j', 'w', 'b', 'p', 's', 'l', 'e', 'u', 'g', 'g', 'h', 'l', 'w', 'j', 'e', 'k', 'p', 'b', 'u', 's', 'v', 'j', 'p', 'u', 'e', 'l', 's', 'w', 'v', 'f', 'b', 'g', 'y', 'j', 'w', 'p', 'v', 'b', 'e', 's', 'l', 'g', 'u', 'u', 'w', 'j', 'e', 'g', 'b', 'p', 's', 'v', 'l']
+Group Count: 5
+Number of common: 10
+Group: ['j', 'k', 'v', 'q', 'e', 's', 'n', 't', 'o', 'k', 'j', 'o', 't', 'j', 'k', 'o', 't', 'j', 'o', 't', 'k', 'o', 't', 'j', 'k']
+Group Count: 5
+Number of common: 4
+Group: ['e', 'l', 'f', 'n', 'l', 'g', 'v', 'z', 'l', 'y', 'l', 'y', 'l']
+Group Count: 5
+Number of common: 1
+Group: ['r', 'g', 'b', 'f', 'y', 'r', 'z', 'm', 'h', 'b', 'n', 'r', 'b', 'v', 'b', 't', 'r', 'p', 'f', 'z', 'r', 'b']
+Group Count: 5
+Number of common: 2
+Group: ['u', 'y', 'e', 't', 'a', 'q', 'w', 'w', 'h', 'e', 'y', 'a', 'u', 't', 'a', 't', 'e', 'u', 'y', 'w', 'a', 'w', 'y', 'e', 'u', 't']
+Group Count: 4
+Number of common: 6
+Group: ['s', 'w', 'u', 'a', 'o', 'n', 'u', 's', 'n', 'w', 'a', 'o']
+Group Count: 2
+Number of common: 6
+Group: ['u', 'd', 'c', 'y', 'f', 'k', 's', 'l', 't', 'z', 'e', 'q', 'b', 'b', 'k', 'u', 'y', 'c', 'f', 's', 't', 'd', 'q', 'z', 'e', 'l']
+Group Count: 2
+Number of common: 13
+Group: ['g', 'j', 'm', 'b', 'f', 'x', 'i', 'e', 'k', 'l', 'o', 'h', 'p', 'c', 'o', 'g', 'l', 'h', 'i', 'u', 'y', 'x', 'j', 'e', 'k', 'c', 'm', 'f', 'p', 'r', 'o', 'k', 'e', 'l', 'f', 'i', 'x', 'j', 'p', 'g', 'm', 'c', 'h']
+Group Count: 3
+Number of common: 13
+Group: ['z', 'i', 'x', 'q', 'z', 'i', 'q', 'q', 'g', 'i', 'z', 'i', 'e', 'z', 'q']
+Group Count: 4
+Number of common: 3
+Group: ['s', 'd', 'b', 'j', 'l', 'v', 'y', 'j', 's', 'd', 'b', 'g', 'l', 'k', 'd', 'n', 'j', 'b', 'h', 'd', 'e', 'f', 'n', 'b', 'j', 'o', 'p', 'j', 'b', 'm', 'd']
+Group Count: 5
+Number of common: 3
+Group: ['i', 'd', 'd']
+Group Count: 2
+Number of common: 1
+Group: ['l', 'l']
+Group Count: 2
+Number of common: 1
+Group: ['d', 's', 'n', 'z', 'e', 's', 'e', 'n', 'z', 'd', 'd', 'z', 'e', 's', 'n']
+Group Count: 3
+Number of common: 5
+Group: ['c', 'e', 'g', 'q', 'n', 'b', 'z', 'y', 'h', 't', 'm', 'o', 'v', 'a', 'k', 's', 'm', 'j', 'w', 'r', 'd', 'b', 'p', 'i', 'c', 'x', 'u', 'l']
+Group Count: 2
+Number of common: 3
+Group: ['f', 'z', 'j', 'x', 'b', 'c', 'k', 'n', 'd', 'j', 'p', 'h', 'e', 'y', 'r', 's', 'g', 'a', 'q', 'm', 't', 'z', 'o', 'f', 'x', 'v', 'd', 'n']
+Group Count: 5
+Number of common: 0
+Group: ['k', 'x', 't', 'i', 'm', 'c', 'j', 'a', 'y', 'h', 's', 'y', 'a', 'v', 'i', 'c', 'k', 't', 'm', 'x', 'h', 'm', 'p', 'x', 'c', 'f', 'a', 't', 'i', 'h', 'k', 'y', 'k', 'y', 'x', 'i', 't', 'm', 'c', 'a', 'h', 't', 'a', 'x', 'h', 'm', 'y', 'i', 'c', 'k', 'v']
+Group Count: 5
+Number of common: 9
+Group: ['x', 'l', 'w', 'j', 'i', 'b', 's', 'h', 'f', 'g', 'o', 'n', 't', 'e', 'k', 'n', 'j', 'e', 'i', 'x', 'k', 's', 'l', 'b', 'o', 'g', 'f', 'h', 'w', 't', 'h', 'i', 'w', 'l', 'b', 'o', 'j', 'x', 'n', 'k', 't', 'g', 'f', 'e', 's']
+Group Count: 3
+Number of common: 15
+Group: ['u', 'd', 's', 'y', 'g', 'j', 'l', 't', 'i', 'k', 'q', 'r', 'm', 'v', 't', 'u', 'l', 'k', 'r', 'g', 'i', 'j', 'v', 'm', 't', 'e', 'u', 'm', 'k', 'j', 'v', 'l', 'g', 'i', 'r', 'v', 'g', 'j', 'k', 'u', 'l', 'r', 'i', 'm', 't', 'r', 'g', 'h', 'k', 'm', 'l', 'v', 'p', 'e', 'j', 't', 'i', 'u']
+Group Count: 5
+Number of common: 10
+Group: ['o', 'e', 'g', 'p', 't', 'd', 'l', 'k', 's', 'b', 'i', 'x', 'h', 'c', 'w', 'q', 'a', 'v', 'j', 'u', 'n', 'j', 'a', 'c', 'q', 'e', 'd', 'x', 's', 'l', 'u', 'n', 'i', 'p', 'g', 'h', 'e', 'n', 'j', 'g', 's', 'l', 'z', 'c', 'm', 'x', 'u', 'p', 'a', 'q', 'd', 'i', 'h', 'z', 'c', 'n', 'd', 'h', 'l', 'a', 'q', 's', 'e', 'p', 'x', 'u', 'g', 'i', 'j', 'n', 'q', 'a', 'j', 'e', 'h', 'x', 'p', 'i', 'l', 'c', 'd', 'g', 's', 'u']
+Group Count: 5
+Number of common: 15
+Group: ['s', 'h', 'd', 'i', 'e', 'q', 'w', 'x', 'f', 'l', 'u', 'r', 'j', 'z', 'b', 'y', 'w', 'm', 't', 'a', 'j', 'i', 'f', 'o', 'q', 'c', 'u', 'p', 'g', 'n', 'k', 'b']
+Group Count: 2
+Number of common: 7
+Group: ['x', 'w', 'c', 'k', 'a', 'o']
+Group Count: 2
+Number of common: 0
+Group: ['z', 'k', 'p', 'f', 'g', 'v', 'd', 'a', 'k', 'd', 'g', 'y', 'a', 'q', 'w', 'n', 'b', 'i', 'h', 'e', 'o', 's', 'j', 'r', 'm', 'u', 'x', 'f', 'j', 'c', 'l']
+Group Count: 5
+Number of common: 0
+Group: ['w', 'a', 'm', 'x', 'p', 'y', 's', 'n', 'l', 'q', 'p', 'y', 'd', 'm', 'r', 'n', 'j', 'n', 'm', 'y', 'p', 's', 'l']
+Group Count: 3
+Number of common: 4
+Group: ['k', 'x', 't', 'v', 'w', 'e', 'u', 'p', 'l', 'k', 'a', 'y', 'k', 'c', 'k', 'y', 'f']
+Group Count: 4
+Number of common: 1
+Group: ['u', 'r', 'y', 'f', 'i', 'a', 'b', 'j', 'v', 'e', 'l', 'p', 't', 'k', 'm', 'n', 's', 'x', 'o', 'w', 'p', 'f', 'c', 'a', 'o', 'e', 'r', 'l', 'u', 'x', 'd', 't', 'n', 'w', 'j', 'q', 'b', 's', 'k', 'm']
+Group Count: 2
+Number of common: 17
+Group: ['w', 'q', 'e', 'n', 'h', 'k', 'x', 'g', 'y', 'p', 'c', 'd', 'n', 'l', 't', 'w', 'x', 'z', 'a', 'o', 'f', 's']
+Group Count: 2
+Number of common: 3
+Group: ['s', 'r', 'x', 'm', 'e', 'a', 'b', 'u', 'o', 'd', 'z', 'q', 'o', 'a', 'e', 'q', 'd', 'r', 'u', 'b', 'm', 'z', 'k', 'k', 'd', 'e', 'a', 'u', 'r', 'o', 'b', 'z', 'q', 'm']
+Group Count: 3
+Number of common: 10
+Group: ['r', 'f', 'u', 'n', 'g', 'q', 'g', 'f', 'u', 'n', 'q', 'r', 'r', 'q', 'g', 'u', 'f', 'n', 'n', 'f', 't', 'o', 'u', 'g', 'q', 'r']
+Group Count: 4
+Number of common: 6
+Group: ['j', 'q', 't', 'h', 'd', 'm', 'l', 'f', 'a', 'c', 'p', 'l', 'i', 'q', 'u', 'm', 'f', 'd', 'c', 'j', 'q', 't', 'j', 'm', 'g', 'l', 'c', 's', 'k', 'a', 'f', 'l', 'r', 'b', 'z', 'w', 'q', 'y', 'x', 'o', 'e', 'n', 'm', 'f', 'j', 'c']
+Group Count: 4
+Number of common: 6
+Group: ['d', 'g', 'z', 'f', 'j', 'x', 'g']
+Group Count: 4
+Number of common: 0
+Group: ['q', 'n', 'h', 'w', 'l', 'z', 'j', 'o', 'a', 'c', 'w', 'l', 'z', 'o', 'a', 'j', 'h', 'c', 'q', 'n', 'j', 'w', 'q', 'z', 'c', 'a', 'n', 'o', 'h', 'l', 'm', 'w', 'l', 'z', 'q', 'o', 'n', 'h', 'j', 'a', 'c']
+Group Count: 4
+Number of common: 10
+Group: ['a', 's', 'q', 't', 'l', 'p', 'w', 'n', 'r', 'm', 'n', 'p', 'a', 'r', 's', 'm', 'd', 's', 'a', 'r', 'n', 'm', 'p', 'f', 'n', 's', 'p', 'a', 'm', 'x', 'r']
+Group Count: 4
+Number of common: 6
+Group: ['o', 't', 'o', 'z', 't']
+Group Count: 2
+Number of common: 2
+Group: ['c', 'u', 'o', 'k', 'w', 'g', 'j', 'm', 'h', 'x', 'z', 'i', 'd', 't', 'e', 's', 'l', 'q', 'y', 't', 'f', 'q', 'w', 'p', 'i', 'e', 'r', 'a', 'o', 's', 'b', 'j', 'n']
+Group Count: 2
+Number of common: 8
+Group: ['c', 'z', 'o', 'x', 'd', 'y', 'v', 'h', 'a', 's', 'n', 'i', 't', 'z', 'a', 'x', 'i', 'o', 'v', 'c', 'y', 'n', 'h', 't', 's', 'j', 'u', 'o', 'y', 'h', 'v', 'x', 'a', 't', 'b', 'n', 's', 'i', 'z']
+Group Count: 3
+Number of common: 11
+Group: ['o', 'w', 's', 'j', 'g', 'e', 'r', 'o', 'e', 'r', 'w', 'g', 'j', 's', 'r', 'w', 's', 'o', 'j', 'e', 'g', 'o', 'j', 's', 'w', 'g', 'r', 'e', 'e', 'w', 'j', 's', 'o', 'c', 'r', 'g', 'v']
+Group Count: 5
+Number of common: 7
+Group: ['c', 'm', 'e', 'x', 'i', 'b', 'r', 'y', 'x', 'b', 'i', 'r', 'i', 'r', 'b', 'x']
+Group Count: 3
+Number of common: 4
+Group: ['n', 'b', 'g', 'p', 'o', 'd', 'v', 's', 'x', 'm', 'z', 'f', 'q', 'i', 't', 'e', 'u', 'j', 'm', 'n', 'v', 't', 'q', 'b', 'p', 'x', 'u', 's', 'z', 'j', 'o', 'd', 'j', 't', 's', 'q', 'p', 'o', 'v', 'b', 'x', 'n', 'd', 'm', 'z', 'u', 's', 'p', 'x', 'b', 'z', 'q', 'm', 'o', 'd', 'v', 'j', 't', 'u', 'n', 'o', 'u', 'm', 'j', 'n', 'p', 's', 'v', 'z', 't', 'd', 'b', 'q', 'x']
+Group Count: 5
+Number of common: 14
+Group: ['v', 'r', 'w', 'y', 't', 'k', 'k', 'g', 'l', 'v', 'f', 'r', 'w', 'z', 'x', 'w', 'u', 's', 'd', 'o', 'n', 'i', 'k', 'p', 'h', 'm', 'w', 'g', 'k', 'j', 'w', 'a', 'r', 'y', 'k', 't']
+Group Count: 5
+Number of common: 2
+Group: ['r', 'k', 'd', 'i', 'j', 'o', 'f', 's', 'l', 'u', 'p', 'w', 'q', 'g', 't', 'v', 'a', 'x', 'h', 'y', 'j', 'z', 'd', 's', 'u', 'p', 'r', 'y', 'k', 'o', 'i', 'w', 'f', 'v', 'l', 'x', 'a', 'q', 'w', 'f', 'b', 'o', 'i', 'j', 'q', 'p', 'u', 'r', 'v', 's', 'l', 'k', 'x', 'd', 'y', 'a', 's', 'k', 'y', 'l', 'w', 'c', 'm', 'a', 'u', 'o', 'e', 'x', 'p', 'i', 'j', 'd', 'v', 'q', 'f', 'r']
+Group Count: 4
+Number of common: 17
+Group: ['p', 'e', 'e', 'p', 'e', 'e', 'b', 'e']
+Group Count: 5
+Number of common: 1
+Group: ['u', 'z', 'r', 'm', 'j', 'e', 'h', 'f', 'k', 't', 'b', 'l', 'x', 's', 'i', 'v', 'q', 'p', 'o', 'r', 'o', 'v', 'k', 'l', 'p', 'u', 'b', 'z', 'd', 's', 'f', 'i', 'h', 'e', 'q', 'x', 'm', 't', 'e', 'k', 'z', 'u', 'p', 'r', 'v', 'b', 't', 'i', 's', 'x', 'o', 'f', 'l', 'h', 'q', 'm', 'i', 'm', 'u', 'h', 'k', 'f', 't', 'v', 'b', 'r', 'e', 'p', 'z', 's', 'l', 'q', 'x', 'o', 'f', 'm', 'r', 't', 'x', 'b', 'l', 'p', 'z', 'e', 'o', 's', 'u', 'v', 'i', 'k', 'h', 'q']
+Group Count: 5
+Number of common: 18
+Group: ['o', 'a', 'u', 'i', 'f', 's', 'g', 'w', 'q', 'b', 't', 'v', 'k', 'z', 'x', 'j', 'y', 'c', 'p', 'm', 'l', 'k', 'q', 'm', 'g', 'z', 'x', 'j', 'b', 'w', 'c', 'o', 'y', 'i', 'u', 'v', 'l', 'a', 't', 'f', 'p', 's', 'p', 'w', 'j', 'm', 'q', 'c', 'z', 'o', 'y', 't', 'a', 'x', 'g', 'k', 's', 'v', 'b', 'i', 'f', 'u', 'l', 'y', 'q', 'w', 's', 'a', 'z', 'x', 'i', 'l', 'v', 'u', 't', 'c', 'm', 'b', 'j', 'o', 'p', 'k', 'f', 'g', 'q', 't', 'f', 'd', 'p', 'x', 'k', 'm', 'b', 'z', 'w', 'a', 'c', 's', 'g', 'o', 'i', 'l', 'u', 'y', 'j', 'v']
+Group Count: 5
+Number of common: 21
+Group: ['y', 'k', 'c', 'j', 'a', 'f', 'm', 'x', 'l', 'b', 'e', 'h', 'u', 'q', 't', 'i', 'w', 'v', 's', 'z', 'q', 'x', 'u', 'd', 'n', 'm', 'y', 's', 'c', 'n', 'g', 'r', 'p', 'c', 'y', 'm', 's', 'q', 'x', 'u']
+Group Count: 3
+Number of common: 7
+Group: ['q', 'l', 'y', 'p', 'p', 'l', 'q', 'y', 'p', 'q', 'l', 'y', 'l', 'y', 'q', 'p', 'y', 'q', 'l', 'p']
+Group Count: 5
+Number of common: 4
+Group: ['d', 't', 's', 'z', 'x', 'e', 'k', 'b', 's', 'x', 'r', 'g', 'b', 'z', 't', 'e', 'd', 'm', 'w', 's', 'd', 'n', 'y', 'x', 'o', 'b', 'q', 't', 'l']
+Group Count: 3
+Number of common: 5
+Group: ['o', 'q', 'm', 'x', 'a', 'b', 'w', 'k', 'n', 'f', 'y', 'm', 'x', 'y', 'o', 'f', 'k', 'b', 'q', 'w', 'a', 'j']
+Group Count: 2
+Number of common: 10
+Group: ['x', 'f', 'q', 'r', 'j', 'e', 'h', 'h', 'f', 'q', 'r', 'j', 'e', 'x', 'q', 'b', 'f', 'x', 'r', 'h', 'j', 'e', 'x', 'h', 'j', 'e', 'q', 'f', 'r', 'o', 'q', 'h', 'r', 'i', 'x', 'f', 'j', 'c', 's', 'e']
+Group Count: 5
+Number of common: 7
+Group: ['p', 'j', 'a', 'o', 'e', 'r', 'b', 't', 'k', 'q', 's', 'l', 'x', 'f', 'x', 'k', 'e', 'l', 'n', 'i', 't', 'h', 'r', 's', 'p', 'a']
+Group Count: 2
+Number of common: 9
+Group: ['t', 'd', 'r', 'p', 'c', 'b', 'k', 's', 'a', 'd', 'a', 'k', 's', 'b', 'c', 'p', 't', 'r', 'a', 'b', 's', 'k', 'd', 'p', 't', 'r', 'c']
+Group Count: 3
+Number of common: 9
+Group: ['c', 'l', 'i', 'd', 'q', 'f', 'q', 'k', 'm', 'i', 'l', 'b', 'i', 'o', 'j', 'e']
+Group Count: 3
+Number of common: 1
+Group: ['w', 'j', 'e', 't', 'b', 'y', 'v', 'x', 'h', 'o', 'u', 'm', 'k', 'p', 'b', 'f', 'y', 'e', 'n', 'w', 'a', 'k', 'p', 'v', 'o', 't', 'x', 'm']
+Group Count: 2
+Number of common: 11
+Group: ['a', 'd', 'l', 'q', 'k', 'r', 'z', 'v', 'g', 'v', 'l', 'z', 'a', 'q', 'g', 'd', 'r', 'z', 'q', 'd', 'v', 'r', 'y', 'a', 'g', 'l', 'l', 'z', 'a', 'r', 'q', 'g', 'v', 'd', 'a', 'r', 'v', 'l', 'f', 'q', 'g', 'd', 'z']
+Group Count: 5
+Number of common: 8
+Group: ['x', 'f', 's', 'b', 'x', 'b', 'f', 's', 'x', 'g', 'b', 'z', 's', 'j', 'f']
+Group Count: 3
+Number of common: 4
+Group: ['p', 'b', 't', 'r', 'q', 'i', 'l', 'm', 'k', 'f', 'w', 'v', 'm', 'k', 'w', 'f', 'l', 'p', 'p', 'k', 'w', 'f', 'l', 'm', 'w', 'f', 'k', 'l', 's', 'm', 'u', 'p', 'w', 'p', 'k', 'f', 'l', 'm']
+Group Count: 5
+Number of common: 6
+Group: ['q', 'k', 'j', 'h', 'n', 's', 'c', 'z', 'm', 'u', 'e', 'f', 't', 'd', 'p', 'b', 'r', 'g', 'v', 'i', 'x', 'w', 'k', 'd', 'e', 'j', 't', 'q', 'h', 'f', 's', 'w', 'n', 'b', 'm', 'u', 'p', 'c', 'g', 'x', 'v', 'z', 'r', 'i', 'g', 'h', 'x', 'w', 'k', 'q', 'u', 'p', 'd', 't', 'b', 'v', 's', 'c', 'r', 'm', 'n', 'z', 'f', 'e', 'i', 'j', 'f', 'b', 'm', 'r', 'g', 't', 'k', 'x', 'j', 'q', 'e', 'v', 'h', 'y', 'w', 's', 'd', 'z', 'c', 'n', 'u', 'p', 'i', 'e', 'n', 's', 'k', 'i', 'w', 'x', 'g', 'd', 't', 'p', 'b', 'q', 'u', 'c', 'h', 'v', 'r', 'j', 'f', 'z', 'm']
+Group Count: 5
+Number of common: 22
+Group: ['u', 'u', 'u', 'u']
+Group Count: 4
+Number of common: 1
+Group: ['f', 'i', 't', 'c', 'w', 'd', 'f', 'v', 'z', 'a', 'b', 'y', 'u']
+Group Count: 2
+Number of common: 1
+Group: ['s', 'a', 'e', 'w', 'h', 'u', 'f', 'o', 'd', 'z', 'l', 'x', 'b', 'j', 'c', 'r', 'q', 'i', 'v', 'y', 'g', 'm', 'p', 'k', 'j', 'q', 'x', 'i', 'o', 'p', 'd', 'm', 'y', 'l', 'u', 'w', 'k', 'c', 't', 's', 'f', 'z', 'e', 'g', 'b', 'a', 'v', 'r']
+Group Count: 2
+Number of common: 23
+Group: ['z', 's', 'd', 'f', 'p', 'a', 'j', 'r', 'n', 'v', 'q', 'k', 'b', 'k', 'a', 'x', 'z', 'p', 's', 'r', 'n', 'd', 'v', 'q', 'j', 'd', 'a', 'n', 'p', 's', 'v', 'r', 'q', 'j', 'y', 'k', 'z', 'u', 'j', 's', 'p', 'g', 'r', 'n', 'd', 'a', 'o', 'v', 'k', 'z', 'q', 't', 'l', 'j', 'n', 'a', 'r', 'p', 'z', 'v', 'e', 'k', 'w', 'q', 's', 'd', 'm', 'h', 'i']
+Group Count: 5
+Number of common: 11
+Group: ['w', 'y', 'u', 'e', 'm', 't', 'v', 'k', 'd', 'i', 'x', 'l', 'd', 'i', 'r', 'e', 'v', 'l', 'm', 'y', 't', 'p', 'n', 'o', 'w', 'a', 'u', 'k', 'e', 'i', 'g', 'v', 'l', 'k', 'w', 'u', 'm', 'y', 'c', 't', 'd']
+Group Count: 3
+Number of common: 11
+Group: ['j', 'c', 'r', 'p', 'n', 'z', 'a', 'l', 'f', 't', 'j', 'a', 'c', 'r', 'u', 't', 'n', 'd', 'p', 'e', 'i', 'x', 'z', 'j', 'c', 'z', 'v', 'a', 'n', 't', 'r', 'e', 'p', 'k', 'e', 'r', 'g', 'c', 'a', 'j', 'n', 'p', 't', 'z', 'v']
+Group Count: 4
+Number of common: 8
+Group: ['i', 'a', 'g', 'o', 'n', 'w', 's', 'a', 'w', 'i', 'n', 'g', 's', 'w', 'g', 'i', 'a', 's', 'n', 'a', 'n', 'w', 's', 'i', 'g', 's', 'n', 'g', 'a', 'i', 'w']
+Group Count: 5
+Number of common: 6
+Group: ['q', 'o', 'g', 'i', 't', 's', 'b', 'f', 'z', 'm', 'x', 'k', 'k', 'e', 'f', 'o', 'x', 'b', 'i', 'q', 't', 'z', 's', 't', 'i', 's', 'f', 'z', 'v', 'x', 'o', 'b', 'q', 'k', 'c', 'a', 's', 't', 'j', 'x', 'b', 'q', 'p', 'i', 'f', 'o', 'z', 'k', 'o', 'k', 'b', 'f', 's', 'n', 'i', 'd', 'q', 't', 'z', 'x', 'e']
+Group Count: 5
+Number of common: 10
+Group: ['g', 'o', 'c', 'w', 'h', 'o', 't', 'm', 'h', 'g', 'e', 'o', 'g', 's', 'h', 'o', 'g', 'h', 's', 'g', 'h', 'o']
+Group Count: 5
+Number of common: 3
+Group: ['e', 'y', 'i', 'x', 'm', 'd', 's']
+Group Count: 3
+Number of common: 0
+Group: ['r', 't', 'k', 'c', 'g', 'w', 'f', 'x', 't', 'j', 'x', 'z', 'c', 'k', 'f', 'h', 'g', 'b', 'i', 'w', 'a', 'e', 'n', 'y', 'v', 'm', 'c', 'f', 'g']
+Group Count: 3
+Number of common: 3
+Group: ['n', 'g', 's', 'p', 'd', 'q', 'w', 'v', 'h', 'z', 'i', 'q', 'q', 'x', 'y', 'q', 't', 'f', 'q', 'j', 'z']
+Group Count: 5
+Number of common: 1
+Group: ['e', 'x', 'g', 'i', 'r', 'h', 'u', 'w', 'y', 'j', 't', 'r', 'x', 't', 'u', 'e', 'p', 'w', 'h', 'g', 'j', 'i', 's', 'y', 'x', 't', 'w', 'y', 'g', 'h', 'r', 'j', 'e', 'u', 'i', 'g', 'e', 't', 'u', 'y', 'i', 'j', 'w', 'c', 'x', 'r', 'h', 'u', 'g', 'h', 't', 'w', 'y', 'x', 'i', 'e', 'j', 'r']
+Group Count: 5
+Number of common: 11
+Group: ['v', 'd', 'h', 'd', 'e', 'v', 'h']
+Group Count: 2
+Number of common: 3
+Group: ['y', 'y']
+Group Count: 2
+Number of common: 1
+Group: ['m', 'm', 'm', 'p', 'v']
+Group Count: 3
+Number of common: 1
+Group: ['p', 't', 'v', 'l', 's', 'o', 'n', 'e', 'b', 'i', 'q', 'j', 'w', 'r', 'a', 'x', 'c', 'k', 'u', 'm', 'h', 'z', 'g', 'f', 'l', 'q', 't', 'v', 'b', 'i', 'h', 's', 'o', 'w', 'm', 'g', 'e', 'u', 'n', 'c', 'k', 'z', 'j', 'f', 'a', 'p', 'x', 'r', 'x', 'g', 'l', 'b', 'i', 'f', 'c', 'z', 'o', 'v', 't', 'w', 'r', 'p', 'q', 'n', 'm', 'a', 'j', 'e', 'u', 'k', 's', 'h', 'e', 'o', 'i', 'v', 'p', 'u', 'q', 'f', 'c', 'b', 'h', 't', 'n', 'a', 'g', 'j', 'w', 'k', 'r', 'z', 's', 'x', 'm', 'l', 'n', 'u', 'b', 'p', 'e', 'o', 'f', 'j', 'w', 'm', 'q', 'v', 'x', 'g', 'i', 'r', 'c', 'a', 'h', 'k', 's', 'z', 't', 'l']
+Group Count: 5
+Number of common: 24
+Group: ['u', 'y', 'l', 't', 'c', 'x', 'r', 'z', 'j', 'e', 'g', 'm', 'f', 'w', 'b', 'k', 'i', 'o', 't', 'g', 'p', 'x', 'm', 'u', 'v', 's', 'o', 'b', 'i', 'c', 'f', 'e', 'j', 'e', 's', 'v', 'g', 'j', 'x', 'c', 'f', 'm', 'u', 'o', 't', 'i', 'b', 'x', 'i', 'f', 'o', 'g', 'n', 'q', 'm', 'b', 't', 'd', 'u', 'j', 'e', 'c', 'a', 'b', 'x', 'h', 'f', 'm', 'i', 'e', 'j', 'c', 'g', 'o', 'u', 't']
+Group Count: 5
+Number of common: 12
+Group: ['d', 'j', 'a', 'z', 'd', 'a', 'j', 'n', 'e', 'd', 'j', 'a', 't', 'a', 'w', 'd', 'h']
+Group Count: 4
+Number of common: 2
+Group: ['h', 'y', 'p', 'y', 'h', 'v', 'p', 'y', 'd', 'p', 'h']
+Group Count: 3
+Number of common: 3
+Group: ['z', 'z', 'z', 'z']
+Group Count: 4
+Number of common: 1
+Group: ['j', 'e', 'i', 'x', 'y', 'k', 'z', 'c', 'r', 'f', 'd', 'z', 'e', 'x', 'm', 'd', 'j', 'k', 'x', 'k', 'z', 'd', 'j', 'e']
+Group Count: 3
+Number of common: 6
+Group: ['a', 'u', 'i', 'h', 'u', 'i', 'a', 'l', 'u', 'i', 'a']
+Group Count: 3
+Number of common: 3
+Group: ['u', 'c', 'w', 'k', 'e', 'i', 'a', 'd', 'h', 'g', 's', 'r', 'i', 'h', 's', 'w', 'g', 'k', 'r', 'u', 'd', 'e', 'a', 'g', 'w', 'e', 'z', 'h', 's', 'k', 'r', 'y', 'a', 'd', 'n', 'u', 'o', 'i']
+Group Count: 3
+Number of common: 11
+Group: ['l', 'v', 'h', 'm', 'u', 'r', 'a', 'n', 'i', 'c', 'f', 'q', 'p', 'b', 't', 'b', 'q', 'h', 'r', 'l', 'o', 't', 'f', 'n', 'z', 'g', 'a', 'c', 'm', 'u', 'f', 'h', 'd', 'c', 's', 'l', 'q', 'w', 'y', 'm', 'b', 'r', 'u', 't', 'a', 'n']
+Group Count: 3
+Number of common: 12
+Group: ['u', 'b', 'j', 'p', 'k', 'b', 'p', 'j', 'i']
+Group Count: 5
+Number of common: 0
+Group: ['y', 'g', 'm', 'l', 'y', 'x', 'o']
+Group Count: 2
+Number of common: 1
+Group: ['q', 'p', 'u']
+Group Count: 3
+Number of common: 0
+Group: ['y', 'i', 'b', 'e', 'a', 'x', 'j', 'p', 'k', 'c', 'w', 's', 'f', 'm', 'i', 'x', 'p', 'e', 'k', 'j', 'c', 'a', 's', 'w', 'm', 'y', 'r', 'f', 'b', 'l', 'e', 'c', 'm', 'b', 'i', 'k', 'j', 'p', 't', 'a', 'f', 'w', 'y', 'z', 's', 'x', 'q', 's', 'x', 'f', 'a', 'c', 'b', 'm', 'i', 'e', 'k', 'j', 'w', 'y', 'p']
+Group Count: 4
+Number of common: 14
+Group: ['v', 'y', 'z', 'h', 'm', 'w', 'g', 'i', 'n', 'r', 's', 'c', 'j', 'l']
+Group Count: 2
+Number of common: 0
+Group: ['s', 'c', 'h', 's']
+Group Count: 4
+Number of common: 0
+Group: ['q', 'x', 'h', 'n', 'g', 'c', 'y', 'i', 'j', 'p', 't', 'v', 'a', 'z', 'm', 'e', 'g', 'd', 'i', 'w', 'l', 's', 'z', 'q', 'f', 'b', 't', 'v', 'c', 'p', 'x', 'n', 'e', 'j', 'h', 'y', 'e', 'g', 'h', 'z', 'a', 'n', 'i', 'y', 'k', 'v', 'p', 'q', 'o', 't', 'm', 'j', 'u', 'x', 'c']
+Group Count: 3
+Number of common: 14
+Group: ['y', 'a', 's', 'r', 'b', 'c', 'w', 'j', 'u', 'r', 'z', 'b', 'a', 'c', 'j', 'u', 'g', 'a', 'b', 'u', 'z', 'k', 'x', 'j', 'c', 'r']
+Group Count: 3
+Number of common: 6
+Group: ['y', 'j', 'd', 'g', 'u', 't', 'w', 'f', 'r', 'e', 's', 'l', 'm', 'j', 'l', 'u', 't', 'e', 'w', 'f', 'd', 'g', 's', 'm', 'r', 'y', 't', 'g', 'l', 'y', 'j', 'c', 'e', 'f', 'r', 's', 'w', 'm', 'u', 'd']
+Group Count: 3
+Number of common: 13
+Group: ['c', 'f', 'm', 'm', 'n']
+Group Count: 3
+Number of common: 0
+Group: ['z', 'b', 'w', 'l', 'n', 'q', 'r', 'c', 'z', 'w', 'r', 'p', 'c']
+Group Count: 2
+Number of common: 4
+--------------------ANSWER-----------------------
+Answer: 3158
