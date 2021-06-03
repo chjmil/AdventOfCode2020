@@ -8,7 +8,6 @@ import re
 # global dict to hold all of the bags and their children
 bag_rules: dict = {}
 parents: list = []
-logs=[]
 
 def get_possible_parents(bag_color: str):
     """
@@ -53,19 +52,17 @@ def get_number_of_bags(bag_color: str):
     """
     # get all of the child bags of the bag_color and store their innards
     innards = bag_rules[bag_color]
-    total = 0
+    total = 1
     number_regex = re.compile('(\d+) ([^.]*)\.?$')
     print(f'{bag_color}: {innards}')
     for bag in innards:
         if 'no other' in bag:
-            total = 1
-            logs.append(f"base for {bag_color}")
-            break
+            return 1
         match = number_regex.match(bag)
         number = int(match[1])
         color = match[2]
-        logs.append(f"{number} of {color}")
-        total += number * get_number_of_bags(color)
+        inside = get_number_of_bags(color)
+        total += number * inside
     return total
 
 def part_two_func(bag_color: str):
@@ -77,9 +74,7 @@ def part_two_func(bag_color: str):
 
     # Print the solution
     print("--------------------PART 2-----------------------")
-    print(f"Answer: {total}")
-
-    print(logs)
+    print(f"Answer: {total-1}")
 
 
     
