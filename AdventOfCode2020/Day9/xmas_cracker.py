@@ -5,7 +5,7 @@ import argparse
 import os
 import itertools
 
-def part_one(input: list, preamble: int):
+def xmas_crack(input: list, preamble: int):
     """
     Figure out which number doesn't belong
     :param input_list_path (str): Path to the input file
@@ -30,6 +30,32 @@ def part_one(input: list, preamble: int):
     print("--------------------PART 1-----------------------")
     print(f"Answer: {problem_num}")
 
+    # begin part 2
+    contiguous_set = []
+    counter = 0
+    for val in input:
+        counter += val
+        contiguous_set.append(val)
+        while counter > problem_num:
+            # pop the oldest and redo the counter. Repeat if it's still too large
+            contiguous_set.pop(0)
+            counter = sum(contiguous_set)
+        if counter == problem_num:
+            # found the set. Break out of loop
+            break
+
+    
+    print("--------------------PART 2-----------------------")
+    print(f"List of contiguous values: {contiguous_set}")
+    contiguous_set.sort()
+    print(f"Smallest: {contiguous_set[0]}")
+    print(f"Largest: {contiguous_set[-1]}")
+
+    print(f"Answer: {contiguous_set[0] + contiguous_set[-1]}")
+
+
+
+
 
 def main(input_list_path: str, preamble: int = 25):
     """
@@ -47,7 +73,7 @@ def main(input_list_path: str, preamble: int = 25):
         # List comprehension to read in the values
         input = [int(x) for x in f.readlines()]
 
-    part_one(input, preamble)
+    xmas_crack(input, preamble)
 
 
 if __name__ == "__main__":
