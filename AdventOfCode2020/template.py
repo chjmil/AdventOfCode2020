@@ -4,7 +4,7 @@ Template file to make it easier to copy the basic structure.
 import argparse
 import os
 
-class adapter_array():
+class template():
 
     def __init__(self, input_list_path: str):
         """
@@ -61,5 +61,5 @@ if __name__ == "__main__":
                         action='store_true', required=False, default=False)
 
     args = parser.parse_args()
-    adapter = adapter_array(input_list_path=args.input_path)
-    adapter.main(part_one=not args.skip_one, part_two=not args.skip_two)
+    adapter = template(input_list_path=args.input_path)
+    template.main(part_one=not args.skip_one, part_two=not args.skip_two)
