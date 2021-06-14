@@ -1,6 +1,3 @@
-"""
-Template file to make it easier to copy the basic structure.
-"""
 import argparse
 import os
 from copy import deepcopy
