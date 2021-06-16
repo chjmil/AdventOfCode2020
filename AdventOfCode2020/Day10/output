@@ -1,0 +1,9 @@
+$ python adapter_array.py --input-path input >> output
+
+--------------------PART 1-----------------------
+One Jolts: 70
+Two Jolts: 0
+Three Jolts: 30
+Answer: 2100
+--------------------PART 2-----------------------
+Answer: 16198260678656
