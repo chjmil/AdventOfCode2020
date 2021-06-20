@@ -1,0 +1,5 @@
+$ python rain_risk.py --input-path input >> output
+--------------------PART 1-----------------------
+Answer: 845
+--------------------PART 2-----------------------
+Answer: 27861

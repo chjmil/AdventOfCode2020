@@ -11,6 +11,10 @@ class template():
         Handle the input file and store the contents in a class variable
         :param input_list_path (str): Path to the input file
         """
+        self.debug = False
+        if os.environ.get('debug', False):
+            self.debug = True
+
         # Verify the file exists
         if not os.path.exists(input_list_path):
             print(f"Input file does not exist: {input_list_path}")
@@ -59,7 +63,11 @@ if __name__ == "__main__":
                         action='store_true', required=False, default=False)
     parser.add_argument("--skip-two", help="Skip part 2", 
                         action='store_true', required=False, default=False)
+    parser.add_argument("--debug", help="Print extra debugging info", 
+                        action='store_true', required=False, default=False)
 
     args = parser.parse_args()
+    if args.debug:
+        os.environ['debug'] = "True"
     adapter = template(input_list_path=args.input_path)
     template.main(part_one=not args.skip_one, part_two=not args.skip_two)
