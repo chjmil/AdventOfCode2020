@@ -23,6 +23,7 @@ class rain_risk():
         """
         self.debug = False
         self.position = [0,0]
+        self.waypoint = None
         self.direction = Compass.EAST
         self.operations = {
             'E': lambda num: self.east(num),
@@ -48,17 +49,41 @@ class rain_risk():
 
     # Functions to handle movement
     def east(self, num):
-        self.position[0] += num
+        if self.waypoint:
+            self.waypoint[0] += num
+        else:
+            self.position[0] += num
     def west(self, num):
-        self.position[0] -= num
+        if self.waypoint:
+            self.waypoint[0] -= num
+        else:
+            self.position[0] -= num
     def north(self, num):
-        self.position[1] += num
+        if self.waypoint:
+            self.waypoint[1] += num
+        else:
+            self.position[1] += num
     def south(self, num):
-        self.position[1] -= num
+        if self.waypoint:
+            self.waypoint[1] -= num
+        else:
+            self.position[1] -= num
     def rotate(self, num):
         # positive is clockwise
+        old_direction = self.direction
         self.direction = Compass((self.direction.value + num/Compass.ROTATE.value)%4)
+        # Rotate around the axis
+        if self.waypoint:
+            while old_direction.value != self.direction.value:
+                self.waypoint.reverse()
+                self.waypoint[1] *= -1
+                old_direction = Compass((old_direction.value +1 )%4)
+
     def forward(self, num):
+        if self.waypoint:
+            self.position[0] += self.waypoint[0] * num
+            self.position[1] += self.waypoint[1] * num
+            return
         if self.direction.value == 0:
             self.east(num)
         elif self.direction.value == 1:
@@ -85,10 +110,13 @@ class rain_risk():
         """
         Figure out ...
         """
-        
+        self.waypoint = [10,1]
+        for direction in self.input:
+            self.operations[direction[0]](int(direction[1:]))
+
         # Print the solution
         print("--------------------PART 2-----------------------")
-        print(f"Answer: {1}")
+        print(f"Answer: {abs(self.position[0]) + abs(self.position[1])}")
 
 
     def main(self, part_one: bool = True, part_two: bool = True):
