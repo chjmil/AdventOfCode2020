@@ -1,0 +1,4 @@
+$ python rain_risk.py --input-path input --skip-two >> output_part1
+
+--------------------PART 1-----------------------
+Answer: 845

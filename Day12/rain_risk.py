@@ -1,10 +1,20 @@
-"""
-Template file to make it easier to copy the basic structure.
-"""
 import argparse
 import os
+from enum import Enum
 
-class template():
+class Compass(Enum):
+    """
+    Enum to hold all of the possible
+    """
+    EAST = 0
+    SOUTH = 1
+    WEST = 2
+    NORTH = 3
+    ROTATE = 90
+
+
+
+class rain_risk():
 
     def __init__(self, input_list_path: str):
         """
@@ -12,9 +22,20 @@ class template():
         :param input_list_path (str): Path to the input file
         """
         self.debug = False
+        self.position = [0,0]
+        self.direction = Compass.EAST
+        self.operations = {
+            'E': lambda num: self.east(num),
+            'S': lambda num: self.south(num),
+            'W': lambda num: self.west(num),
+            'N': lambda num: self.north(num),
+            'R': lambda num: self.rotate(num),
+            'L': lambda num: self.rotate(-num),
+            'F': lambda num: self.forward(num),
+        }
+
         if os.environ.get('debug', False):
             self.debug = True
-
         # Verify the file exists
         if not os.path.exists(input_list_path):
             print(f"Input file does not exist: {input_list_path}")
@@ -23,15 +44,41 @@ class template():
         # Parse the file and store it in a list
         with open(input_list_path, 'r') as f:
             # Store the lines of input into the self.input var
-            self.input = f.readlines()
+            self.input = [x.strip() for x in f.readlines()]
+
+    # Functions to handle movement
+    def east(self, num):
+        self.position[0] += num
+    def west(self, num):
+        self.position[0] -= num
+    def north(self, num):
+        self.position[1] += num
+    def south(self, num):
+        self.position[1] -= num
+    def rotate(self, num):
+        # positive is clockwise
+        self.direction = Compass((self.direction.value + num/Compass.ROTATE.value)%4)
+    def forward(self, num):
+        if self.direction.value == 0:
+            self.east(num)
+        elif self.direction.value == 1:
+            self.south(num)
+        elif self.direction.value == 2:
+            self.west(num)
+        else:
+            self.north(num)
+
 
     def part_one_function(self):
         """
-        Figure out ...
+        Figure out the manhattan distance from start to finish
         """
+        for direction in self.input:
+            self.operations[direction[0]](int(direction[1:]))
+
         # Print the solution
         print("--------------------PART 1-----------------------")
-        print(f"Answer: {1}")
+        print(f"Answer: {abs(self.position[0]) + abs(self.position[1])}")
 
 
     def part_two_function(self):
@@ -69,5 +116,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
     if args.debug:
         os.environ['debug'] = "True"
-    adapter = template(input_list_path=args.input_path)
-    template.main(part_one=not args.skip_one, part_two=not args.skip_two)
+    program = rain_risk(input_list_path=args.input_path)
+    program.main(part_one=not args.skip_one, part_two=not args.skip_two)
