@@ -75,15 +75,78 @@ class bit_mask():
         print("--------------------PART 1-----------------------")
         print(f"Answer: {sum(self.mem.values())}")
 
+    def memory_mask(self, val):
+        """
+        """
+        # Get the binary value and pad it to match the mask
+        bin_val = f"{bin(val).replace('0b', ''):0>{len(self.mask)}}"
+
+        if self.debug:
+            print(f"\nDEBUG: initial bin_val: {bin_val}")
+        
+        new_bin = ''
+        # loop through until the remaining mask is just Xs
+        for i in range(len(self.mask)):
+            if self.mask[i] == 'X':
+                new_bin += '0'
+            elif self.mask[i] == '1':
+                new_bin += '1'
+            else:
+                new_bin += bin_val[i]
+        
+        if self.debug:
+            print(f"DEBUG: new_bin: {new_bin}")
+        
+        # convert back to decimal
+        new_bin = int(new_bin, 2)
+        if self.debug:
+            print(f"DEBUG: int new_bin: {new_bin}")
+
+        return new_bin
 
     def part_two_function(self):
         """
-        Figure out ...
+        Instead of only replacing the 1 and 0 from the
+        mask, replace each X with both a 1 and a 0 under
+        the same mem address
         """
-        
+        structure = re.compile(r"mem\[(\d+)\] = (\d+)")
+        # Values to add to the final mem list
+        x_list = []
+        # go line by line and either set the mask or the value
+        for line in self.input:
+            if 'mask' in line:
+                current_mask = line[line.find(' = ')+3:]
+                self.mask = current_mask.lstrip('X')
+                # reset the list
+                x_list = []
+                # Go through and update all of the x's
+                for i in range(len(current_mask)):
+                    if current_mask[i] == 'X':
+                        x_list.append(2**(len(current_mask)-i-1))
+                continue
+            values = structure.match(line)
+            # Apply the bitmask first
+            base_memory = self.memory_mask(int(values[1]))
+
+            # TODO this doesn't get every combination of 0/1
+            # TODO need to fix this, then it works
+            list_new_addresses = [base_memory]
+            for i in range(len(x_list)):
+                num = base_memory
+                for j in range(i, len(x_list)):
+                    num += x_list[j]
+                    list_new_addresses.append(num)
+
+            for addr in list_new_addresses:
+                self.mem[addr] = int(values[2])
+
+        if self.debug:
+            print(f"DEBUG: mem: {self.mem}")
+
         # Print the solution
-        print("--------------------PART 2-----------------------")
-        print(f"Answer: {1}")
+        print("--------------------PART 1-----------------------")
+        print(f"Answer: {sum(self.mem.values())}")
 
 
     def main(self, part_one: bool = True, part_two: bool = True):
