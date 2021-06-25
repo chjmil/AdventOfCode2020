@@ -1,6 +1,7 @@
 import argparse
 import os
 import re
+import itertools
 
 class bit_mask():
 
@@ -104,6 +105,7 @@ class bit_mask():
 
         return new_bin
 
+
     def part_two_function(self):
         """
         Instead of only replacing the 1 and 0 from the
@@ -129,14 +131,12 @@ class bit_mask():
             # Apply the bitmask first
             base_memory = self.memory_mask(int(values[1]))
 
-            # TODO this doesn't get every combination of 0/1
-            # TODO need to fix this, then it works
-            list_new_addresses = [base_memory]
+            combos = set()
+            combos.add(0)
             for i in range(len(x_list)):
-                num = base_memory
-                for j in range(i, len(x_list)):
-                    num += x_list[j]
-                    list_new_addresses.append(num)
+                for item in list(itertools.combinations(x_list, i+1)):
+                    combos.add(sum(item))
+            list_new_addresses = [x+base_memory for x in combos]
 
             for addr in list_new_addresses:
                 self.mem[addr] = int(values[2])
@@ -145,7 +145,7 @@ class bit_mask():
             print(f"DEBUG: mem: {self.mem}")
 
         # Print the solution
-        print("--------------------PART 1-----------------------")
+        print("--------------------PART 2-----------------------")
         print(f"Answer: {sum(self.mem.values())}")
 
 
